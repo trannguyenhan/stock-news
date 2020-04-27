@@ -46,7 +46,15 @@ public class BTL {
             nhom5_2.printResult(printWriter);
         }
         
-        // Dong file sau khi ket thuc in tat ca cac lenh
+        // Nhom 5-3
+        for(int i=0; i<rfHNXINDEX.totalRow; i++)
+        {
+            Nhom5_3 nhom5_3 = new Nhom5_3(rfVNINDEX.list[i], rfUPCOMINDEX.list[i], rfHNXINDEX.list[i]);
+            nhom5_3.printResult(printWriter);
+        }
+        
+        
+        // Dong file sau khi ket thuc in tat ca cac nhom
         printWriter.close();
         
     }
