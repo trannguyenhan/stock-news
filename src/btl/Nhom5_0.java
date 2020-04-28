@@ -12,18 +12,14 @@ import java.io.PrintWriter;
  *
  * @author admin
  */
-public class Nhom5_0 {
-    DSChiSo csVNINDEX;
-    DSChiSo csUPCOMINDEX;
-    DSChiSo csHNXINDEX;
+public class Nhom5_0 extends NhomChung{
     
     public Nhom5_0(DSChiSo chiso1, DSChiSo chiso2, DSChiSo chiso3)
     {
-        this.csVNINDEX = chiso1;
-        this.csUPCOMINDEX = chiso2;
-        this.csHNXINDEX = chiso3;
+        super(chiso1, chiso2, chiso3);
     }
     
+    @Override
     public void printResult(PrintWriter printWriter) throws FileNotFoundException
     {
         

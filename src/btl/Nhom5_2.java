@@ -11,16 +11,11 @@ import java.io.PrintWriter;
  *
  * @author admin
  */
-public class Nhom5_2 {
-    DSChiSo csVNINDEX;
-    DSChiSo csUPCOMINDEX;
-    DSChiSo csHNXINDEX;
+public class Nhom5_2 extends NhomChung{
     
     public Nhom5_2(DSChiSo chiso1, DSChiSo chiso2, DSChiSo chiso3)
     {
-        this.csVNINDEX = chiso1;
-        this.csUPCOMINDEX = chiso2;
-        this.csHNXINDEX = chiso3;
+        super(chiso1, chiso2, chiso3);
     }
     
     public void printResult(PrintWriter printWriter)
