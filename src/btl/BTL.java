@@ -13,7 +13,7 @@ import java.io.PrintWriter;
  * @author admin
  */
 public class BTL {
-    public static void main(String[] args) throws IOException {
+    public void BaiTapLon() throws IOException {
         ReadFile rfVNINDEX = new ReadFile();
         ReadFile rfUPCOMINDEX = new ReadFile();
         ReadFile rfHNXINDEX = new ReadFile();
@@ -54,7 +54,6 @@ public class BTL {
         }
         
         // Nhom 5-4
-        // Nhom 5-3
         for(int i=0; i<rfHNXINDEX.totalRow; i++)
         {
             Nhom5_4 nhom5_4 = new Nhom5_4(rfVNINDEX.list[i], rfUPCOMINDEX.list[i], rfHNXINDEX.list[i]);
