@@ -17,7 +17,7 @@ public class BTL {
         ReadFile rfVNINDEX = new ReadFile();
         ReadFile rfUPCOMINDEX = new ReadFile();
         ReadFile rfHNXINDEX = new ReadFile();
-        
+        System.out.println("HELLO")
         rfVNINDEX.readFileExcel("C:/Users/admin/Downloads/VN-INDEX-FILE.xlsx");
         rfUPCOMINDEX.readFileExcel("C:/Users/admin/Downloads/UPCOM-INDEX(1).xlsx");
         rfHNXINDEX.readFileExcel("C:/Users/admin/Downloads/HNX-INDEX(1).xlsx");

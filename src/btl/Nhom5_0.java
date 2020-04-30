@@ -1,9 +1,5 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-package btl;
+package BTL;
+
 
 import java.io.FileNotFoundException;
 import java.io.PrintWriter;
@@ -19,7 +15,6 @@ public class Nhom5_0 extends NhomChung{
         super(chiso1, chiso2, chiso3);
     }
     
-    @Override
     public void printResult(PrintWriter printWriter) throws FileNotFoundException
     {
         
@@ -31,28 +26,25 @@ public class Nhom5_0 extends NhomChung{
             printWriter.print("giảm " + csVNINDEX.getChange() + " xuống " + csVNINDEX.getFinalPrice() + " điểm; ");
         
         printWriter.print(" Trong khi UPCOM-INDEX");
-        
-        if(csUPCOMINDEX.getChange().charAt(0) == '-') 
-        {
-            printWriter.print(" giảm " + csUPCOMINDEX.getChange() + " còn " + csUPCOMINDEX.getFinalPrice() + " điểm, ");
-            
-            if(csHNXINDEX.getChange().charAt(0)  == '-')
-                printWriter.print("HNX-INDEX giảm " + csHNXINDEX.getChange() + " còn " + csHNXINDEX.getFinalPrice() + " điểm.");
-            else
+        if (this.csUPCOMINDEX.getChange().charAt(0) == '-') {
+            var10001 = this.csUPCOMINDEX.getChange();
+            printWriter.print(" giảm " + var10001 + " còn " + this.csUPCOMINDEX.getFinalPrice() + " điểm, ");
+            if (this.csHNXINDEX.getChange().charAt(0) == '-') {
+                var10001 = this.csHNXINDEX.getChange();
+                printWriter.print("HNX-INDEX giảm " + var10001 + " còn " + this.csHNXINDEX.getFinalPrice() + " điểm.");
+            } else {
                 printWriter.print(" HNX-INDEX tăng.");
-        }
-        else 
-        {
+            }
+        } else {
             printWriter.print(" tăng và ");
-            
-            if(csHNXINDEX.getChange().charAt(0)  == '-')
-                printWriter.print("HNX-INDEX giảm " + csHNXINDEX.getChange() + " còn " + csHNXINDEX.getFinalPrice() + " điểm.");
-            else
+            if (this.csHNXINDEX.getChange().charAt(0) == '-') {
+                var10001 = this.csHNXINDEX.getChange();
+                printWriter.print("HNX-INDEX giảm " + var10001 + " còn " + this.csHNXINDEX.getFinalPrice() + " điểm.");
+            } else {
                 printWriter.print(" HNX-INDEX tăng.");
+            }
         }
-        
-        printWriter.println(); // Het cau, xuong dong.
-        
-        return;
+
+        printWriter.println();
     }
 }
