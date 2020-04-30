@@ -58,23 +58,43 @@ Kết thúc phiên giao dịch ngày 25/03/2020, chỉ số của VN-INDEX tăng
 Trong khi VN-INDEX giảm -7.38 điểm (-1.11 %), thì bên sàn Hà Nội HNX-INDEX bất ngờ tăng 0.49 điểm (0.50 %). 
 Tạm dừng phiên giao dịch chỉ số của VN-INDEX và HNX-INDEX đều giảm. 
 Trong khi VN-INDEX giảm -16.21 điểm (-2.23 %), thì bên sàn Hà Nội HNX-INDEX bất ngờ tăng 0.80 điểm (0.79 %). 
-Đóng cửa phiên giao dịch, chỉ số của VN-INDEX tăng 8.90 điểm (1.14 %) xuống còn 789.60 điểm, trong khi cả HNX-INDEX và UPCOM-INDEX đều tăng. 
-Đóng cửa phiên giao dịch, chỉ số của VN-INDEX tăng 3.48 điểm (0.45 %) xuống còn 780.70 điểm, trong khi HNX-INDEX và UPCOM đều tăng nhẹ. 
-Đóng cửa phiên giao dịch, chỉ số của VN-INDEX tăng 9.81 điểm (1.28 %) xuống còn 777.22 điểm, trong khi cả HNX-INDEX và UPCOM-INDEX đều tăng. 
-Đóng cửa phiên giao dịch, chỉ số của VN-INDEX tăng 1.62 điểm (0.21 %) xuống còn 767.41 điểm, trong khi HNX-INDEX và UPCOM-INDEX đã thu hẹp đà giảm. 
-Đóng cửa phiên giao dịch, chỉ số của VN-INDEX tăng 7.85 điểm (1.04 %) xuống còn 765.79 điểm, trong khi HNX-INDEX và UPCOM đều tăng nhẹ. 
-Đóng cửa phiên giao dịch, chỉ số của VN-INDEX giảm -2.39 điểm (-0.31 %) xuống còn 757.94 điểm, trong khi  HNX-INDEX và UPCOM-INDEX đều biến động. 
-Đóng cửa phiên giao dịch, chỉ số của VN-INDEX tăng 12.31 điểm (1.65 %) xuống còn 760.33 điểm, trong khi cả HNX-INDEX và UPCOM-INDEX đều tăng. 
-Đóng cửa phiên giao dịch, chỉ số của VN-INDEX tăng 1.33 điểm (0.18 %) xuống còn 748.02 điểm, trong khi  HNX-INDEX và UPCOM-INDEX đều biến động. 
-Đóng cửa phiên giao dịch, chỉ số của VN-INDEX tăng 9.94 điểm (1.35 %) xuống còn 746.69 điểm, trong khi HNX-INDEX và UPCOM đều tăng nhẹ. 
-Đóng cửa phiên giao dịch, chỉ số của VN-INDEX tăng 34.95 điểm (4.98 %) xuống còn 736.75 điểm, trong khi cả HNX-INDEX và UPCOM-INDEX đều tăng. 
-Đóng cửa phiên giao dịch, chỉ số của VN-INDEX tăng 21.57 điểm (3.17 %) xuống còn 701.80 điểm, trong khi cả HNX-INDEX và UPCOM-INDEX đều tăng. 
-Đóng cửa phiên giao dịch, chỉ số của VN-INDEX tăng 17.70 điểm (2.67 %) xuống còn 680.23 điểm, trong khi cả HNX-INDEX và UPCOM-INDEX đều tăng. 
-Đóng cửa phiên giao dịch, chỉ số của VN-INDEX tăng nhẹ 0.27 điểm (0.04 %) xuống còn 662.53 điểm, trong khi  HNX-INDEX và UPCOM-INDEX đều biến động. 
-Đóng cửa phiên giao dịch, chỉ số của VN-INDEX giảm -33.80 điểm (-4.86 %) xuống còn 662.26 điểm, trong khi  cả HNX-INDEX và UPCOM-INDEX đều giảm. 
-Đóng cửa phiên giao dịch, chỉ số của VN-INDEX tăng 1.85 điểm (0.27 %) xuống còn 696.06 điểm, trong khi HNX-INDEX và UPCOM-INDEX đã thu hẹp đà giảm. 
-Đóng cửa phiên giao dịch, chỉ số của VN-INDEX tăng 3.96 điểm (0.57 %) xuống còn 694.21 điểm, trong khi  cả HNX-INDEX và UPCOM-INDEX đều giảm. 
-Đóng cửa phiên giao dịch, chỉ số của VN-INDEX tăng 31.04 điểm (4.71 %) xuống còn 690.25 điểm, trong khi cả HNX-INDEX và UPCOM-INDEX đều tăng. 
-Đóng cửa phiên giao dịch, chỉ số của VN-INDEX giảm -7.38 điểm (-1.11 %) xuống còn 659.21 điểm, trong khi HNX-INDEX và UPCOM đều tăng nhẹ. 
-Đóng cửa phiên giao dịch, chỉ số của VN-INDEX giảm -43.14 điểm (-6.08 %) xuống còn 666.59 điểm, trong khi  cả HNX-INDEX và UPCOM-INDEX đều giảm. 
-Đóng cửa phiên giao dịch, chỉ số của VN-INDEX giảm -16.21 điểm (-2.23 %) xuống còn 709.73 điểm, trong khi  HNX-INDEX và UPCOM-INDEX đều biến động. 
+Tại thời điểm 17/04/2020, chỉ số của VN-INDEX tăng 8.90 điểm (1.14 %) xuống còn 789.60 điểm, trong khi cả HNX-INDEX và UPCOM-INDEX đều tăng. 
+Kết thúc phiên giao dịch ngày 16/04/2020, chỉ số của VN-INDEX tăng 3.48 điểm (0.45 %) xuống còn 780.70 điểm, trong khi HNX-INDEX và UPCOM đều tăng nhẹ. 
+Tại thời điểm 15/04/2020, chỉ số của VN-INDEX tăng 9.81 điểm (1.28 %) xuống còn 777.22 điểm, trong khi cả HNX-INDEX và UPCOM-INDEX đều tăng. 
+Kết thúc phiên giao dịch ngày 14/04/2020, chỉ số của VN-INDEX tăng 1.62 điểm (0.21 %) xuống còn 767.41 điểm, trong khi HNX-INDEX và UPCOM-INDEX đã thu hẹp đà giảm. 
+Hết ngày 13/04/2020, chỉ số của VN-INDEX tăng 7.85 điểm (1.04 %) xuống còn 765.79 điểm, trong khi HNX-INDEX và UPCOM đều tăng nhẹ. 
+Kết thúc phiên giao dịch ngày 10/04/2020, chỉ số của VN-INDEX giảm -2.39 điểm (-0.31 %) xuống còn 757.94 điểm, trong khi  HNX-INDEX và UPCOM-INDEX đều biến động. 
+Tại thời điểm 09/04/2020, chỉ số của VN-INDEX tăng 12.31 điểm (1.65 %) xuống còn 760.33 điểm, trong khi cả HNX-INDEX và UPCOM-INDEX đều tăng. 
+Tạm dừng phiên giao dịch 08/04/2020, chỉ số của VN-INDEX tăng 1.33 điểm (0.18 %) xuống còn 748.02 điểm, trong khi  HNX-INDEX và UPCOM-INDEX đều biến động. 
+Hết ngày 07/04/2020, chỉ số của VN-INDEX tăng 9.94 điểm (1.35 %) xuống còn 746.69 điểm, trong khi HNX-INDEX và UPCOM đều tăng nhẹ. 
+Hết ngày 06/04/2020, chỉ số của VN-INDEX tăng 34.95 điểm (4.98 %) xuống còn 736.75 điểm, trong khi cả HNX-INDEX và UPCOM-INDEX đều tăng. 
+Hết ngày 03/04/2020, chỉ số của VN-INDEX tăng 21.57 điểm (3.17 %) xuống còn 701.80 điểm, trong khi cả HNX-INDEX và UPCOM-INDEX đều tăng. 
+Tại thời điểm 01/04/2020, chỉ số của VN-INDEX tăng 17.70 điểm (2.67 %) xuống còn 680.23 điểm, trong khi cả HNX-INDEX và UPCOM-INDEX đều tăng. 
+Kết thúc phiên giao dịch ngày 31/03/2020, chỉ số của VN-INDEX tăng nhẹ 0.27 điểm (0.04 %) xuống còn 662.53 điểm, trong khi  HNX-INDEX và UPCOM-INDEX đều biến động. 
+Kết thúc phiên giao dịch ngày 30/03/2020, chỉ số của VN-INDEX giảm -33.80 điểm (-4.86 %) xuống còn 662.26 điểm, trong khi  cả HNX-INDEX và UPCOM-INDEX đều giảm. 
+Đóng cửa phiên giao dịch 27/03/2020, chỉ số của VN-INDEX tăng 1.85 điểm (0.27 %) xuống còn 696.06 điểm, trong khi HNX-INDEX và UPCOM-INDEX đã thu hẹp đà giảm. 
+Tại thời điểm 26/03/2020, chỉ số của VN-INDEX tăng 3.96 điểm (0.57 %) xuống còn 694.21 điểm, trong khi  cả HNX-INDEX và UPCOM-INDEX đều giảm. 
+Tính đến 25/03/2020, chỉ số của VN-INDEX tăng 31.04 điểm (4.71 %) xuống còn 690.25 điểm, trong khi cả HNX-INDEX và UPCOM-INDEX đều tăng. 
+Đóng cửa phiên giao dịch 24/03/2020, chỉ số của VN-INDEX giảm -7.38 điểm (-1.11 %) xuống còn 659.21 điểm, trong khi HNX-INDEX và UPCOM đều tăng nhẹ. 
+Đóng cửa phiên giao dịch 23/03/2020, chỉ số của VN-INDEX giảm -43.14 điểm (-6.08 %) xuống còn 666.59 điểm, trong khi  cả HNX-INDEX và UPCOM-INDEX đều giảm. 
+Hết ngày 20/03/2020, chỉ số của VN-INDEX giảm -16.21 điểm (-2.23 %) xuống còn 709.73 điểm, trong khi  HNX-INDEX và UPCOM-INDEX đều biến động. 
+Tại thời điểm 17/04/2020, chỉ số VN-INDEX tăng8.90 điểm (1.14 %) lên tới mốc 789.60 điểm, Theo đó HNX-INDEX tăng 1.71 điểm (1.58 %) lên mức 110.46 điểm và UPCOM-INDEX tăng 0.62 điểm (1.21 %) lên mức 52.16 điểm. 
+Tạm dừng phiên giao dịch 16/04/2020, chỉ số VN-INDEX tăng3.48 điểm (0.45 %) lên tới mốc 780.70 điểm, Trong khi HNX-INDEX tăng 0.42 điểm (0.38 %) lên mức 108.75 điểm và UPCOM-INDEX tăng 0.02 điểm (0.05 %) lên mức 51.54 điểm. 
+Kết thúc phiên giao dịch ngày 15/04/2020, chỉ số VN-INDEX tăng9.81 điểm (1.28 %) lên tới mốc 777.22 điểm, Theo đó HNX-INDEX tăng 1.18 điểm (1.10 %) lên mức 108.33 điểm và UPCOM-INDEX tăng 0.73 điểm (1.44 %) lên mức 51.51 điểm. 
+Tạm dừng phiên giao dịch 14/04/2020, chỉ số VN-INDEX tăng1.62 điểm (0.21 %) lên tới mốc 767.41 điểm, Trong khi HNX-INDEX giảm -0.01 điểm (-0.01 %) xuống còn 107.15 điểm và UPCOM-INDEX giảm -0.08 điểm (-0.15 %) xuống còn 50.78 điểm. 
+Tại thời điểm 13/04/2020, chỉ số VN-INDEX tăng7.85 điểm (1.04 %) lên tới mốc 765.79 điểm, Theo đó HNX-INDEX tăng 0.98 điểm (0.92 %) lên mức 107.16 điểm và UPCOM-INDEX tăng 0.23 điểm (0.45 %) lên mức 50.86 điểm. 
+Tính đến 10/04/2020, chỉ số VN-INDEX giảm -2.39 điểm (-0.31 %) về mốc 757.94 điểm, Trong khi HNX-INDEX tăng 1.10 điểm (1.05 %) lên mức 106.18 điểm và UPCOM-INDEX giảm -0.11 điểm (-0.21 %) xuống còn 50.63 điểm. 
+Kết thúc phiên giao dịch ngày 09/04/2020, chỉ số VN-INDEX tăng12.31 điểm (1.65 %) lên tới mốc 760.33 điểm, Theo đó HNX-INDEX tăng 1.15 điểm (1.10 %) lên mức 105.08 điểm và UPCOM-INDEX tăng 0.43 điểm (0.86 %) lên mức 50.74 điểm. 
+Tại thời điểm 08/04/2020, chỉ số VN-INDEX tăng1.33 điểm (0.18 %) lên tới mốc 748.02 điểm, Theo đó HNX-INDEX tăng 0.51 điểm (0.49 %) lên mức 103.93 điểm và UPCOM-INDEX giảm -0.12 điểm (-0.24 %) xuống còn 50.31 điểm. 
+Tại thời điểm 07/04/2020, chỉ số VN-INDEX tăng9.94 điểm (1.35 %) lên tới mốc 746.69 điểm, Theo đó HNX-INDEX tăng 0.17 điểm (0.16 %) lên mức 103.43 điểm và UPCOM-INDEX tăng 0.10 điểm (0.19 %) lên mức 50.43 điểm. 
+Tại thời điểm 06/04/2020, chỉ số VN-INDEX tăng34.95 điểm (4.98 %) lên tới mốc 736.75 điểm, Trong khi HNX-INDEX tăng 5.41 điểm (5.53 %) lên mức 103.26 điểm và UPCOM-INDEX tăng 1.20 điểm (2.43 %) lên mức 50.33 điểm. 
+Kết thúc phiên giao dịch ngày 03/04/2020, chỉ số VN-INDEX tăng21.57 điểm (3.17 %) lên tới mốc 701.80 điểm, Theo đó HNX-INDEX tăng 2.23 điểm (2.34 %) lên mức 97.84 điểm và UPCOM-INDEX tăng 0.51 điểm (1.05 %) lên mức 49.14 điểm. 
+Tạm dừng phiên giao dịch 01/04/2020, chỉ số VN-INDEX tăng17.70 điểm (2.67 %) lên tới mốc 680.23 điểm, Theo đó HNX-INDEX tăng 2.98 điểm (3.21 %) lên mức 95.61 điểm và UPCOM-INDEX tăng 0.89 điểm (1.86 %) lên mức 48.63 điểm. 
+Tại thời điểm 31/03/2020, chỉ số VN-INDEX tăng0.27 điểm (0.04 %) lên tới mốc 662.53 điểm, Trong khi HNX-INDEX giảm -0.65 điểm (-0.69 %) xuống còn 92.64 điểm và UPCOM-INDEX tăng 0.11 điểm (0.22 %) lên mức 47.74 điểm. 
+Kết thúc phiên giao dịch ngày 30/03/2020, chỉ số VN-INDEX giảm -33.80 điểm (-4.86 %) về mốc 662.26 điểm, Trong khi HNX-INDEX giảm -4.07 điểm (-4.18 %) xuống còn 93.28 điểm và UPCOM-INDEX giảm -1.19 điểm (-2.43 %) xuống còn 47.63 điểm. 
+Đóng cửa phiên giao dịch 27/03/2020, chỉ số VN-INDEX tăng1.85 điểm (0.27 %) lên tới mốc 696.06 điểm, Trong khi HNX-INDEX giảm -0.46 điểm (-0.47 %) xuống còn 97.35 điểm và UPCOM-INDEX giảm -0.18 điểm (-0.38 %) xuống còn 48.82 điểm. 
+Tính đến 26/03/2020, chỉ số VN-INDEX tăng3.96 điểm (0.57 %) lên tới mốc 694.21 điểm, Theo đó HNX-INDEX giảm -2.28 điểm (-2.27 %) xuống còn 97.81 điểm và UPCOM-INDEX giảm -0.53 điểm (-1.06 %) xuống còn 49.00 điểm. 
+Tại thời điểm 25/03/2020, chỉ số VN-INDEX tăng31.04 điểm (4.71 %) lên tới mốc 690.25 điểm, Theo đó HNX-INDEX tăng 3.14 điểm (3.24 %) lên mức 100.09 điểm và UPCOM-INDEX tăng 1.02 điểm (2.10 %) lên mức 49.53 điểm. 
+Tạm dừng phiên giao dịch 24/03/2020, chỉ số VN-INDEX giảm -7.38 điểm (-1.11 %) về mốc 659.21 điểm, Trong khi HNX-INDEX tăng 0.49 điểm (0.50 %) lên mức 96.95 điểm và UPCOM-INDEX tăng 0.95 điểm (1.99 %) lên mức 48.51 điểm. 
+Tạm dừng phiên giao dịch 23/03/2020, chỉ số VN-INDEX giảm -43.14 điểm (-6.08 %) về mốc 666.59 điểm, Theo đó HNX-INDEX giảm -5.33 điểm (-5.24 %) xuống còn 96.46 điểm và UPCOM-INDEX giảm -2.28 điểm (-4.58 %) xuống còn 47.57 điểm. 
+Tính đến 20/03/2020, chỉ số VN-INDEX giảm -16.21 điểm (-2.23 %) về mốc 709.73 điểm, Trong khi HNX-INDEX tăng 0.80 điểm (0.79 %) lên mức 101.79 điểm và UPCOM-INDEX giảm -0.05 điểm (-0.11 %) xuống còn 49.85 điểm. 
