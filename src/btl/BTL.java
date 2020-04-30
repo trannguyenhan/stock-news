@@ -17,7 +17,7 @@ public class BTL {
         ReadFile rfVNINDEX = new ReadFile();
         ReadFile rfUPCOMINDEX = new ReadFile();
         ReadFile rfHNXINDEX = new ReadFile();
-        System.out.println("HELLO")
+        
         rfVNINDEX.readFileExcel("C:/Users/admin/Downloads/VN-INDEX-FILE.xlsx");
         rfUPCOMINDEX.readFileExcel("C:/Users/admin/Downloads/UPCOM-INDEX(1).xlsx");
         rfHNXINDEX.readFileExcel("C:/Users/admin/Downloads/HNX-INDEX(1).xlsx");
@@ -53,12 +53,6 @@ public class BTL {
             nhom5_3.printResult(printWriter);
         }
         
-        // Nhom 5-4
-        for(int i=0; i<rfHNXINDEX.totalRow; i++)
-        {
-            Nhom5_4 nhom5_4 = new Nhom5_4(rfVNINDEX.list[i], rfUPCOMINDEX.list[i], rfHNXINDEX.list[i]);
-            nhom5_4.printResult(printWriter);
-        }
         
         // Dong file sau khi ket thuc in tat ca cac nhom
         printWriter.close();

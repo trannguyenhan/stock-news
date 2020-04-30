@@ -21,8 +21,7 @@ public class Nhom5_3 extends NhomChung{
     
     public void printResult(PrintWriter printWriter)
     {
-        RandomClass rand = new RandomClass();
-        printWriter.print(rand.getRandomString1() + " " + csVNINDEX.getDate() + ", ");
+        printWriter.print("Đóng cửa phiên giao dịch, ");
         if(csVNINDEX.getChange().charAt(0) == '-')
         {
             if(csVNINDEX.getChange().charAt(1) == '0') 
