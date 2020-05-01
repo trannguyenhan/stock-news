@@ -8,15 +8,18 @@ package btl;
 import java.io.IOException;
 import java.util.logging.Level;
 import java.util.logging.Logger;
+import javax.swing.JFileChooser;
 import javax.swing.JOptionPane;
 import javax.swing.JPanel;
+import javax.swing.filechooser.FileNameExtensionFilter;
+import java.io.File;
 
 /**
  *
  * @author admin
  */
 public class GiaoDienPhanMem extends javax.swing.JFrame {
-    static int countFileChoose = 0;
+    String pathVNINDEX, pathHNXINDEX, pathUPCOMINDEX;
             
     /**
      * Creates new form NewJFrame
@@ -40,6 +43,12 @@ public class GiaoDienPhanMem extends javax.swing.JFrame {
         tieuDeLabel = new javax.swing.JLabel();
         inTTCKButton = new javax.swing.JButton();
         layThongTinTuWebsite = new javax.swing.JButton();
+        vnindexButton = new javax.swing.JButton();
+        hnxindexButton = new javax.swing.JButton();
+        upcomindexButton = new javax.swing.JButton();
+        vnindexLabel = new javax.swing.JLabel();
+        hnxindexLabel = new javax.swing.JLabel();
+        upcomindexLabel = new javax.swing.JLabel();
 
         jButton1.setText("jButton1");
 
@@ -82,33 +91,80 @@ public class GiaoDienPhanMem extends javax.swing.JFrame {
             }
         });
 
+        vnindexButton.setText("Chọn file VN-INDEX");
+        vnindexButton.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                vnindexButtonActionPerformed(evt);
+            }
+        });
+
+        hnxindexButton.setText("Chọn file HNX-INDEX");
+        hnxindexButton.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                hnxindexButtonActionPerformed(evt);
+            }
+        });
+
+        upcomindexButton.setText("Chọn file UPCOM-INDEX");
+        upcomindexButton.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                upcomindexButtonActionPerformed(evt);
+            }
+        });
+
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);
         layout.setHorizontalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, layout.createSequentialGroup()
+                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.TRAILING)
+                    .addComponent(thongTinNhomButton, javax.swing.GroupLayout.Alignment.LEADING, javax.swing.GroupLayout.PREFERRED_SIZE, 201, javax.swing.GroupLayout.PREFERRED_SIZE)
+                    .addComponent(layThongTinTuWebsite, javax.swing.GroupLayout.Alignment.LEADING, javax.swing.GroupLayout.PREFERRED_SIZE, 201, javax.swing.GroupLayout.PREFERRED_SIZE)
+                    .addGroup(javax.swing.GroupLayout.Alignment.LEADING, layout.createSequentialGroup()
+                        .addGap(107, 107, 107)
+                        .addComponent(tieuDeLabel, javax.swing.GroupLayout.PREFERRED_SIZE, 414, javax.swing.GroupLayout.PREFERRED_SIZE)))
+                .addGap(30, 145, Short.MAX_VALUE))
+            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, layout.createSequentialGroup()
                 .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-                .addComponent(thongTinNhomButton, javax.swing.GroupLayout.PREFERRED_SIZE, 122, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addGap(93, 93, 93)
-                .addComponent(inTTCKButton, javax.swing.GroupLayout.PREFERRED_SIZE, 152, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addGap(63, 63, 63)
-                .addComponent(layThongTinTuWebsite, javax.swing.GroupLayout.PREFERRED_SIZE, 201, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addGap(25, 25, 25))
-            .addGroup(layout.createSequentialGroup()
-                .addGap(107, 107, 107)
-                .addComponent(tieuDeLabel, javax.swing.GroupLayout.PREFERRED_SIZE, 414, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
+                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                    .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, layout.createSequentialGroup()
+                        .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.TRAILING, false)
+                            .addComponent(vnindexLabel, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                            .addComponent(hnxindexLabel, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                            .addComponent(upcomindexLabel, javax.swing.GroupLayout.DEFAULT_SIZE, 207, Short.MAX_VALUE))
+                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
+                        .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.TRAILING, false)
+                            .addComponent(hnxindexButton, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                            .addComponent(upcomindexButton, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                            .addComponent(vnindexButton, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
+                        .addGap(42, 42, 42))
+                    .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, layout.createSequentialGroup()
+                        .addComponent(inTTCKButton, javax.swing.GroupLayout.PREFERRED_SIZE, 152, javax.swing.GroupLayout.PREFERRED_SIZE)
+                        .addGap(156, 156, 156))))
         );
         layout.setVerticalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(layout.createSequentialGroup()
                 .addComponent(tieuDeLabel, javax.swing.GroupLayout.PREFERRED_SIZE, 33, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addGap(49, 49, 49)
+                .addComponent(thongTinNhomButton)
+                .addGap(18, 18, 18)
+                .addComponent(layThongTinTuWebsite)
+                .addGap(43, 43, 43)
+                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                    .addComponent(vnindexButton)
+                    .addComponent(vnindexLabel, javax.swing.GroupLayout.PREFERRED_SIZE, 23, javax.swing.GroupLayout.PREFERRED_SIZE))
+                .addGap(18, 18, 18)
+                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING, false)
+                    .addComponent(hnxindexLabel, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                    .addComponent(hnxindexButton, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
                 .addGap(18, 18, 18)
                 .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
-                    .addComponent(thongTinNhomButton)
-                    .addComponent(inTTCKButton)
-                    .addComponent(layThongTinTuWebsite))
-                .addContainerGap(320, Short.MAX_VALUE))
+                    .addComponent(upcomindexButton)
+                    .addComponent(upcomindexLabel, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 67, Short.MAX_VALUE)
+                .addComponent(inTTCKButton)
+                .addGap(50, 50, 50))
         );
 
         pack();
@@ -126,7 +182,7 @@ public class GiaoDienPhanMem extends javax.swing.JFrame {
     private void inTTCKButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_inTTCKButtonActionPerformed
         BTL baitaplon = new BTL();
         try {
-            baitaplon.BaiTapLon();
+            baitaplon.BaiTapLon(pathVNINDEX,pathUPCOMINDEX,pathHNXINDEX);
             // TODO add your handling code here:
         } catch (IOException ex) {
             Logger.getLogger(GiaoDienPhanMem.class.getName()).log(Level.SEVERE, null, ex);
@@ -136,8 +192,59 @@ public class GiaoDienPhanMem extends javax.swing.JFrame {
     }//GEN-LAST:event_inTTCKButtonActionPerformed
 
     private void layThongTinTuWebsiteActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_layThongTinTuWebsiteActionPerformed
+        JOptionPane.showMessageDialog(rootPane, "LỖI ! Chưa lấy được thông tin từ website !");
         // TODO add your handling code here:
     }//GEN-LAST:event_layThongTinTuWebsiteActionPerformed
+
+    private void vnindexButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_vnindexButtonActionPerformed
+        // TODO add your handling code here:
+        JFileChooser fileChooser = new JFileChooser();
+        FileNameExtensionFilter excelFilter = new FileNameExtensionFilter("Excel", "xlsx");
+        fileChooser.setFileFilter(excelFilter);
+        fileChooser.setMultiSelectionEnabled(false);
+        
+        int x = fileChooser.showDialog(this, "select file");
+        if(x == JFileChooser.APPROVE_OPTION)
+        {
+            File f = fileChooser.getSelectedFile();
+            vnindexLabel.setText(f.getAbsolutePath());
+            pathVNINDEX = f.getAbsolutePath();
+        }
+            
+            
+    }//GEN-LAST:event_vnindexButtonActionPerformed
+
+    private void hnxindexButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_hnxindexButtonActionPerformed
+        // TODO add your handling code here:
+        JFileChooser fileChooser = new JFileChooser();
+        FileNameExtensionFilter excelFilter = new FileNameExtensionFilter("Excel", "xlsx");
+        fileChooser.setFileFilter(excelFilter);
+        fileChooser.setMultiSelectionEnabled(false);
+        
+        int x = fileChooser.showDialog(this, "select file");
+        if(x == JFileChooser.APPROVE_OPTION)
+        {
+            File f = fileChooser.getSelectedFile();
+            hnxindexLabel.setText(f.getAbsolutePath());
+            pathHNXINDEX = f.getAbsolutePath();
+        }
+    }//GEN-LAST:event_hnxindexButtonActionPerformed
+
+    private void upcomindexButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_upcomindexButtonActionPerformed
+        // TODO add your handling code here:
+        JFileChooser fileChooser = new JFileChooser();
+        FileNameExtensionFilter excelFilter = new FileNameExtensionFilter("Excel", "xlsx");
+        fileChooser.setFileFilter(excelFilter);
+        fileChooser.setMultiSelectionEnabled(false);
+        
+        int x = fileChooser.showDialog(this, "select file");
+        if(x == JFileChooser.APPROVE_OPTION)
+        {
+            File f = fileChooser.getSelectedFile();
+            upcomindexLabel.setText(f.getAbsolutePath());
+            pathUPCOMINDEX = f.getAbsolutePath();
+        }
+    }//GEN-LAST:event_upcomindexButtonActionPerformed
 
     /**
      * @param args the command line arguments
@@ -176,11 +283,17 @@ public class GiaoDienPhanMem extends javax.swing.JFrame {
     }
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
+    private javax.swing.JButton hnxindexButton;
+    private javax.swing.JLabel hnxindexLabel;
     private javax.swing.JButton inTTCKButton;
     private javax.swing.JButton jButton1;
     private javax.swing.JFileChooser jFileChooser1;
     private javax.swing.JButton layThongTinTuWebsite;
     private javax.swing.JButton thongTinNhomButton;
     private javax.swing.JLabel tieuDeLabel;
+    private javax.swing.JButton upcomindexButton;
+    private javax.swing.JLabel upcomindexLabel;
+    private javax.swing.JButton vnindexButton;
+    private javax.swing.JLabel vnindexLabel;
     // End of variables declaration//GEN-END:variables
 }

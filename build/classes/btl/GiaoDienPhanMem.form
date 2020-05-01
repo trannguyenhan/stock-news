@@ -33,18 +33,38 @@
     <DimensionLayout dim="0">
       <Group type="103" groupAlignment="0" attributes="0">
           <Group type="102" alignment="1" attributes="0">
-              <EmptySpace max="32767" attributes="0"/>
-              <Component id="thongTinNhomButton" min="-2" pref="122" max="-2" attributes="0"/>
-              <EmptySpace min="-2" pref="93" max="-2" attributes="0"/>
-              <Component id="inTTCKButton" min="-2" pref="152" max="-2" attributes="0"/>
-              <EmptySpace min="-2" pref="63" max="-2" attributes="0"/>
-              <Component id="layThongTinTuWebsite" min="-2" pref="201" max="-2" attributes="0"/>
-              <EmptySpace min="-2" pref="25" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="1" attributes="0">
+                  <Component id="thongTinNhomButton" alignment="0" min="-2" pref="201" max="-2" attributes="0"/>
+                  <Component id="layThongTinTuWebsite" alignment="0" min="-2" pref="201" max="-2" attributes="0"/>
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="107" max="-2" attributes="0"/>
+                      <Component id="tieuDeLabel" min="-2" pref="414" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <EmptySpace min="30" pref="145" max="32767" attributes="0"/>
           </Group>
-          <Group type="102" alignment="0" attributes="0">
-              <EmptySpace min="-2" pref="107" max="-2" attributes="0"/>
-              <Component id="tieuDeLabel" min="-2" pref="414" max="-2" attributes="0"/>
+          <Group type="102" alignment="1" attributes="0">
               <EmptySpace max="32767" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="1" attributes="0">
+                      <Group type="103" groupAlignment="1" max="-2" attributes="0">
+                          <Component id="vnindexLabel" max="32767" attributes="0"/>
+                          <Component id="hnxindexLabel" max="32767" attributes="0"/>
+                          <Component id="upcomindexLabel" pref="207" max="32767" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="1" max="-2" attributes="0">
+                          <Component id="hnxindexButton" max="32767" attributes="0"/>
+                          <Component id="upcomindexButton" max="32767" attributes="0"/>
+                          <Component id="vnindexButton" alignment="1" max="32767" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="42" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="1" attributes="0">
+                      <Component id="inTTCKButton" min="-2" pref="152" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="156" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
           </Group>
       </Group>
     </DimensionLayout>
@@ -52,13 +72,28 @@
       <Group type="103" groupAlignment="0" attributes="0">
           <Group type="102" alignment="0" attributes="0">
               <Component id="tieuDeLabel" min="-2" pref="33" max="-2" attributes="0"/>
+              <EmptySpace min="-2" pref="49" max="-2" attributes="0"/>
+              <Component id="thongTinNhomButton" min="-2" max="-2" attributes="0"/>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Component id="layThongTinTuWebsite" min="-2" max="-2" attributes="0"/>
+              <EmptySpace min="-2" pref="43" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="vnindexButton" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="vnindexLabel" alignment="3" min="-2" pref="23" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                  <Component id="hnxindexLabel" max="32767" attributes="0"/>
+                  <Component id="hnxindexButton" max="32767" attributes="0"/>
+              </Group>
               <EmptySpace type="separate" max="-2" attributes="0"/>
               <Group type="103" groupAlignment="3" attributes="0">
-                  <Component id="thongTinNhomButton" alignment="3" min="-2" max="-2" attributes="0"/>
-                  <Component id="inTTCKButton" alignment="3" min="-2" max="-2" attributes="0"/>
-                  <Component id="layThongTinTuWebsite" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="upcomindexButton" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="upcomindexLabel" alignment="3" max="32767" attributes="0"/>
               </Group>
-              <EmptySpace pref="320" max="32767" attributes="0"/>
+              <EmptySpace pref="67" max="32767" attributes="0"/>
+              <Component id="inTTCKButton" min="-2" max="-2" attributes="0"/>
+              <EmptySpace min="-2" pref="50" max="-2" attributes="0"/>
           </Group>
       </Group>
     </DimensionLayout>
@@ -104,6 +139,36 @@
       <Events>
         <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="layThongTinTuWebsiteActionPerformed"/>
       </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="vnindexButton">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Ch&#x1ecd;n file VN-INDEX"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="vnindexButtonActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="hnxindexButton">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Ch&#x1ecd;n file HNX-INDEX"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="hnxindexButtonActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="upcomindexButton">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Ch&#x1ecd;n file UPCOM-INDEX"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="upcomindexButtonActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="vnindexLabel">
+    </Component>
+    <Component class="javax.swing.JLabel" name="hnxindexLabel">
+    </Component>
+    <Component class="javax.swing.JLabel" name="upcomindexLabel">
     </Component>
   </SubComponents>
 </Form>

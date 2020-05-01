@@ -13,15 +13,18 @@ import java.io.PrintWriter;
  * @author admin
  */
 public class BTL {
-    public void BaiTapLon() throws IOException {
+    public void BaiTapLon(String value0String, String value1String, String value2String) throws IOException {
         ReadFile rfVNINDEX = new ReadFile();
         ReadFile rfUPCOMINDEX = new ReadFile();
         ReadFile rfHNXINDEX = new ReadFile();
         
-        rfVNINDEX.readFileExcel("C:/Users/admin/Downloads/VN-INDEX-FILE.xlsx");
-        rfUPCOMINDEX.readFileExcel("C:/Users/admin/Downloads/UPCOM-INDEX(1).xlsx");
-        rfHNXINDEX.readFileExcel("C:/Users/admin/Downloads/HNX-INDEX(1).xlsx");
-
+//        rfVNINDEX.readFileExcel("C:/Users/admin/Downloads/VN-INDEX-FILE.xlsx");
+//        rfUPCOMINDEX.readFileExcel("C:/Users/admin/Downloads/UPCOM-INDEX(1).xlsx");
+//        rfHNXINDEX.readFileExcel("C:/Users/admin/Downloads/HNX-INDEX(1).xlsx");
+        rfVNINDEX.readFileExcel(value0String);
+        rfUPCOMINDEX.readFileExcel(value1String);
+        rfHNXINDEX.readFileExcel(value2String);
+        
         // File dau ra 
         PrintWriter printWriter = new PrintWriter("ketqua.txt");
         
