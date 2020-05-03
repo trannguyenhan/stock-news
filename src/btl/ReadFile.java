@@ -3,24 +3,15 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package btl;
+package BTL;
 
-import java.io.File;
-import java.io.FileInputStream;
-import java.io.FileNotFoundException;
-import java.io.IOException;
-import java.util.Date;
-import org.apache.poi.sl.usermodel.Sheet;
-import org.apache.poi.ss.formula.functions.Column;
-import org.apache.poi.ss.usermodel.Cell;
-import org.apache.poi.ss.usermodel.Row;
-import org.apache.poi.xssf.usermodel.XSSFWorkbook;
-import org.apache.poi.xssf.*;
 import org.apache.poi.xssf.usermodel.XSSFCell;
 import org.apache.poi.xssf.usermodel.XSSFRow;
 import org.apache.poi.xssf.usermodel.XSSFSheet;
+import org.apache.poi.xssf.usermodel.XSSFWorkbook;
+
+import java.io.IOException;
 import java.text.SimpleDateFormat;
-import java.util.Date;
 
 /**
  *
@@ -106,5 +97,33 @@ public class ReadFile {
         }
         
         return;
-    }   
+    }
+
+    public int[] readColumnsExcel(String path) throws IOException{
+        int increment_value = 0;
+        int decrease_value = 0;
+        int none_value = 0;
+        XSSFWorkbook wb = new XSSFWorkbook(path);
+        XSSFSheet sh = wb.getSheetAt(0); // Lay sheet dau tien
+
+        XSSFRow row = sh.getRow(1);
+        XSSFCell cell;
+        while (row != null){
+            cell = row.getCell(3);
+            if(cell == null) break;
+            String change_value = getCellValue(cell);
+            if (change_value.startsWith("0.00")){
+                none_value += 1;
+            }else if (change_value.startsWith("-")){
+                decrease_value += 1;
+            }
+            else{
+                increment_value += 1;
+            }
+            totalRow++;
+            row = sh.getRow(totalRow+1);
+        }
+
+        return new int[] {increment_value,decrease_value,none_value};
+    }
 }
