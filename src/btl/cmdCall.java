@@ -3,10 +3,10 @@ import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
 public class cmdCall {
-    public static void main(String[] args){
+    public void pythonCall(){
         try{
 
-            String command = "python3 /home/viethoang/web_crawler/selenium/stock_news_crawler.py";
+            String command = "python3 /home/viethoang/petproject/web_crawler/selenium/stock_news_crawler.py";
 
             Process proc = Runtime.getRuntime().exec(command);
 
