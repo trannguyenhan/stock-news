@@ -5,6 +5,7 @@
  */
 package btl;
 
+import hotro.*;
 import java.io.IOException;
 import java.io.PrintWriter;
 
@@ -12,18 +13,19 @@ import java.io.PrintWriter;
  *
  * @author admin
  */
+//String value0String, String value1String, String value2String
 public class BTL {
-    public void BaiTapLon(String value0String, String value1String, String value2String) throws IOException {
+    public void BaiTapLon(String valueString) throws IOException {
         ReadFile rfVNINDEX = new ReadFile();
         ReadFile rfUPCOMINDEX = new ReadFile();
         ReadFile rfHNXINDEX = new ReadFile();
         
-//        rfVNINDEX.readFileExcel("C:/Users/admin/Downloads/VN-INDEX-FILE.xlsx");
-//        rfUPCOMINDEX.readFileExcel("C:/Users/admin/Downloads/UPCOM-INDEX(1).xlsx");
-//        rfHNXINDEX.readFileExcel("C:/Users/admin/Downloads/HNX-INDEX(1).xlsx");
-        rfVNINDEX.readFileExcel(value0String);
-        rfUPCOMINDEX.readFileExcel(value1String);
-        rfHNXINDEX.readFileExcel(value2String);
+        rfVNINDEX.readFileExcel(valueString,0);
+        rfUPCOMINDEX.readFileExcel(valueString,1);
+        rfHNXINDEX.readFileExcel(valueString,2);
+//        rfVNINDEX.readFileExcel(value0String);
+//        rfUPCOMINDEX.readFileExcel(value1String);
+//        rfHNXINDEX.readFileExcel(value2String);
         
         // File dau ra 
         PrintWriter printWriter = new PrintWriter("ketqua.txt");
@@ -62,6 +64,17 @@ public class BTL {
             Nhom5_4 nhom5_4 = new Nhom5_4(rfVNINDEX.list[i], rfUPCOMINDEX.list[i], rfHNXINDEX.list[i]);
             nhom5_4.printResult(printWriter);
         }
+        
+        // Nhom 5-5
+        for(int i=0; i<rfHNXINDEX.totalRow; i++)
+        {
+            Nhom5_5 nhom5_5 = new Nhom5_5(rfVNINDEX.list[i], rfUPCOMINDEX.list[i], rfHNXINDEX.list[i]);
+            nhom5_5.printResult(printWriter);
+        }
+        
+        // Nhom 5-6
+        Nhom5_6 nhom5_6 = new Nhom5_6(rfVNINDEX.list, rfUPCOMINDEX.list, rfHNXINDEX.list, rfVNINDEX.totalRow);
+        nhom5_6.printResult(printWriter);
         
         // Dong file sau khi ket thuc in tat ca cac nhom
         printWriter.close();

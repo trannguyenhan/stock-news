@@ -5,6 +5,7 @@
  */
 package btl;
 
+import hotro.*;
 import java.io.FileNotFoundException;
 import java.io.PrintWriter;
 
@@ -12,7 +13,7 @@ import java.io.PrintWriter;
  *
  * @author admin
  */
-public class Nhom5_0 extends NhomChung{
+public class Nhom5_0 extends NhomChung1{
     
     public Nhom5_0(DSChiSo chiso1, DSChiSo chiso2, DSChiSo chiso3)
     {

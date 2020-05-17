@@ -5,13 +5,14 @@
  */
 package btl;
 
+import hotro.*;
 import java.io.PrintWriter;
 
 /**
  *
  * @author admin
  */
-public class Nhom5_1 extends NhomChung{
+public class Nhom5_1 extends NhomChung1{
     
     public Nhom5_1(DSChiSo chiso1, DSChiSo chiso2, DSChiSo chiso3)
     {
