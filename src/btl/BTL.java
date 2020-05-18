@@ -79,6 +79,14 @@ public class BTL {
         // Nhom 5-7
         Nhom5_7 nhom5_7 = new Nhom5_7(rfVNINDEX.list, rfUPCOMINDEX.list, rfHNXINDEX.list, rfVNINDEX.totalRow);
         nhom5_7.printResult(printWriter);
+        
+        // Nhom5-8
+        for(int i=0; i<rfHNXINDEX.totalRow; i++)
+        {
+            Nhom5_8 nhom5_8 = new Nhom5_8(rfVNINDEX.list[i], rfUPCOMINDEX.list[i], rfHNXINDEX.list[i]);
+            nhom5_8.printResult(printWriter);
+        }
+        
         // Dong file sau khi ket thuc in tat ca cac nhom
         printWriter.close();
         

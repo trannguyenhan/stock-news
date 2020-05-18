@@ -65,10 +65,10 @@ public class Nhom5_7 extends NhomChung2{
                     {
                         if(ngaygiam == 1)
                             printWriter.print("Ngày " + dsVNINDEX[i].getDate() 
-                                + ", chỉ số VN-INDEX tiếp tục giảm sau khi bắt đầu giảm 1 ngày trước đó ");
+                                + ", chỉ số VN-INDEX tiếp tục giảm sau khi bắt đầu giảm 1 ngày trước đó.");
                         else 
                             printWriter.print("Ngày " + dsVNINDEX[i].getDate() 
-                                + ", đã là phiên giảm điểm thứ " + ngaygiam+1 + " liên tiếp của VN-INDEX");
+                                + ", đã là phiên giảm điểm thứ " + ngaygiam+1 + " liên tiếp của VN-INDEX.");
                     } else 
                     {
                         int ngaytang = soNgayTang(dsVNINDEX, i);
@@ -77,7 +77,7 @@ public class Nhom5_7 extends NhomChung2{
                                 + dsVNINDEX[i].getDate() + ")" );
                         else 
                             printWriter.print("Đây là phiên giảm điểm đầu tiên sau " + ngaytang + " ngày tăng liên tiếp ( Ngày " 
-                                + dsVNINDEX[i].getDate() + ")");
+                                + dsVNINDEX[i].getDate() + ") của VN-INDEX.");
                     }   
             } else 
             {
@@ -87,7 +87,7 @@ public class Nhom5_7 extends NhomChung2{
                     if(ngaytang == 1)
                         printWriter.print("Như vậy ngày " + dsVNINDEX[i].getDate() + ", là ngày thứ 2 liên tiếp điểm số của VN-INDEX tăng.");
                     else 
-                        printWriter.print("Như vậy ngày " + dsVNINDEX[i].getDate() + ", đã là ngày tăng thứ " + ngaytang + " liên tiếp.");
+                        printWriter.print("Như vậy ngày " + dsVNINDEX[i].getDate() + ", đã là ngày tăng thứ " + ngaytang + " liên tiếp của VN-INDEX.");
                 } else 
                 {
                     int ngaygiam = soNgayGiam(dsVNINDEX, i);
