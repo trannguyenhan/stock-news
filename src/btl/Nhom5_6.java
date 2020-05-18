@@ -46,6 +46,7 @@ public class Nhom5_6 extends NhomChung2{
         return maxIndex;
     }
             
+    @Override
     public void printResult(PrintWriter printWriter)
     {
         DoiCachDoc doi = new DoiCachDoc();
@@ -67,6 +68,7 @@ public class Nhom5_6 extends NhomChung2{
         printWriter.print("KLGD trong ngày này đạt " + doi.doiCachDoc(dsVNINDEX[ngayTangManhNhat].getKL_deal()) + " cổ phiếu, tương đương "
         + doi.doiCachDoc(dsVNINDEX[ngayTangManhNhat].getGT_deal()) + " đồng.");
         
+        printWriter.println();
     }
     
 }

@@ -57,7 +57,7 @@ public class ReadFile {
         return stringTemp;
     }
     
-    public void readFileExcel(String path, int sheetInput) throws IOException
+    public void readFileExcel(String path, int sheetInput) throws IOException 
     {
         XSSFWorkbook wb = new XSSFWorkbook(path);
         XSSFSheet sh = wb.getSheetAt(sheetInput); // Lay sheet dau tien
@@ -68,8 +68,13 @@ public class ReadFile {
         while(row != null)
         {
             cell = row.getCell(0);
+            String value0;
             if(cell == null) break;
-            String value0 = new SimpleDateFormat("dd/MM/yyyy").format(cell.getDateCellValue());
+            try {
+                value0 = new SimpleDateFormat("dd/MM/yyyy").format(cell.getDateCellValue());
+            } catch (Exception e) {
+                value0 = new SimpleDateFormat("dd/MM/yyyy").format(java.time.LocalDate.now());
+            }
             
             cell = row.getCell(1);
             String value1 = getCellValue(cell);
