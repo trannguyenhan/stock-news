@@ -6,6 +6,7 @@
 package btl;
 
 import hotro.*;
+import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.io.PrintWriter;
 
@@ -15,17 +16,28 @@ import java.io.PrintWriter;
  */
 //String value0String, String value1String, String value2String
 public class BTL {
-    public void BaiTapLon(String valueString) throws IOException {
+    public void BaiTapLon(/*String valueString*/) throws IOException {
         ReadFile rfVNINDEX = new ReadFile();
         ReadFile rfUPCOMINDEX = new ReadFile();
         ReadFile rfHNXINDEX = new ReadFile();
+        ReadFile topInc = new ReadFile();
+        ReadFile topDec = new ReadFile();
+        ReadFile topKLGD = new ReadFile();
+        ReadFile stock = new ReadFile();
         
-        rfVNINDEX.readFileExcel(valueString,0);
-        rfUPCOMINDEX.readFileExcel(valueString,1);
-        rfHNXINDEX.readFileExcel(valueString,2);
+        topInc.readShortFileExcel("E:\\[JAVA]NetBeans\\BTL\\src\\btl\\top10.xlsx",0);
+        topDec.readShortFileExcel("E:\\[JAVA]NetBeans\\BTL\\src\\btl\\top10.xlsx",1);
+        topKLGD.readShortFileExcel("E:\\[JAVA]NetBeans\\BTL\\src\\btl\\top10.xlsx",2);
+        stock.readColumnsExcel("E:\\[JAVA]NetBeans\\BTL\\src\\btl\\HOSE.xlsx");
+        
+        rfVNINDEX.readFileExcel("E:\\[JAVA]NetBeans\\BTL\\src\\btl\\3-STOCK-INDEX.xlsx",0);
+        rfUPCOMINDEX.readFileExcel("E:\\[JAVA]NetBeans\\BTL\\src\\btl\\3-STOCK-INDEX.xlsx",1);
+        rfHNXINDEX.readFileExcel("E:\\[JAVA]NetBeans\\BTL\\src\\btl\\3-STOCK-INDEX.xlsx",2);
+        
 //        rfVNINDEX.readFileExcel(value0String);
 //        rfUPCOMINDEX.readFileExcel(value1String);
 //        rfHNXINDEX.readFileExcel(value2String);
+        
         
         // File dau ra 
         PrintWriter printWriter = new PrintWriter("ketqua.txt");
@@ -87,8 +99,34 @@ public class BTL {
             nhom5_8.printResult(printWriter);
         }
         
+        // Nhom6-0
+        Nhom6_0 nhom6_0 = new Nhom6_0(stock.list[0]);
+        nhom6_0.printResult(printWriter);
+        
+        // Nhom6-1
+        Nhom6_1 nhom6_1 = new Nhom6_1(topInc.list[0], topDec.list[0], topKLGD.list[0]);
+        nhom6_1.printResult(printWriter);
+        
         // Dong file sau khi ket thuc in tat ca cac nhom
         printWriter.close();
         
     }
+    
+//    public void thunghiem() throws FileNotFoundException, IOException {
+//        ReadFile topInc = new ReadFile();
+//        ReadFile topDec = new ReadFile();
+//        ReadFile topKLGD = new ReadFile();
+//        ReadFile stock = new ReadFile();
+//        PrintWriter printWriter = new PrintWriter("test.txt");
+//        
+//        topInc.readShortFileExcel("E:\\[JAVA]NetBeans\\BTL\\src\\btl\\top10.xlsx",0);
+//        topDec.readShortFileExcel("E:\\[JAVA]NetBeans\\BTL\\src\\btl\\top10.xlsx",1);
+//        topKLGD.readShortFileExcel("E:\\[JAVA]NetBeans\\BTL\\src\\btl\\top10.xlsx",2);
+//        stock.readColumnsExcel("E:\\[JAVA]NetBeans\\BTL\\src\\btl\\HOSE.xlsx");
+//        
+//        Nhom6_1 nhom6_1 = new Nhom6_1(topInc.list[0], topDec.list[0], topKLGD.list[0]);
+//        nhom6_1.printResult(printWriter);
+//        
+//        printWriter.close();
+//    }
 }

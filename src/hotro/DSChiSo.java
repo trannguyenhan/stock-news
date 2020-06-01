@@ -5,6 +5,9 @@
  */
 package hotro;
 
+import java.util.ArrayList;
+import java.util.List;
+
 /**
  *
  * @author admin
@@ -20,10 +23,33 @@ public class DSChiSo {
     private String openPrice;
     private String maxPrice;
     private String minPrice;
+    private int inc;
+    private int dec;
+    private String stock;
+    private String value;
+    private List<String> stock_name = new ArrayList<>();
+    private List<String> stock_price = new ArrayList<>();
+    private List<String> stock_weight = new ArrayList<>();
+    private List<String> company_name = new ArrayList<>();
+    private List<String> change_percentage = new ArrayList<>();
     
     public DSChiSo()
     {
         this("00/00/00","0","0","0","0","0","0","0","0","0");
+    }
+    
+    public DSChiSo(List<String> stock_name, List<String> company_name, List<String> stock_price,  List<String> change_percentage, List<String> stock_weight)
+    {
+        this.stock_name = stock_name;
+        this.company_name = company_name;
+        this.stock_price = stock_price;
+        this.change_percentage =change_percentage;
+        this.stock_weight = stock_weight;
+    }
+
+    public DSChiSo(int inc, int dec){//bao nhieu ma tang giam
+        this.inc = inc;
+        this.dec = dec;
     }
     
     public DSChiSo(String date, String finalPrice, String change, String KL_auction, String GT_auction, String KL_deal, String GT_deal, String openPrice, String maxPrice, String minPrice) {
@@ -38,7 +64,34 @@ public class DSChiSo {
         this.maxPrice = maxPrice;
         this.minPrice = minPrice;
     }
+    
+    public List<String> getCompany_name() {
+        return company_name;
+    }
 
+    public List<String> getChange_percentage() {
+        return change_percentage;
+    }
+
+    public List<String> getStock_name() {
+        return stock_name;
+    }
+
+    public List<String> getStock_price() {
+        return stock_price;
+    }
+
+    public List<String> getStock_weight() {
+        return stock_weight;
+    }
+
+    public int getInc() {
+        return inc;
+    }
+
+    public int getDec() {
+        return dec;
+    }
     
     public String getDate()
     {

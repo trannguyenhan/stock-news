@@ -149,12 +149,24 @@ public class GiaoDienPhanMem extends javax.swing.JFrame {
 
     private void inTTCKButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_inTTCKButtonActionPerformed
         // TODO add your handling code here:
+        /*
         BTL baitaplon = new BTL();
         try {
             baitaplon.BaiTapLon(pathStock);
         } catch (IOException ex) {
             Logger.getLogger(GiaoDienPhanMem.class.getName()).log(Level.SEVERE, null, ex);
         }
+        JOptionPane.showMessageDialog(rootPane, "Đã in thông tin chứng khoán");
+        */
+        
+        BTL baitaplon = new BTL();
+        
+        try {
+            baitaplon.BaiTapLon();
+        } catch (IOException ex) {
+            Logger.getLogger(GiaoDienPhanMem.class.getName()).log(Level.SEVERE, null, ex);
+        }
+        
         JOptionPane.showMessageDialog(rootPane, "Đã in thông tin chứng khoán");
     }//GEN-LAST:event_inTTCKButtonActionPerformed
 
