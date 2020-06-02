@@ -28,14 +28,14 @@ public class BTL {
     
     public BTL() throws IOException
     {
-        topInc.readShortFileExcel("E:\\[JAVA]NetBeans\\BTL\\src\\fileinput\\top10.xlsx",0);
-        topDec.readShortFileExcel("E:\\[JAVA]NetBeans\\BTL\\src\\fileinput\\top10.xlsx",1);
-        topKLGD.readShortFileExcel("E:\\[JAVA]NetBeans\\BTL\\src\\fileinput\\top10.xlsx",2);
-        stock.readColumnsExcel("E:\\[JAVA]NetBeans\\BTL\\src\\fileinput\\HOSE.xlsx");
+        topInc.readShortFileExcel("E:\\[JAVA]NetBeans\\BTL\\test\\top10.xlsx",0);
+        topDec.readShortFileExcel("E:\\[JAVA]NetBeans\\BTL\\test\\top10.xlsx",1);
+        topKLGD.readShortFileExcel("E:\\[JAVA]NetBeans\\BTL\\test\\top10.xlsx",2);
+        stock.readColumnsExcel("E:\\[JAVA]NetBeans\\BTL\\test\\HOSE.xlsx");
         
-        rfVNINDEX.readFileExcel("E:\\[JAVA]NetBeans\\BTL\\src\\fileinput\\3-STOCK-INDEX.xlsx",0);
-        rfUPCOMINDEX.readFileExcel("E:\\[JAVA]NetBeans\\BTL\\src\\fileinput\\3-STOCK-INDEX.xlsx",1);
-        rfHNXINDEX.readFileExcel("E:\\[JAVA]NetBeans\\BTL\\src\\fileinput\\3-STOCK-INDEX.xlsx",2);
+        rfVNINDEX.readFileExcel("E:\\[JAVA]NetBeans\\BTL\\test\\stock.xlsx",0);
+        rfUPCOMINDEX.readFileExcel("E:\\[JAVA]NetBeans\\BTL\\test\\stock.xlsx",1);
+        rfHNXINDEX.readFileExcel("E:\\[JAVA]NetBeans\\BTL\\test\\stock.xlsx",2);
     }
     
     public BTL(String valueString1, String valueString2, String valueString3) throws IOException
@@ -124,7 +124,7 @@ public class BTL {
         
     }
     
-    public List<String> layDuLieuNgayGanNhayVNINDEX()
+    public List<String> layDuLieuNgayGanNhatVNINDEX()
     {
         List<String> str = new ArrayList<>();
         String temp;

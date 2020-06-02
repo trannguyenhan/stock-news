@@ -6,6 +6,7 @@
 package giaodienphanmem;
 
 import btl.BTL;
+import fileinput.ExportDaTaToFileExcel;
 import java.awt.event.WindowAdapter;
 import java.awt.event.WindowEvent;
 import java.io.BufferedReader;
@@ -165,7 +166,7 @@ public class GiaoDienPhanMem extends javax.swing.JFrame {
         tieudeLabel.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
         tieudeLabel.setHorizontalTextPosition(javax.swing.SwingConstants.CENTER);
 
-        inTTCKButton.setText("In TTCK");
+        inTTCKButton.setText("Sinh câu");
         inTTCKButton.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 inTTCKButtonActionPerformed(evt);
@@ -233,9 +234,9 @@ public class GiaoDienPhanMem extends javax.swing.JFrame {
                         .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                             .addComponent(layDuLieuWebsiteButton)
                             .addComponent(inTTCKButton, javax.swing.GroupLayout.PREFERRED_SIZE, 139, javax.swing.GroupLayout.PREFERRED_SIZE))
-                        .addGap(87, 87, 87)
-                        .addComponent(jScrollPane1, javax.swing.GroupLayout.PREFERRED_SIZE, 645, javax.swing.GroupLayout.PREFERRED_SIZE)
-                        .addGap(18, 18, 18)
+                        .addGap(41, 41, 41)
+                        .addComponent(jScrollPane1, javax.swing.GroupLayout.PREFERRED_SIZE, 682, javax.swing.GroupLayout.PREFERRED_SIZE)
+                        .addGap(27, 27, 27)
                         .addComponent(textLabel, javax.swing.GroupLayout.PREFERRED_SIZE, 172, javax.swing.GroupLayout.PREFERRED_SIZE))
                     .addGroup(layout.createSequentialGroup()
                         .addGap(328, 328, 328)
@@ -246,19 +247,16 @@ public class GiaoDienPhanMem extends javax.swing.JFrame {
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(layout.createSequentialGroup()
                 .addComponent(tieudeLabel, javax.swing.GroupLayout.PREFERRED_SIZE, 34, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addGap(84, 84, 84)
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                 .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                     .addGroup(layout.createSequentialGroup()
                         .addComponent(layDuLieuWebsiteButton)
-                        .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                            .addGroup(layout.createSequentialGroup()
-                                .addGap(119, 119, 119)
-                                .addComponent(textLabel, javax.swing.GroupLayout.PREFERRED_SIZE, 23, javax.swing.GroupLayout.PREFERRED_SIZE))
-                            .addGroup(layout.createSequentialGroup()
-                                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
-                                .addComponent(inTTCKButton))))
-                    .addComponent(jScrollPane1, javax.swing.GroupLayout.PREFERRED_SIZE, 355, javax.swing.GroupLayout.PREFERRED_SIZE))
-                .addContainerGap(332, Short.MAX_VALUE))
+                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
+                        .addComponent(inTTCKButton)
+                        .addGap(163, 163, 163)
+                        .addComponent(textLabel, javax.swing.GroupLayout.PREFERRED_SIZE, 23, javax.swing.GroupLayout.PREFERRED_SIZE))
+                    .addComponent(jScrollPane1, javax.swing.GroupLayout.PREFERRED_SIZE, 471, javax.swing.GroupLayout.PREFERRED_SIZE))
+                .addContainerGap(294, Short.MAX_VALUE))
         );
 
         pack();
@@ -296,10 +294,17 @@ public class GiaoDienPhanMem extends javax.swing.JFrame {
 
     private void layDuLieuWebsiteButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_layDuLieuWebsiteButtonActionPerformed
         // TODO add your handling code here:
-        jTextArea.setText(null);
-        jTextArea.append("Xin chào tôi là Huy");
-        
-        JOptionPane.showMessageDialog(rootPane, "LỖI ! Chưa lấy được thông tin từ website !");
+        ExportDaTaToFileExcel export = new ExportDaTaToFileExcel();
+        try {
+            export.exportDaTaVNINDEX();
+            export.exportDaTaUPCOMINDEX();
+            export.exportDaTaHNXINDEX();
+            export.export();
+        } catch (IOException ex) {
+            Logger.getLogger(GiaoDienPhanMem.class.getName()).log(Level.SEVERE, null, ex);
+        }
+
+        JOptionPane.showMessageDialog(rootPane, "Đã lấy dữ liệu từ CAFEF!");
 //        cmdCall pythonCall = new cmdCall();
 //        pythonCall.pythonCall();
 //        JOptionPane.showMessageDialog(rootPane, "Đã lấy xong thông tin trên  website ");

@@ -34,7 +34,14 @@ public class Nhom5_6 extends NhomChung2{
                     if(dschiso[i].getChange().charAt(j) == ' ') break;
                 
                 String tempString = dschiso[i].getChange().substring(0, j-1);
-                double db = Double.valueOf(tempString);
+                
+                double db;
+                try {
+                    db = Double.valueOf(tempString);
+                } catch (Exception e) {
+                    db = 0;
+                }
+                
                 
                 if(db > maxValue) 
                 {

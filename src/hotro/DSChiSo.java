@@ -119,6 +119,19 @@ public class DSChiSo {
     {
         // Hien tai change dang o dinh dang (vi du) 8.9 (1.14%) -> can thay doi thanh : 8.9 diem (1.14 %)
         int i;
+        int result = change.lastIndexOf("điểm");
+        if(result != -1) 
+        {
+            for(i=0; i<change.length(); i++)
+                if(change.charAt(i) == 'm') break;
+            
+            String temp1 = change.substring(0,i-4);
+            String temp2 = change.substring(i-3,change.length());
+            
+            String temp = temp1 + " " + temp2;
+            return temp;
+        }
+        
         for(i=0; i<change.length(); i++)
             if(change.charAt(i) == '(') break;
         

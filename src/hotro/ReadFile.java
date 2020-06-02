@@ -75,7 +75,8 @@ public class ReadFile {
             try {
                 value0 = new SimpleDateFormat("dd/MM/yyyy").format(cell.getDateCellValue());
             } catch (Exception e) {
-                value0 = new SimpleDateFormat("dd/MM/yyyy").format(java.time.LocalDate.now());
+                //value0 = new SimpleDateFormat("dd/MM/yyyy").format(java.time.LocalDate.now());
+                value0 = getCellValue(cell);
             }
             
             cell = row.getCell(1);
