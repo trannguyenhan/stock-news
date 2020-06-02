@@ -9,6 +9,8 @@ import hotro.*;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.io.PrintWriter;
+import java.util.ArrayList;
+import java.util.List;
 
 /**
  *
@@ -16,29 +18,39 @@ import java.io.PrintWriter;
  */
 //String value0String, String value1String, String value2String
 public class BTL {
-    public void BaiTapLon(/*String valueString*/) throws IOException {
-        ReadFile rfVNINDEX = new ReadFile();
-        ReadFile rfUPCOMINDEX = new ReadFile();
-        ReadFile rfHNXINDEX = new ReadFile();
-        ReadFile topInc = new ReadFile();
-        ReadFile topDec = new ReadFile();
-        ReadFile topKLGD = new ReadFile();
-        ReadFile stock = new ReadFile();
+    ReadFile rfVNINDEX = new ReadFile();
+    ReadFile rfUPCOMINDEX = new ReadFile();
+    ReadFile rfHNXINDEX = new ReadFile();
+    ReadFile topInc = new ReadFile();
+    ReadFile topDec = new ReadFile();
+    ReadFile topKLGD = new ReadFile();
+    ReadFile stock = new ReadFile();
+    
+    public BTL() throws IOException
+    {
+        topInc.readShortFileExcel("E:\\[JAVA]NetBeans\\BTL\\src\\fileinput\\top10.xlsx",0);
+        topDec.readShortFileExcel("E:\\[JAVA]NetBeans\\BTL\\src\\fileinput\\top10.xlsx",1);
+        topKLGD.readShortFileExcel("E:\\[JAVA]NetBeans\\BTL\\src\\fileinput\\top10.xlsx",2);
+        stock.readColumnsExcel("E:\\[JAVA]NetBeans\\BTL\\src\\fileinput\\HOSE.xlsx");
         
-        topInc.readShortFileExcel("E:\\[JAVA]NetBeans\\BTL\\src\\btl\\top10.xlsx",0);
-        topDec.readShortFileExcel("E:\\[JAVA]NetBeans\\BTL\\src\\btl\\top10.xlsx",1);
-        topKLGD.readShortFileExcel("E:\\[JAVA]NetBeans\\BTL\\src\\btl\\top10.xlsx",2);
-        stock.readColumnsExcel("E:\\[JAVA]NetBeans\\BTL\\src\\btl\\HOSE.xlsx");
+        rfVNINDEX.readFileExcel("E:\\[JAVA]NetBeans\\BTL\\src\\fileinput\\3-STOCK-INDEX.xlsx",0);
+        rfUPCOMINDEX.readFileExcel("E:\\[JAVA]NetBeans\\BTL\\src\\fileinput\\3-STOCK-INDEX.xlsx",1);
+        rfHNXINDEX.readFileExcel("E:\\[JAVA]NetBeans\\BTL\\src\\fileinput\\3-STOCK-INDEX.xlsx",2);
+    }
+    
+    public BTL(String valueString1, String valueString2, String valueString3) throws IOException
+    {
+        topInc.readShortFileExcel(valueString2,0);
+        topDec.readShortFileExcel(valueString2,1);
+        topKLGD.readShortFileExcel(valueString2,2);
+        stock.readColumnsExcel(valueString3);
         
-        rfVNINDEX.readFileExcel("E:\\[JAVA]NetBeans\\BTL\\src\\btl\\3-STOCK-INDEX.xlsx",0);
-        rfUPCOMINDEX.readFileExcel("E:\\[JAVA]NetBeans\\BTL\\src\\btl\\3-STOCK-INDEX.xlsx",1);
-        rfHNXINDEX.readFileExcel("E:\\[JAVA]NetBeans\\BTL\\src\\btl\\3-STOCK-INDEX.xlsx",2);
-        
-//        rfVNINDEX.readFileExcel(value0String);
-//        rfUPCOMINDEX.readFileExcel(value1String);
-//        rfHNXINDEX.readFileExcel(value2String);
-        
-        
+        rfVNINDEX.readFileExcel(valueString1,0);
+        rfUPCOMINDEX.readFileExcel(valueString1,1);
+        rfHNXINDEX.readFileExcel(valueString1,2);
+    }
+    
+    public void writeFileTxt() throws IOException {    
         // File dau ra 
         PrintWriter printWriter = new PrintWriter("ketqua.txt");
         
@@ -112,21 +124,29 @@ public class BTL {
         
     }
     
-//    public void thunghiem() throws FileNotFoundException, IOException {
-//        ReadFile topInc = new ReadFile();
-//        ReadFile topDec = new ReadFile();
-//        ReadFile topKLGD = new ReadFile();
-//        ReadFile stock = new ReadFile();
-//        PrintWriter printWriter = new PrintWriter("test.txt");
-//        
-//        topInc.readShortFileExcel("E:\\[JAVA]NetBeans\\BTL\\src\\btl\\top10.xlsx",0);
-//        topDec.readShortFileExcel("E:\\[JAVA]NetBeans\\BTL\\src\\btl\\top10.xlsx",1);
-//        topKLGD.readShortFileExcel("E:\\[JAVA]NetBeans\\BTL\\src\\btl\\top10.xlsx",2);
-//        stock.readColumnsExcel("E:\\[JAVA]NetBeans\\BTL\\src\\btl\\HOSE.xlsx");
-//        
-//        Nhom6_1 nhom6_1 = new Nhom6_1(topInc.list[0], topDec.list[0], topKLGD.list[0]);
-//        nhom6_1.printResult(printWriter);
-//        
-//        printWriter.close();
-//    }
+    public List<String> layDuLieuNgayGanNhayVNINDEX()
+    {
+        List<String> str = new ArrayList<>();
+        String temp;
+        
+        // Lay ngay
+        temp = rfVNINDEX.list[0].getDate();
+        str.add(temp);
+        
+        // Lay diem ket thuc
+        temp = rfVNINDEX.list[0].getFinalPrice();
+        str.add(temp);
+        
+        // Lay do thay doi 
+        temp = rfVNINDEX.list[0].getChange();
+        str.add(temp);
+        
+        //Lay gia tri Giao Dich
+        temp = rfVNINDEX.list[0].getGT_deal();
+        DoiCachDoc doi = new DoiCachDoc();
+        temp = doi.doiCachDoc(temp);
+        str.add(temp);
+        
+        return str;
+    }
 }
