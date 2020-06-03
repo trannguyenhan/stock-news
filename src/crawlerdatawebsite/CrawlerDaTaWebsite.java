@@ -20,6 +20,7 @@ public abstract class CrawlerDaTaWebsite {
     public Document doc;
     protected String url;
     public List<DSChiSo> dschiso = new ArrayList<>();
+    public List<DSChiSoStockCode> dSChiSoStockCode = new ArrayList<>();
     
 //    public CrawlerDaTaWebsite()
 //    {

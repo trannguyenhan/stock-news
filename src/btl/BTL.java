@@ -24,14 +24,15 @@ public class BTL {
     ReadFile topInc = new ReadFile();
     ReadFile topDec = new ReadFile();
     ReadFile topKLGD = new ReadFile();
-    ReadFile stock = new ReadFile();
+    ReadFileStockCode stock = new ReadFileStockCode();
     
     public BTL() throws IOException
     {
         topInc.readShortFileExcel("E:\\[JAVA]NetBeans\\BTL\\test\\top10.xlsx",0);
         topDec.readShortFileExcel("E:\\[JAVA]NetBeans\\BTL\\test\\top10.xlsx",1);
         topKLGD.readShortFileExcel("E:\\[JAVA]NetBeans\\BTL\\test\\top10.xlsx",2);
-        stock.readColumnsExcel("E:\\[JAVA]NetBeans\\BTL\\test\\HOSE.xlsx");
+        stock.readColumnsExcel("E:\\[JAVA]NetBeans\\BTL\\test\\hose.xlsx");
+        stock.readFileExcel("E:\\[JAVA]NetBeans\\BTL\\test\\hose.xlsx");
         
         rfVNINDEX.readFileExcel("E:\\[JAVA]NetBeans\\BTL\\test\\stock.xlsx",0);
         rfUPCOMINDEX.readFileExcel("E:\\[JAVA]NetBeans\\BTL\\test\\stock.xlsx",1);
@@ -111,13 +112,66 @@ public class BTL {
             nhom5_8.printResult(printWriter);
         }
         
-        // Nhom6-0
-        Nhom6_0 nhom6_0 = new Nhom6_0(stock.list[0]);
-        nhom6_0.printResult(printWriter);
+        // Nhom7-0
+        Nhom7_0 nhom7_0 = new Nhom7_0(stock.list[0]);
+        nhom7_0.printResult(printWriter);
         
-        // Nhom6-1
-        Nhom6_1 nhom6_1 = new Nhom6_1(topInc.list[0], topDec.list[0], topKLGD.list[0]);
+        // Nhom7-1
+        Nhom7_1 nhom7_1 = new Nhom7_1(topInc.list[0], topDec.list[0], topKLGD.list[0]);
+        nhom7_1.printResult(printWriter);
+        
+        // Nhom 5-28
+        for(int i=0; i<rfHNXINDEX.totalRow; i++)
+        {
+            Nhom5_28 nhom5_28 = new Nhom5_28(rfVNINDEX.list[i], rfUPCOMINDEX.list[i], rfHNXINDEX.list[i]);
+            nhom5_28.printResult(printWriter);
+        }
+        
+        for(int i=0; i<rfHNXINDEX.totalRow; i++)
+        {
+            Nhom5_29 nhom5_29 = new Nhom5_29(rfVNINDEX.list[i], rfUPCOMINDEX.list[i], rfHNXINDEX.list[i]);
+            nhom5_29.printResult(printWriter);
+        }
+        
+        // Nhom 6-0
+        Nhom6_0 nhom6_0 = new Nhom6_0(rfVNINDEX, rfUPCOMINDEX, rfHNXINDEX);
+        nhom6_0.printResult(printWriter);
+        printWriter.println();
+        
+        // Nhom 6-1
+        Nhom6_1 nhom6_1 = new Nhom6_1(rfVNINDEX, rfUPCOMINDEX, rfHNXINDEX);
         nhom6_1.printResult(printWriter);
+        printWriter.println();
+        
+        // Nhom 8-2
+        Nhom8_2 nhom8_2 = new Nhom8_2(stock);
+        nhom8_2.printResult(printWriter);
+        printWriter.println();
+        
+        // Nhom 8-3
+        Nhom8_3 nhom8_3 = new Nhom8_3(stock);
+        nhom8_3.printResult(printWriter);
+        printWriter.println();
+        
+        //Nhom 8-4
+        Nhom8_4 nhom8_4 = new Nhom8_4(stock);
+        nhom8_4.printResult(printWriter);
+        printWriter.println();
+        
+        //Nhom 8-5
+        Nhom8_5 nhom8_5 = new Nhom8_5(stock);
+        nhom8_5.printResult(printWriter);
+        printWriter.println();
+        
+        //Nhom 8-6
+        Nhom8_6 nhom8_6 = new Nhom8_6(stock);
+        nhom8_6.printResult(printWriter);
+        printWriter.println();
+        
+        //Nhom 8-7
+        Nhom8_7 nhom8_7 = new Nhom8_7(stock);
+        nhom8_7.printResult(printWriter);
+        printWriter.println();
         
         // Dong file sau khi ket thuc in tat ca cac nhom
         printWriter.close();

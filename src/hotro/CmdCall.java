@@ -2,7 +2,7 @@ package hotro;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
-public class cmdCall {
+public class CmdCall {
     public void Call(){
         try{
 

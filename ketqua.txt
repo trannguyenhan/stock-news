@@ -1,124 +1,125 @@
-Hết ngày 02/06/2020, VN-INDEX giảm -3.8 điểm (-0.44 %) xuống 874.80 điểm;  Trong khi UPCOM-INDEX tăng và  HNX-INDEX tăng.
+Hết ngày 03/06/2020, VN-INDEX tăng 6.3 điểm (0.73 %) lên 881.17 điểm. Trong khi UPCOM-INDEX tăng và  HNX-INDEX tăng.
+Hết ngày 02/06/2020, VN-INDEX giảm -3.8 điểm (-0.44 %) xuống 874.80 điểm;  Trong khi UPCOM-INDEX tăng và HNX-INDEX giảm -0.4 điểm (-0.43 %) còn 113.64 điểm.
 Hết ngày 01/06/2020, VN-INDEX tăng 9.7 điểm (1.12 %) lên 878.67 điểm. Trong khi UPCOM-INDEX tăng và  HNX-INDEX tăng.
 Hết ngày 29/05/2020, VN-INDEX tăng 3.0 điểm (0.36 %) lên 864.47 điểm. Trong khi UPCOM-INDEX tăng và  HNX-INDEX tăng.
-Hết ngày 28/05/2020, VN-INDEX tăng 3.9 điểm (0.46 %) lên 861.39 điểm. Trong khi UPCOM-INDEX giảm -0.4 điểm (-0.72 %) còn 54.93 điểm, HNX-INDEX giảm -1.6 điểm (-1.45 %) còn 108.89 điểm.
-Hết ngày 27/05/2020, VN-INDEX giảm -11.6 điểm (-1.34 %) xuống 857.48 điểm;  Trong khi UPCOM-INDEX tăng và  HNX-INDEX tăng.
+Hết ngày 28/05/2020, VN-INDEX tăng 3.9 điểm (0.46 %) lên 861.39 điểm. Trong khi UPCOM-INDEX giảm -0.4 điểm (-0.72 %) còn 54.93 điểm,  HNX-INDEX tăng.
+Hết ngày 27/05/2020, VN-INDEX giảm -11.6 điểm (-1.34 %) xuống 857.48 điểm;  Trong khi UPCOM-INDEX tăng và HNX-INDEX giảm -1.6 điểm (-1.45 %) còn 108.89 điểm.
 Hết ngày 26/05/2020, VN-INDEX tăng 10.0 điểm (1.17 %) lên 869.13 điểm. Trong khi UPCOM-INDEX tăng và  HNX-INDEX tăng.
 Hết ngày 25/05/2020, VN-INDEX tăng 6.3 điểm (0.74 %) lên 859.04 điểm. Trong khi UPCOM-INDEX giảm -0.0 điểm (-0.13 %) còn 54.24 điểm,  HNX-INDEX tăng.
-Hết ngày 22/05/2020, VN-INDEX giảm -9.9 điểm (-1.16 %) xuống 852.74 điểm;  Trong khi UPCOM-INDEX tăng và HNX-INDEX giảm -1.2 điểm (-1.13 %) còn 105.74 điểm.
-Hết ngày 21/05/2020, VN-INDEX tăng 9.8 điểm (1.15 %) lên 862.73 điểm. Trong khi UPCOM-INDEX tăng và HNX-INDEX giảm -1.8 điểm (-1.73 %) còn 106.94 điểm.
-Hết ngày 20/05/2020, VN-INDEX tăng 6.9 điểm (0.83 %) lên 852.91 điểm. Trong khi UPCOM-INDEX tăng và  HNX-INDEX tăng.
-Hết ngày 19/05/2020, VN-INDEX tăng 8.9 điểm (1.06 %) lên 845.92 điểm. Trong khi UPCOM-INDEX tăng và HNX-INDEX giảm -0.4 điểm (-0.45 %) còn 108.54 điểm.
-Hết ngày 18/05/2020, VN-INDEX tăng 9.9 điểm (1.21 %) lên 837.01 điểm. Trong khi UPCOM-INDEX giảm -0.3 điểm (-0.62 %) còn 53.15 điểm, HNX-INDEX giảm -2.3 điểm (-2.08 %) còn 109.02 điểm.
-Hết ngày 15/05/2020, VN-INDEX giảm -5.3 điểm (-0.65 %) xuống 827.03 điểm;  Trong khi UPCOM-INDEX giảm -0.2 điểm (-0.45 %) còn 53.48 điểm, HNX-INDEX giảm -0.5 điểm (-0.46 %) còn 111.34 điểm.
-Hết ngày 14/05/2020, VN-INDEX giảm -1.8 điểm (-0.22 %) xuống 832.40 điểm;  Trong khi UPCOM-INDEX tăng và  HNX-INDEX tăng.
+Hết ngày 22/05/2020, VN-INDEX giảm -9.9 điểm (-1.16 %) xuống 852.74 điểm;  Trong khi UPCOM-INDEX tăng và  HNX-INDEX tăng.
+Hết ngày 21/05/2020, VN-INDEX tăng 9.8 điểm (1.15 %) lên 862.73 điểm. Trong khi UPCOM-INDEX tăng và HNX-INDEX giảm -1.2 điểm (-1.13 %) còn 105.74 điểm.
+Hết ngày 20/05/2020, VN-INDEX tăng 6.9 điểm (0.83 %) lên 852.91 điểm. Trong khi UPCOM-INDEX tăng và HNX-INDEX giảm -1.8 điểm (-1.73 %) còn 106.94 điểm.
+Hết ngày 19/05/2020, VN-INDEX tăng 8.9 điểm (1.06 %) lên 845.92 điểm. Trong khi UPCOM-INDEX tăng và  HNX-INDEX tăng.
+Hết ngày 18/05/2020, VN-INDEX tăng 9.9 điểm (1.21 %) lên 837.01 điểm. Trong khi UPCOM-INDEX giảm -0.3 điểm (-0.62 %) còn 53.15 điểm, HNX-INDEX giảm -0.4 điểm (-0.45 %) còn 108.54 điểm.
+Hết ngày 15/05/2020, VN-INDEX giảm -5.3 điểm (-0.65 %) xuống 827.03 điểm;  Trong khi UPCOM-INDEX giảm -0.2 điểm (-0.45 %) còn 53.48 điểm, HNX-INDEX giảm -2.3 điểm (-2.08 %) còn 109.02 điểm.
+Hết ngày 14/05/2020, VN-INDEX giảm -1.8 điểm (-0.22 %) xuống 832.40 điểm;  Trong khi UPCOM-INDEX tăng và HNX-INDEX giảm -0.5 điểm (-0.46 %) còn 111.34 điểm.
 Hết ngày 13/05/2020, VN-INDEX giảm -1.1 điểm (-0.13 %) xuống 834.21 điểm;  Trong khi UPCOM-INDEX tăng và  HNX-INDEX tăng.
 Hết ngày 12/05/2020, VN-INDEX tăng 6.9 điểm (0.84 %) lên 835.32 điểm. Trong khi UPCOM-INDEX tăng và  HNX-INDEX tăng.
 Hết ngày 11/05/2020, VN-INDEX tăng 14.6 điểm (1.79 %) lên 828.33 điểm. Trong khi UPCOM-INDEX tăng và  HNX-INDEX tăng.
 Hết ngày 08/05/2020, VN-INDEX tăng 17.1 điểm (2.16 %) lên 813.73 điểm. Trong khi UPCOM-INDEX tăng và  HNX-INDEX tăng.
 Hết ngày 07/05/2020, VN-INDEX tăng 13.9 điểm (1.78 %) lên 796.54 điểm. Trong khi UPCOM-INDEX tăng và  HNX-INDEX tăng.
-Hết ngày 06/05/2020, VN-INDEX tăng 18.4 điểm (2.41 %) lên 782.59 điểm. Trong khi UPCOM-INDEX giảm -0.3 điểm (-0.59 %) còn 51.91 điểm, HNX-INDEX giảm -0.3 điểm (-0.29 %) còn 105.41 điểm.
-Theo đó, VN-INDEX đóng cửa tại mốc tham chiếu 874.80 giảm -3.8 điểm (-0.44 %), Trong khi HNX-INDEX và UPCOM-INDEX đều đóng cửa trong xắc xanh. 
+Theo đó, VN-INDEX đóng cửa tăng 6.3 điểm (0.73 %) lên 881.17 điểm, Trong khi HNX-INDEX và UPCOM-INDEX đều đóng cửa trong xắc xanh. 
+Theo đó, VN-INDEX đóng cửa tại mốc tham chiếu 874.80 giảm -3.8 điểm (-0.44 %), Trong khi HNX-INDEX đóng cửa giảm điểm thì UPCOM-INDEX lại đóng cửa với xắc xanh. 
 Theo đó, VN-INDEX đóng cửa tăng 9.7 điểm (1.12 %) lên 878.67 điểm, Trong khi HNX-INDEX và UPCOM-INDEX đều đóng cửa trong xắc xanh. 
 Theo đó, VN-INDEX đóng cửa tăng 3.0 điểm (0.36 %) lên 864.47 điểm, Trong khi HNX-INDEX và UPCOM-INDEX đều đóng cửa trong xắc xanh. 
-Theo đó, VN-INDEX đóng cửa tăng 3.9 điểm (0.46 %) lên 861.39 điểm, Trong khi HNX-INDEX và UPCOM-INDEX đều giảm điểm.
-Theo đó, VN-INDEX đóng cửa tại mốc tham chiếu 857.48 giảm -11.6 điểm (-1.34 %), Trong khi HNX-INDEX và UPCOM-INDEX đều đóng cửa trong xắc xanh. 
+Theo đó, VN-INDEX đóng cửa tăng 3.9 điểm (0.46 %) lên 861.39 điểm, Trong khi HNX-INDEX đóng cửa với xắc xanh thì UPCOM-INDEX lại đóng cửa giảm điểm. 
+Theo đó, VN-INDEX đóng cửa tại mốc tham chiếu 857.48 giảm -11.6 điểm (-1.34 %), Trong khi HNX-INDEX đóng cửa giảm điểm thì UPCOM-INDEX lại đóng cửa với xắc xanh. 
 Theo đó, VN-INDEX đóng cửa tăng 10.0 điểm (1.17 %) lên 869.13 điểm, Trong khi HNX-INDEX và UPCOM-INDEX đều đóng cửa trong xắc xanh. 
 Theo đó, VN-INDEX đóng cửa tăng 6.3 điểm (0.74 %) lên 859.04 điểm, Trong khi HNX-INDEX đóng cửa với xắc xanh thì UPCOM-INDEX lại đóng cửa giảm điểm. 
-Theo đó, VN-INDEX đóng cửa tại mốc tham chiếu 852.74 giảm -9.9 điểm (-1.16 %), Trong khi HNX-INDEX đóng cửa giảm điểm thì UPCOM-INDEX lại đóng cửa với xắc xanh. 
+Theo đó, VN-INDEX đóng cửa tại mốc tham chiếu 852.74 giảm -9.9 điểm (-1.16 %), Trong khi HNX-INDEX và UPCOM-INDEX đều đóng cửa trong xắc xanh. 
 Theo đó, VN-INDEX đóng cửa tăng 9.8 điểm (1.15 %) lên 862.73 điểm, Trong khi HNX-INDEX đóng cửa giảm điểm thì UPCOM-INDEX lại đóng cửa với xắc xanh. 
-Theo đó, VN-INDEX đóng cửa tăng 6.9 điểm (0.83 %) lên 852.91 điểm, Trong khi HNX-INDEX và UPCOM-INDEX đều đóng cửa trong xắc xanh. 
-Theo đó, VN-INDEX đóng cửa tăng 8.9 điểm (1.06 %) lên 845.92 điểm, Trong khi HNX-INDEX đóng cửa giảm điểm thì UPCOM-INDEX lại đóng cửa với xắc xanh. 
+Theo đó, VN-INDEX đóng cửa tăng 6.9 điểm (0.83 %) lên 852.91 điểm, Trong khi HNX-INDEX đóng cửa giảm điểm thì UPCOM-INDEX lại đóng cửa với xắc xanh. 
+Theo đó, VN-INDEX đóng cửa tăng 8.9 điểm (1.06 %) lên 845.92 điểm, Trong khi HNX-INDEX và UPCOM-INDEX đều đóng cửa trong xắc xanh. 
 Theo đó, VN-INDEX đóng cửa tăng 9.9 điểm (1.21 %) lên 837.01 điểm, Trong khi HNX-INDEX và UPCOM-INDEX đều giảm điểm.
 Theo đó, VN-INDEX đóng cửa tại mốc tham chiếu 827.03 giảm -5.3 điểm (-0.65 %), Trong khi HNX-INDEX và UPCOM-INDEX đều giảm điểm.
-Theo đó, VN-INDEX đóng cửa tại mốc tham chiếu 832.40 giảm -1.8 điểm (-0.22 %), Trong khi HNX-INDEX và UPCOM-INDEX đều đóng cửa trong xắc xanh. 
+Theo đó, VN-INDEX đóng cửa tại mốc tham chiếu 832.40 giảm -1.8 điểm (-0.22 %), Trong khi HNX-INDEX đóng cửa giảm điểm thì UPCOM-INDEX lại đóng cửa với xắc xanh. 
 Theo đó, VN-INDEX đóng cửa tại mốc tham chiếu 834.21 giảm -1.1 điểm (-0.13 %), Trong khi HNX-INDEX và UPCOM-INDEX đều đóng cửa trong xắc xanh. 
 Theo đó, VN-INDEX đóng cửa tăng 6.9 điểm (0.84 %) lên 835.32 điểm, Trong khi HNX-INDEX và UPCOM-INDEX đều đóng cửa trong xắc xanh. 
 Theo đó, VN-INDEX đóng cửa tăng 14.6 điểm (1.79 %) lên 828.33 điểm, Trong khi HNX-INDEX và UPCOM-INDEX đều đóng cửa trong xắc xanh. 
 Theo đó, VN-INDEX đóng cửa tăng 17.1 điểm (2.16 %) lên 813.73 điểm, Trong khi HNX-INDEX và UPCOM-INDEX đều đóng cửa trong xắc xanh. 
 Theo đó, VN-INDEX đóng cửa tăng 13.9 điểm (1.78 %) lên 796.54 điểm, Trong khi HNX-INDEX và UPCOM-INDEX đều đóng cửa trong xắc xanh. 
-Theo đó, VN-INDEX đóng cửa tăng 18.4 điểm (2.41 %) lên 782.59 điểm, Trong khi HNX-INDEX và UPCOM-INDEX đều giảm điểm.
-Trong khi VN-INDEX giảm -3.8 điểm (-0.44 %), thì bên sàn Hà Nội HNX-INDEX bất ngờ tăng 4.3 điểm (3.94 %). 
+Kết thúc phiên giao dịch ngày 03/06/2020, chỉ số của VN-INDEX tăng 6.3 điểm (0.73 %), Trong khi HNX-INDEX và UPCOM-INDEX đều chìm trong sắc xanh. 
+Tạm dừng phiên giao dịch chỉ số của VN-INDEX và HNX-INDEX đều giảm. 
 Kết thúc phiên giao dịch ngày 01/06/2020, chỉ số của VN-INDEX tăng 9.7 điểm (1.12 %), Trong khi HNX-INDEX và UPCOM-INDEX đều chìm trong sắc xanh. 
 Kết thúc phiên giao dịch ngày 29/05/2020, chỉ số của VN-INDEX tăng 3.0 điểm (0.36 %), Trong khi HNX-INDEX và UPCOM-INDEX đều chìm trong sắc xanh. 
-Kết thúc phiên giao dịch ngày 28/05/2020, chỉ số của VN-INDEX tăng 3.9 điểm (0.46 %), Trong khi HNX-INDEX và UPCOM-INDEX đều giảm điểm. 
-Trong khi VN-INDEX giảm -11.6 điểm (-1.34 %), thì bên sàn Hà Nội HNX-INDEX bất ngờ tăng 1.3 điểm (1.23 %). 
-Kết thúc phiên giao dịch ngày 26/05/2020, chỉ số của VN-INDEX tăng 10.0 điểm (1.17 %), Trong khi HNX-INDEX và UPCOM-INDEX đều chìm trong sắc xanh. 
-Kết thúc phiên giao dịch ngày 25/05/2020, chỉ số của VN-INDEX tăng 6.3 điểm (0.74 %), Trong khi HNX-INDEX đạt mốc tham chiếu tại 107.04 điểm và UPCOM-INDEX đạt mốc tham chiếu tại 54.24 điểm.
+Kết thúc phiên giao dịch ngày 28/05/2020, chỉ số của VN-INDEX tăng 3.9 điểm (0.46 %), Trong khi HNX-INDEX đạt mốc tham chiếu tại 109.64 điểm và UPCOM-INDEX đạt mốc tham chiếu tại 54.93 điểm.
 Tạm dừng phiên giao dịch chỉ số của VN-INDEX và HNX-INDEX đều giảm. 
-Kết thúc phiên giao dịch ngày 21/05/2020, chỉ số của VN-INDEX tăng 9.8 điểm (1.15 %), Trong khi HNX-INDEX đạt mốc tham chiếu tại 106.94 điểm và UPCOM-INDEX đạt mốc tham chiếu tại 54.01 điểm.
-Kết thúc phiên giao dịch ngày 20/05/2020, chỉ số của VN-INDEX tăng 6.9 điểm (0.83 %), Trong khi HNX-INDEX và UPCOM-INDEX đều chìm trong sắc xanh. 
-Kết thúc phiên giao dịch ngày 19/05/2020, chỉ số của VN-INDEX tăng 8.9 điểm (1.06 %), Trong khi HNX-INDEX đạt mốc tham chiếu tại 108.54 điểm và UPCOM-INDEX đạt mốc tham chiếu tại 53.29 điểm.
+Kết thúc phiên giao dịch ngày 26/05/2020, chỉ số của VN-INDEX tăng 10.0 điểm (1.17 %), Trong khi HNX-INDEX và UPCOM-INDEX đều chìm trong sắc xanh. 
+Kết thúc phiên giao dịch ngày 25/05/2020, chỉ số của VN-INDEX tăng 6.3 điểm (0.74 %), Trong khi HNX-INDEX đạt mốc tham chiếu tại 109.15 điểm và UPCOM-INDEX đạt mốc tham chiếu tại 54.24 điểm.
+Trong khi VN-INDEX giảm -9.9 điểm (-1.16 %), thì bên sàn Hà Nội HNX-INDEX bất ngờ tăng 1.3 điểm (1.23 %). 
+Kết thúc phiên giao dịch ngày 21/05/2020, chỉ số của VN-INDEX tăng 9.8 điểm (1.15 %), Trong khi HNX-INDEX đạt mốc tham chiếu tại 105.74 điểm và UPCOM-INDEX đạt mốc tham chiếu tại 54.01 điểm.
+Kết thúc phiên giao dịch ngày 20/05/2020, chỉ số của VN-INDEX tăng 6.9 điểm (0.83 %), Trong khi HNX-INDEX đạt mốc tham chiếu tại 106.94 điểm và UPCOM-INDEX đạt mốc tham chiếu tại 53.80 điểm.
+Kết thúc phiên giao dịch ngày 19/05/2020, chỉ số của VN-INDEX tăng 8.9 điểm (1.06 %), Trong khi HNX-INDEX và UPCOM-INDEX đều chìm trong sắc xanh. 
 Kết thúc phiên giao dịch ngày 18/05/2020, chỉ số của VN-INDEX tăng 9.9 điểm (1.21 %), Trong khi HNX-INDEX và UPCOM-INDEX đều giảm điểm. 
 Tạm dừng phiên giao dịch chỉ số của VN-INDEX và HNX-INDEX đều giảm. 
-Trong khi VN-INDEX giảm -1.8 điểm (-0.22 %), thì bên sàn Hà Nội HNX-INDEX bất ngờ tăng 0.0 điểm (0.08 %). 
-Trong khi VN-INDEX giảm -1.1 điểm (-0.13 %), thì bên sàn Hà Nội HNX-INDEX bất ngờ tăng 0.2 điểm (0.18 %). 
+Tạm dừng phiên giao dịch chỉ số của VN-INDEX và HNX-INDEX đều giảm. 
+Trong khi VN-INDEX giảm -1.1 điểm (-0.13 %), thì bên sàn Hà Nội HNX-INDEX bất ngờ tăng 0.0 điểm (0.08 %). 
 Kết thúc phiên giao dịch ngày 12/05/2020, chỉ số của VN-INDEX tăng 6.9 điểm (0.84 %), Trong khi HNX-INDEX và UPCOM-INDEX đều chìm trong sắc xanh. 
 Kết thúc phiên giao dịch ngày 11/05/2020, chỉ số của VN-INDEX tăng 14.6 điểm (1.79 %), Trong khi HNX-INDEX và UPCOM-INDEX đều chìm trong sắc xanh. 
 Kết thúc phiên giao dịch ngày 08/05/2020, chỉ số của VN-INDEX tăng 17.1 điểm (2.16 %), Trong khi HNX-INDEX và UPCOM-INDEX đều chìm trong sắc xanh. 
 Kết thúc phiên giao dịch ngày 07/05/2020, chỉ số của VN-INDEX tăng 13.9 điểm (1.78 %), Trong khi HNX-INDEX và UPCOM-INDEX đều chìm trong sắc xanh. 
-Kết thúc phiên giao dịch ngày 06/05/2020, chỉ số của VN-INDEX tăng 18.4 điểm (2.41 %), Trong khi HNX-INDEX và UPCOM-INDEX đều giảm điểm. 
-Hết ngày 02/06/2020, chỉ số của VN-INDEX giảm -3.8 điểm (-0.44 %) xuống còn 874.80 điểm, trong khi cả HNX-INDEX và UPCOM-INDEX đều tăng. 
-Tạm dừng phiên giao dịch 01/06/2020, chỉ số của VN-INDEX tăng 9.7 điểm (1.12 %) xuống còn 878.67 điểm, trong khi HNX-INDEX và UPCOM đều tăng nhẹ. 
-Tại thời điểm 29/05/2020, chỉ số của VN-INDEX tăng 3.0 điểm (0.36 %) xuống còn 864.47 điểm, trong khi HNX-INDEX và UPCOM đều tăng nhẹ. 
-Tạm dừng phiên giao dịch 28/05/2020, chỉ số của VN-INDEX tăng 3.9 điểm (0.46 %) xuống còn 861.39 điểm, trong khi  cả HNX-INDEX và UPCOM-INDEX đều giảm. 
-Tạm dừng phiên giao dịch 27/05/2020, chỉ số của VN-INDEX giảm -11.6 điểm (-1.34 %) xuống còn 857.48 điểm, trong khi cả HNX-INDEX và UPCOM-INDEX đều tăng. 
+Tính đến 03/06/2020, chỉ số của VN-INDEX tăng 6.3 điểm (0.73 %) xuống còn 881.17 điểm, trong khi cả HNX-INDEX và UPCOM-INDEX đều tăng. 
+Hết ngày 02/06/2020, chỉ số của VN-INDEX giảm -3.8 điểm (-0.44 %) xuống còn 874.80 điểm, trong khi  HNX-INDEX và UPCOM-INDEX đều biến động. 
+Tại thời điểm 01/06/2020, chỉ số của VN-INDEX tăng 9.7 điểm (1.12 %) xuống còn 878.67 điểm, trong khi cả HNX-INDEX và UPCOM-INDEX đều tăng. 
+Kết thúc phiên giao dịch ngày 29/05/2020, chỉ số của VN-INDEX tăng 3.0 điểm (0.36 %) xuống còn 864.47 điểm, trong khi HNX-INDEX và UPCOM đều tăng nhẹ. 
+Tại thời điểm 28/05/2020, chỉ số của VN-INDEX tăng 3.9 điểm (0.46 %) xuống còn 861.39 điểm, trong khi  HNX-INDEX và UPCOM-INDEX đều biến động. 
+Tại thời điểm 27/05/2020, chỉ số của VN-INDEX giảm -11.6 điểm (-1.34 %) xuống còn 857.48 điểm, trong khi  HNX-INDEX và UPCOM-INDEX đều biến động. 
 Hết ngày 26/05/2020, chỉ số của VN-INDEX tăng 10.0 điểm (1.17 %) xuống còn 869.13 điểm, trong khi cả HNX-INDEX và UPCOM-INDEX đều tăng. 
 Kết thúc phiên giao dịch ngày 25/05/2020, chỉ số của VN-INDEX tăng 6.3 điểm (0.74 %) xuống còn 859.04 điểm, trong khi  HNX-INDEX và UPCOM-INDEX đều biến động. 
-Tại thời điểm 22/05/2020, chỉ số của VN-INDEX giảm -9.9 điểm (-1.16 %) xuống còn 852.74 điểm, trong khi  HNX-INDEX và UPCOM-INDEX đều biến động. 
-Tại thời điểm 21/05/2020, chỉ số của VN-INDEX tăng 9.8 điểm (1.15 %) xuống còn 862.73 điểm, trong khi  HNX-INDEX và UPCOM-INDEX đều biến động. 
-Tại thời điểm 20/05/2020, chỉ số của VN-INDEX tăng 6.9 điểm (0.83 %) xuống còn 852.91 điểm, trong khi HNX-INDEX và UPCOM đều tăng nhẹ. 
-Đóng cửa phiên giao dịch 19/05/2020, chỉ số của VN-INDEX tăng 8.9 điểm (1.06 %) xuống còn 845.92 điểm, trong khi  HNX-INDEX và UPCOM-INDEX đều biến động. 
-Hết ngày 18/05/2020, chỉ số của VN-INDEX tăng 9.9 điểm (1.21 %) xuống còn 837.01 điểm, trong khi  cả HNX-INDEX và UPCOM-INDEX đều giảm. 
-Tính đến 15/05/2020, chỉ số của VN-INDEX giảm -5.3 điểm (-0.65 %) xuống còn 827.03 điểm, trong khi HNX-INDEX và UPCOM-INDEX đã thu hẹp đà giảm. 
-Tại thời điểm 14/05/2020, chỉ số của VN-INDEX giảm -1.8 điểm (-0.22 %) xuống còn 832.40 điểm, trong khi HNX-INDEX và UPCOM đều tăng nhẹ. 
-Tạm dừng phiên giao dịch 13/05/2020, chỉ số của VN-INDEX giảm -1.1 điểm (-0.13 %) xuống còn 834.21 điểm, trong khi HNX-INDEX và UPCOM đều tăng nhẹ. 
-Hết ngày 12/05/2020, chỉ số của VN-INDEX tăng 6.9 điểm (0.84 %) xuống còn 835.32 điểm, trong khi cả HNX-INDEX và UPCOM-INDEX đều tăng. 
-Tạm dừng phiên giao dịch 11/05/2020, chỉ số của VN-INDEX tăng 14.6 điểm (1.79 %) xuống còn 828.33 điểm, trong khi cả HNX-INDEX và UPCOM-INDEX đều tăng. 
-Hết ngày 08/05/2020, chỉ số của VN-INDEX tăng 17.1 điểm (2.16 %) xuống còn 813.73 điểm, trong khi cả HNX-INDEX và UPCOM-INDEX đều tăng. 
-Kết thúc phiên giao dịch ngày 07/05/2020, chỉ số của VN-INDEX tăng 13.9 điểm (1.78 %) xuống còn 796.54 điểm, trong khi cả HNX-INDEX và UPCOM-INDEX đều tăng. 
-Đóng cửa phiên giao dịch 06/05/2020, chỉ số của VN-INDEX tăng 18.4 điểm (2.41 %) xuống còn 782.59 điểm, trong khi HNX-INDEX và UPCOM-INDEX đã thu hẹp đà giảm. 
-Hết ngày 02/06/2020, chỉ số VN-INDEX giảm -3.8 điểm (-0.44 %) về mốc 874.80 điểm, Theo đó 01/06/2020, chỉ số HNX-INDEX tăng4.3 điểm (3.94 %) lên tới mốc 874.80 điểm và Trong khi 01/06/2020, chỉ số VN-INDEX tăng0.5 điểm (1.01 %) lên tới mốc 55.59 điểm, 
-Đóng cửa phiên giao dịch 01/06/2020, chỉ số VN-INDEX tăng9.7 điểm (1.12 %) lên tới mốc 878.67 điểm, Theo đó 29/05/2020, chỉ số HNX-INDEX tăng0.1 điểm (0.16 %) lên tới mốc 878.67 điểm và Trong khi 29/05/2020, chỉ số VN-INDEX tăng0.0 điểm (0.03 %) lên tới mốc 55.03 điểm, 
-Kết thúc phiên giao dịch ngày 29/05/2020, chỉ số VN-INDEX tăng3.0 điểm (0.36 %) lên tới mốc 864.47 điểm, Theo đó 28/05/2020, chỉ số HNX-INDEX tăng0.7 điểm (0.68 %) lên tới mốc 864.47 điểm và Trong khi 28/05/2020, chỉ số VN-INDEX tăng0.0 điểm (0.16 %) lên tới mốc 55.01 điểm, 
-Tạm dừng phiên giao dịch 28/05/2020, chỉ số VN-INDEX tăng3.9 điểm (0.46 %) lên tới mốc 861.39 điểm, Theo đó 27/05/2020, chỉ số HNX-INDEX giảm -1.6 điểm (-1.45 %) về mốc 108.89 điểm và Theo đó 27/05/2020, chỉ số VN-INDEX giảm -0.4 điểm (-0.72 %) về mốc 54.93 điểm, 
-Tạm dừng phiên giao dịch 27/05/2020, chỉ số VN-INDEX giảm -11.6 điểm (-1.34 %) về mốc 857.48 điểm, Trong khi 26/05/2020, chỉ số HNX-INDEX tăng1.3 điểm (1.23 %) lên tới mốc 857.48 điểm và Trong khi 26/05/2020, chỉ số VN-INDEX tăng0.3 điểm (0.71 %) lên tới mốc 55.33 điểm, 
-Tại thời điểm 26/05/2020, chỉ số VN-INDEX tăng10.0 điểm (1.17 %) lên tới mốc 869.13 điểm, Theo đó 25/05/2020, chỉ số HNX-INDEX tăng2.1 điểm (1.97 %) lên tới mốc 869.13 điểm và Theo đó 25/05/2020, chỉ số VN-INDEX tăng0.6 điểm (1.28 %) lên tới mốc 54.93 điểm, 
-Kết thúc phiên giao dịch ngày 25/05/2020, chỉ số VN-INDEX tăng6.3 điểm (0.74 %) lên tới mốc 859.04 điểm, Theo đó 22/05/2020, chỉ số HNX-INDEX tăng1.3 điểm (1.23 %) lên tới mốc 859.04 điểm và Trong khi 22/05/2020, chỉ số VN-INDEX giảm -0.0 điểm (-0.13 %) về mốc 54.24 điểm, 
-Kết thúc phiên giao dịch ngày 22/05/2020, chỉ số VN-INDEX giảm -9.9 điểm (-1.16 %) về mốc 852.74 điểm, Trong khi 21/05/2020, chỉ số HNX-INDEX giảm -1.2 điểm (-1.13 %) về mốc 105.74 điểm và Theo đó 21/05/2020, chỉ số VN-INDEX tăng0.3 điểm (0.55 %) lên tới mốc 54.31 điểm, 
-Kết thúc phiên giao dịch ngày 21/05/2020, chỉ số VN-INDEX tăng9.8 điểm (1.15 %) lên tới mốc 862.73 điểm, Theo đó 20/05/2020, chỉ số HNX-INDEX giảm -1.8 điểm (-1.73 %) về mốc 106.94 điểm và Trong khi 20/05/2020, chỉ số VN-INDEX tăng0.2 điểm (0.40 %) lên tới mốc 54.01 điểm, 
-Tại thời điểm 20/05/2020, chỉ số VN-INDEX tăng6.9 điểm (0.83 %) lên tới mốc 852.91 điểm, Trong khi 19/05/2020, chỉ số HNX-INDEX tăng0.2 điểm (0.26 %) lên tới mốc 852.91 điểm và Theo đó 19/05/2020, chỉ số VN-INDEX tăng0.5 điểm (0.96 %) lên tới mốc 53.80 điểm, 
-Tại thời điểm 19/05/2020, chỉ số VN-INDEX tăng8.9 điểm (1.06 %) lên tới mốc 845.92 điểm, Trong khi 18/05/2020, chỉ số HNX-INDEX giảm -0.4 điểm (-0.45 %) về mốc 108.54 điểm và Trong khi 18/05/2020, chỉ số VN-INDEX tăng0.1 điểm (0.25 %) lên tới mốc 53.29 điểm, 
-Hết ngày 18/05/2020, chỉ số VN-INDEX tăng9.9 điểm (1.21 %) lên tới mốc 837.01 điểm, Trong khi 15/05/2020, chỉ số HNX-INDEX giảm -2.3 điểm (-2.08 %) về mốc 109.02 điểm và Trong khi 15/05/2020, chỉ số VN-INDEX giảm -0.3 điểm (-0.62 %) về mốc 53.15 điểm, 
-Tính đến 15/05/2020, chỉ số VN-INDEX giảm -5.3 điểm (-0.65 %) về mốc 827.03 điểm, Trong khi 14/05/2020, chỉ số HNX-INDEX giảm -0.5 điểm (-0.46 %) về mốc 111.34 điểm và Trong khi 14/05/2020, chỉ số VN-INDEX giảm -0.2 điểm (-0.45 %) về mốc 53.48 điểm, 
-Kết thúc phiên giao dịch ngày 14/05/2020, chỉ số VN-INDEX giảm -1.8 điểm (-0.22 %) về mốc 832.40 điểm, Trong khi 13/05/2020, chỉ số HNX-INDEX tăng0.0 điểm (0.08 %) lên tới mốc 832.40 điểm và Trong khi 12/05/2020, chỉ số VN-INDEX tăng0.1 điểm (0.27 %) lên tới mốc 53.63 điểm, 
-Tại thời điểm 13/05/2020, chỉ số VN-INDEX giảm -1.1 điểm (-0.13 %) về mốc 834.21 điểm, Theo đó 12/05/2020, chỉ số HNX-INDEX tăng0.2 điểm (0.18 %) lên tới mốc 834.21 điểm và Trong khi 11/05/2020, chỉ số VN-INDEX tăng0.5 điểm (1.11 %) lên tới mốc 53.49 điểm, 
-Tạm dừng phiên giao dịch 12/05/2020, chỉ số VN-INDEX tăng6.9 điểm (0.84 %) lên tới mốc 835.32 điểm, Trong khi 11/05/2020, chỉ số HNX-INDEX tăng1.5 điểm (1.41 %) lên tới mốc 835.32 điểm và Trong khi 08/05/2020, chỉ số VN-INDEX tăng0.5 điểm (1.03 %) lên tới mốc 52.91 điểm, 
-Hết ngày 11/05/2020, chỉ số VN-INDEX tăng14.6 điểm (1.79 %) lên tới mốc 828.33 điểm, Trong khi 08/05/2020, chỉ số HNX-INDEX tăng1.7 điểm (1.58 %) lên tới mốc 828.33 điểm và Theo đó 07/05/2020, chỉ số VN-INDEX tăng0.0 điểm (0.04 %) lên tới mốc 52.37 điểm, 
-Kết thúc phiên giao dịch ngày 08/05/2020, chỉ số VN-INDEX tăng17.1 điểm (2.16 %) lên tới mốc 813.73 điểm, Trong khi 07/05/2020, chỉ số HNX-INDEX tăng1.6 điểm (1.55 %) lên tới mốc 813.73 điểm và Trong khi 06/05/2020, chỉ số VN-INDEX tăng0.3 điểm (0.70 %) lên tới mốc 52.34 điểm, 
-Hết ngày 07/05/2020, chỉ số VN-INDEX tăng13.9 điểm (1.78 %) lên tới mốc 796.54 điểm, Trong khi 06/05/2020, chỉ số HNX-INDEX tăng1.2 điểm (1.18 %) lên tới mốc 796.54 điểm và Trong khi 05/05/2020, chỉ số VN-INDEX tăng0.0 điểm (0.14 %) lên tới mốc 51.98 điểm, 
-Đóng cửa phiên giao dịch 06/05/2020, chỉ số VN-INDEX tăng18.4 điểm (2.41 %) lên tới mốc 782.59 điểm, Trong khi 05/05/2020, chỉ số HNX-INDEX giảm -0.3 điểm (-0.29 %) về mốc 105.41 điểm và Trong khi 04/05/2020, chỉ số VN-INDEX giảm -0.3 điểm (-0.59 %) về mốc 51.91 điểm, 
-Tại thời điểm 02/06/2020 VN-INDEX giảm -3.8 điểm (-0.44 %) xuống còn 874.80, KLGD thỏa thuận đạt 40 triệu cổ phiếu, tương đương 809 tỷ đồng. Trong khi, HNX-INDEX và UPCOM-INDEX giao dịch lần lượt là 7 triệu, 723,960 cổ phiếu, với giá trị tương ứng là 117 tỷ, 723,960 đồng.
-Đóng cửa phiên giao dịch 01/06/2020 VN-INDEX tăng 9.7 điểm (1.12 %) lên tới 878.67, KLGD thỏa thuận đạt 45 triệu cổ phiếu, tương đương 1,511 tỷ đồng. Trong khi, HNX-INDEX và UPCOM-INDEX giao dịch lần lượt là 7 triệu, 4 triệu cổ phiếu, với giá trị tương ứng là 97 tỷ, 4 triệu
-Tính đến 29/05/2020 VN-INDEX tăng 3.0 điểm (0.36 %) lên tới 864.47, KLGD thỏa thuận đạt 21 triệu cổ phiếu, tương đương 490 tỷ đồng. Trong khi, HNX-INDEX và UPCOM-INDEX giao dịch lần lượt là 2 triệu, 1 triệu cổ phiếu, với giá trị tương ứng là 24 tỷ, 1 triệu
-Kết thúc phiên giao dịch ngày 28/05/2020 VN-INDEX tăng 3.9 điểm (0.46 %) lên tới 861.39, KLGD thỏa thuận đạt 55 triệu cổ phiếu, tương đương 2,700 tỷ đồng. Trong khi, HNX-INDEX và UPCOM-INDEX giao dịch lần lượt là 7 triệu, 1 triệu cổ phiếu, với giá trị tương ứng là 63 tỷ, 1 triệu
-Tính đến 27/05/2020 VN-INDEX giảm -11.6 điểm (-1.34 %) xuống còn 857.48, KLGD thỏa thuận đạt 29 triệu cổ phiếu, tương đương 593 tỷ đồng. Trong khi, HNX-INDEX và UPCOM-INDEX giao dịch lần lượt là 4 triệu, 763,714 cổ phiếu, với giá trị tương ứng là 63 tỷ, 763,714 đồng.
-Hết ngày 26/05/2020 VN-INDEX tăng 10.0 điểm (1.17 %) lên tới 869.13, KLGD thỏa thuận đạt 19 triệu cổ phiếu, tương đương 460 tỷ đồng. Trong khi, HNX-INDEX và UPCOM-INDEX giao dịch lần lượt là 5 triệu, 8 triệu cổ phiếu, với giá trị tương ứng là 65 tỷ, 8 triệu
-Tạm dừng phiên giao dịch 25/05/2020 VN-INDEX tăng 6.3 điểm (0.74 %) lên tới 859.04, KLGD thỏa thuận đạt 40 triệu cổ phiếu, tương đương 1,228 tỷ đồng. Trong khi, HNX-INDEX và UPCOM-INDEX giao dịch lần lượt là 4 triệu, 291,986 cổ phiếu, với giá trị tương ứng là 60 tỷ, 291,986 đồng.
-Tại thời điểm 22/05/2020 VN-INDEX giảm -9.9 điểm (-1.16 %) xuống còn 852.74, KLGD thỏa thuận đạt 25 triệu cổ phiếu, tương đương 556 tỷ đồng. Trong khi, HNX-INDEX và UPCOM-INDEX giao dịch lần lượt là 4 triệu, 1 triệu cổ phiếu, với giá trị tương ứng là 99 tỷ, 1 triệu
-Hết ngày 21/05/2020 VN-INDEX tăng 9.8 điểm (1.15 %) lên tới 862.73, KLGD thỏa thuận đạt 27 triệu cổ phiếu, tương đương 529 tỷ đồng. Trong khi, HNX-INDEX và UPCOM-INDEX giao dịch lần lượt là 5 triệu, 2 triệu cổ phiếu, với giá trị tương ứng là 71 tỷ, 2 triệu
-Đóng cửa phiên giao dịch 20/05/2020 VN-INDEX tăng 6.9 điểm (0.83 %) lên tới 852.91, KLGD thỏa thuận đạt 21 triệu cổ phiếu, tương đương 361 tỷ đồng. Trong khi, HNX-INDEX và UPCOM-INDEX giao dịch lần lượt là 3 triệu, 25 triệu cổ phiếu, với giá trị tương ứng là 55 tỷ, 25 triệu
-Kết thúc phiên giao dịch ngày 19/05/2020 VN-INDEX tăng 8.9 điểm (1.06 %) lên tới 845.92, KLGD thỏa thuận đạt 86 triệu cổ phiếu, tương đương 2,599 tỷ đồng. Trong khi, HNX-INDEX và UPCOM-INDEX giao dịch lần lượt là 5 triệu, 3 triệu cổ phiếu, với giá trị tương ứng là 47 tỷ, 3 triệu
-Kết thúc phiên giao dịch ngày 18/05/2020 VN-INDEX tăng 9.9 điểm (1.21 %) lên tới 837.01, KLGD thỏa thuận đạt 25 triệu cổ phiếu, tương đương 504 tỷ đồng. Trong khi, HNX-INDEX và UPCOM-INDEX giao dịch lần lượt là 2 triệu, 598,859 cổ phiếu, với giá trị tương ứng là 41 tỷ, 598,859 đồng.
-Đóng cửa phiên giao dịch 15/05/2020 VN-INDEX giảm -5.3 điểm (-0.65 %) xuống còn 827.03, KLGD thỏa thuận đạt 21 triệu cổ phiếu, tương đương 703 tỷ đồng. Trong khi, HNX-INDEX và UPCOM-INDEX giao dịch lần lượt là 2 triệu, 76,719 cổ phiếu, với giá trị tương ứng là 25 tỷ, 76,719 đồng.
-Tại thời điểm 14/05/2020 VN-INDEX giảm -1.8 điểm (-0.22 %) xuống còn 832.40, KLGD thỏa thuận đạt 54 triệu cổ phiếu, tương đương 2,835 tỷ đồng. Trong khi, HNX-INDEX và UPCOM-INDEX giao dịch lần lượt là 8 triệu, 1 triệu cổ phiếu, với giá trị tương ứng là 162 tỷ, 1 triệu
-Tạm dừng phiên giao dịch 13/05/2020 VN-INDEX giảm -1.1 điểm (-0.13 %) xuống còn 834.21, KLGD thỏa thuận đạt 28 triệu cổ phiếu, tương đương 846 tỷ đồng. Trong khi, HNX-INDEX và UPCOM-INDEX giao dịch lần lượt là 6 triệu, 175,141 cổ phiếu, với giá trị tương ứng là 55 tỷ, 175,141 đồng.
-Kết thúc phiên giao dịch ngày 12/05/2020 VN-INDEX tăng 6.9 điểm (0.84 %) lên tới 835.32, KLGD thỏa thuận đạt 29 triệu cổ phiếu, tương đương 635 tỷ đồng. Trong khi, HNX-INDEX và UPCOM-INDEX giao dịch lần lượt là 1 triệu, 1 triệu cổ phiếu, với giá trị tương ứng là 23 tỷ, 1 triệu
-Tính đến 11/05/2020 VN-INDEX tăng 14.6 điểm (1.79 %) lên tới 828.33, KLGD thỏa thuận đạt 82 triệu cổ phiếu, tương đương 1,638 tỷ đồng. Trong khi, HNX-INDEX và UPCOM-INDEX giao dịch lần lượt là 3 triệu, 881,282 cổ phiếu, với giá trị tương ứng là 21 tỷ, 881,282 đồng.
-Hết ngày 08/05/2020 VN-INDEX tăng 17.1 điểm (2.16 %) lên tới 813.73, KLGD thỏa thuận đạt 28 triệu cổ phiếu, tương đương 672 tỷ đồng. Trong khi, HNX-INDEX và UPCOM-INDEX giao dịch lần lượt là 9 triệu, 1 triệu cổ phiếu, với giá trị tương ứng là 115 tỷ, 1 triệu
-Tại thời điểm 07/05/2020 VN-INDEX tăng 13.9 điểm (1.78 %) lên tới 796.54, KLGD thỏa thuận đạt 25 triệu cổ phiếu, tương đương 704 tỷ đồng. Trong khi, HNX-INDEX và UPCOM-INDEX giao dịch lần lượt là 1 triệu, 165,440 cổ phiếu, với giá trị tương ứng là 16 tỷ, 165,440 đồng.
-Kết thúc phiên giao dịch ngày 06/05/2020 VN-INDEX tăng 18.4 điểm (2.41 %) lên tới 782.59, KLGD thỏa thuận đạt 61 triệu cổ phiếu, tương đương 2,878 tỷ đồng. Trong khi, HNX-INDEX và UPCOM-INDEX giao dịch lần lượt là 2 triệu, 2 triệu cổ phiếu, với giá trị tương ứng là 31 tỷ, 2 triệu
-Từ ngày 06/05/2020 đến ngày 02/06/2020, chỉ số VN-INDEX có 14 ngày tăng. Trong đó tăng mạnh nhất là ngày 06/05/2020 với 18.4 điểm (2.41 %), KLGD trong ngày này đạt 61 triệu cổ phiếu, tương đương 2,878 tỷ đồng.
+Hết ngày 22/05/2020, chỉ số của VN-INDEX giảm -9.9 điểm (-1.16 %) xuống còn 852.74 điểm, trong khi cả HNX-INDEX và UPCOM-INDEX đều tăng. 
+Đóng cửa phiên giao dịch 21/05/2020, chỉ số của VN-INDEX tăng 9.8 điểm (1.15 %) xuống còn 862.73 điểm, trong khi  HNX-INDEX và UPCOM-INDEX đều biến động. 
+Hết ngày 20/05/2020, chỉ số của VN-INDEX tăng 6.9 điểm (0.83 %) xuống còn 852.91 điểm, trong khi  HNX-INDEX và UPCOM-INDEX đều biến động. 
+Kết thúc phiên giao dịch ngày 19/05/2020, chỉ số của VN-INDEX tăng 8.9 điểm (1.06 %) xuống còn 845.92 điểm, trong khi HNX-INDEX và UPCOM đều tăng nhẹ. 
+Tạm dừng phiên giao dịch 18/05/2020, chỉ số của VN-INDEX tăng 9.9 điểm (1.21 %) xuống còn 837.01 điểm, trong khi HNX-INDEX và UPCOM-INDEX đã thu hẹp đà giảm. 
+Tạm dừng phiên giao dịch 15/05/2020, chỉ số của VN-INDEX giảm -5.3 điểm (-0.65 %) xuống còn 827.03 điểm, trong khi  cả HNX-INDEX và UPCOM-INDEX đều giảm. 
+Hết ngày 14/05/2020, chỉ số của VN-INDEX giảm -1.8 điểm (-0.22 %) xuống còn 832.40 điểm, trong khi  HNX-INDEX và UPCOM-INDEX đều biến động. 
+Hết ngày 13/05/2020, chỉ số của VN-INDEX giảm -1.1 điểm (-0.13 %) xuống còn 834.21 điểm, trong khi HNX-INDEX và UPCOM đều tăng nhẹ. 
+Tạm dừng phiên giao dịch 12/05/2020, chỉ số của VN-INDEX tăng 6.9 điểm (0.84 %) xuống còn 835.32 điểm, trong khi HNX-INDEX và UPCOM đều tăng nhẹ. 
+Tính đến 11/05/2020, chỉ số của VN-INDEX tăng 14.6 điểm (1.79 %) xuống còn 828.33 điểm, trong khi cả HNX-INDEX và UPCOM-INDEX đều tăng. 
+Đóng cửa phiên giao dịch 08/05/2020, chỉ số của VN-INDEX tăng 17.1 điểm (2.16 %) xuống còn 813.73 điểm, trong khi cả HNX-INDEX và UPCOM-INDEX đều tăng. 
+Đóng cửa phiên giao dịch 07/05/2020, chỉ số của VN-INDEX tăng 13.9 điểm (1.78 %) xuống còn 796.54 điểm, trong khi cả HNX-INDEX và UPCOM-INDEX đều tăng. 
+Đóng cửa phiên giao dịch 03/06/2020, chỉ số VN-INDEX tăng6.3 điểm (0.73 %) lên tới mốc 881.17 điểm, Theo đó 03/06/2020, chỉ số HNX-INDEX tăng2.8 điểm (2.50 %) lên tới mốc 881.17 điểm và Theo đó 02/06/2020, chỉ số VN-INDEX tăng0.3 điểm (0.71 %) lên tới mốc 55.98 điểm, 
+Hết ngày 02/06/2020, chỉ số VN-INDEX giảm -3.8 điểm (-0.44 %) về mốc 874.80 điểm, Trong khi 02/06/2020, chỉ số HNX-INDEX giảm -0.4 điểm (-0.43 %) về mốc 113.64 điểm và Trong khi 01/06/2020, chỉ số VN-INDEX tăng0.5 điểm (1.01 %) lên tới mốc 55.59 điểm, 
+Tính đến 01/06/2020, chỉ số VN-INDEX tăng9.7 điểm (1.12 %) lên tới mốc 878.67 điểm, Theo đó 01/06/2020, chỉ số HNX-INDEX tăng4.3 điểm (3.94 %) lên tới mốc 878.67 điểm và Trong khi 29/05/2020, chỉ số VN-INDEX tăng0.0 điểm (0.03 %) lên tới mốc 55.03 điểm, 
+Tại thời điểm 29/05/2020, chỉ số VN-INDEX tăng3.0 điểm (0.36 %) lên tới mốc 864.47 điểm, Theo đó 29/05/2020, chỉ số HNX-INDEX tăng0.1 điểm (0.16 %) lên tới mốc 864.47 điểm và Theo đó 28/05/2020, chỉ số VN-INDEX tăng0.0 điểm (0.16 %) lên tới mốc 55.01 điểm, 
+Tính đến 28/05/2020, chỉ số VN-INDEX tăng3.9 điểm (0.46 %) lên tới mốc 861.39 điểm, Theo đó 28/05/2020, chỉ số HNX-INDEX tăng0.7 điểm (0.68 %) lên tới mốc 861.39 điểm và Trong khi 27/05/2020, chỉ số VN-INDEX giảm -0.4 điểm (-0.72 %) về mốc 54.93 điểm, 
+Tạm dừng phiên giao dịch 27/05/2020, chỉ số VN-INDEX giảm -11.6 điểm (-1.34 %) về mốc 857.48 điểm, Trong khi 27/05/2020, chỉ số HNX-INDEX giảm -1.6 điểm (-1.45 %) về mốc 108.89 điểm và Theo đó 26/05/2020, chỉ số VN-INDEX tăng0.3 điểm (0.71 %) lên tới mốc 55.33 điểm, 
+Kết thúc phiên giao dịch ngày 26/05/2020, chỉ số VN-INDEX tăng10.0 điểm (1.17 %) lên tới mốc 869.13 điểm, Trong khi 26/05/2020, chỉ số HNX-INDEX tăng1.3 điểm (1.23 %) lên tới mốc 869.13 điểm và Theo đó 25/05/2020, chỉ số VN-INDEX tăng0.6 điểm (1.28 %) lên tới mốc 54.93 điểm, 
+Tạm dừng phiên giao dịch 25/05/2020, chỉ số VN-INDEX tăng6.3 điểm (0.74 %) lên tới mốc 859.04 điểm, Trong khi 25/05/2020, chỉ số HNX-INDEX tăng2.1 điểm (1.97 %) lên tới mốc 859.04 điểm và Theo đó 22/05/2020, chỉ số VN-INDEX giảm -0.0 điểm (-0.13 %) về mốc 54.24 điểm, 
+Kết thúc phiên giao dịch ngày 22/05/2020, chỉ số VN-INDEX giảm -9.9 điểm (-1.16 %) về mốc 852.74 điểm, Trong khi 22/05/2020, chỉ số HNX-INDEX tăng1.3 điểm (1.23 %) lên tới mốc 852.74 điểm và Trong khi 21/05/2020, chỉ số VN-INDEX tăng0.3 điểm (0.55 %) lên tới mốc 54.31 điểm, 
+Tại thời điểm 21/05/2020, chỉ số VN-INDEX tăng9.8 điểm (1.15 %) lên tới mốc 862.73 điểm, Trong khi 21/05/2020, chỉ số HNX-INDEX giảm -1.2 điểm (-1.13 %) về mốc 105.74 điểm và Theo đó 20/05/2020, chỉ số VN-INDEX tăng0.2 điểm (0.40 %) lên tới mốc 54.01 điểm, 
+Hết ngày 20/05/2020, chỉ số VN-INDEX tăng6.9 điểm (0.83 %) lên tới mốc 852.91 điểm, Trong khi 20/05/2020, chỉ số HNX-INDEX giảm -1.8 điểm (-1.73 %) về mốc 106.94 điểm và Theo đó 19/05/2020, chỉ số VN-INDEX tăng0.5 điểm (0.96 %) lên tới mốc 53.80 điểm, 
+Tính đến 19/05/2020, chỉ số VN-INDEX tăng8.9 điểm (1.06 %) lên tới mốc 845.92 điểm, Theo đó 19/05/2020, chỉ số HNX-INDEX tăng0.2 điểm (0.26 %) lên tới mốc 845.92 điểm và Trong khi 18/05/2020, chỉ số VN-INDEX tăng0.1 điểm (0.25 %) lên tới mốc 53.29 điểm, 
+Tại thời điểm 18/05/2020, chỉ số VN-INDEX tăng9.9 điểm (1.21 %) lên tới mốc 837.01 điểm, Theo đó 18/05/2020, chỉ số HNX-INDEX giảm -0.4 điểm (-0.45 %) về mốc 108.54 điểm và Trong khi 15/05/2020, chỉ số VN-INDEX giảm -0.3 điểm (-0.62 %) về mốc 53.15 điểm, 
+Kết thúc phiên giao dịch ngày 15/05/2020, chỉ số VN-INDEX giảm -5.3 điểm (-0.65 %) về mốc 827.03 điểm, Theo đó 15/05/2020, chỉ số HNX-INDEX giảm -2.3 điểm (-2.08 %) về mốc 109.02 điểm và Theo đó 14/05/2020, chỉ số VN-INDEX giảm -0.2 điểm (-0.45 %) về mốc 53.48 điểm, 
+Kết thúc phiên giao dịch ngày 14/05/2020, chỉ số VN-INDEX giảm -1.8 điểm (-0.22 %) về mốc 832.40 điểm, Trong khi 14/05/2020, chỉ số HNX-INDEX giảm -0.5 điểm (-0.46 %) về mốc 111.34 điểm và Trong khi 12/05/2020, chỉ số VN-INDEX tăng0.1 điểm (0.27 %) lên tới mốc 53.63 điểm, 
+Tạm dừng phiên giao dịch 13/05/2020, chỉ số VN-INDEX giảm -1.1 điểm (-0.13 %) về mốc 834.21 điểm, Theo đó 13/05/2020, chỉ số HNX-INDEX tăng0.0 điểm (0.08 %) lên tới mốc 834.21 điểm và Theo đó 11/05/2020, chỉ số VN-INDEX tăng0.5 điểm (1.11 %) lên tới mốc 53.49 điểm, 
+Hết ngày 12/05/2020, chỉ số VN-INDEX tăng6.9 điểm (0.84 %) lên tới mốc 835.32 điểm, Trong khi 12/05/2020, chỉ số HNX-INDEX tăng0.2 điểm (0.18 %) lên tới mốc 835.32 điểm và Trong khi 08/05/2020, chỉ số VN-INDEX tăng0.5 điểm (1.03 %) lên tới mốc 52.91 điểm, 
+Hết ngày 11/05/2020, chỉ số VN-INDEX tăng14.6 điểm (1.79 %) lên tới mốc 828.33 điểm, Theo đó 11/05/2020, chỉ số HNX-INDEX tăng1.5 điểm (1.41 %) lên tới mốc 828.33 điểm và Trong khi 07/05/2020, chỉ số VN-INDEX tăng0.0 điểm (0.04 %) lên tới mốc 52.37 điểm, 
+Tính đến 08/05/2020, chỉ số VN-INDEX tăng17.1 điểm (2.16 %) lên tới mốc 813.73 điểm, Theo đó 08/05/2020, chỉ số HNX-INDEX tăng1.7 điểm (1.58 %) lên tới mốc 813.73 điểm và Trong khi 06/05/2020, chỉ số VN-INDEX tăng0.3 điểm (0.70 %) lên tới mốc 52.34 điểm, 
+Tính đến 07/05/2020, chỉ số VN-INDEX tăng13.9 điểm (1.78 %) lên tới mốc 796.54 điểm, Trong khi 07/05/2020, chỉ số HNX-INDEX tăng1.6 điểm (1.55 %) lên tới mốc 796.54 điểm và Trong khi 05/05/2020, chỉ số VN-INDEX tăng0.0 điểm (0.14 %) lên tới mốc 51.98 điểm, 
+Tính đến 03/06/2020 VN-INDEX tăng 6.3 điểm (0.73 %) lên tới 881.17, KLGD thỏa thuận đạt 15 triệu cổ phiếu, tương đương 366 tỷ đồng. Trong khi, HNX-INDEX và UPCOM-INDEX giao dịch lần lượt là 0, 2 triệu cổ phiếu, với giá trị tương ứng là 0, 2 triệu
+Tính đến 02/06/2020 VN-INDEX giảm -3.8 điểm (-0.44 %) xuống còn 874.80, KLGD thỏa thuận đạt 40 triệu cổ phiếu, tương đương 809 tỷ đồng. Trong khi, HNX-INDEX và UPCOM-INDEX giao dịch lần lượt là 3 triệu, 723,960 cổ phiếu, với giá trị tương ứng là 38 tỷ, 723,960 đồng.
+Hết ngày 01/06/2020 VN-INDEX tăng 9.7 điểm (1.12 %) lên tới 878.67, KLGD thỏa thuận đạt 45 triệu cổ phiếu, tương đương 1,511 tỷ đồng. Trong khi, HNX-INDEX và UPCOM-INDEX giao dịch lần lượt là 7 triệu, 4 triệu cổ phiếu, với giá trị tương ứng là 117 tỷ, 4 triệu
+Tạm dừng phiên giao dịch 29/05/2020 VN-INDEX tăng 3.0 điểm (0.36 %) lên tới 864.47, KLGD thỏa thuận đạt 21 triệu cổ phiếu, tương đương 490 tỷ đồng. Trong khi, HNX-INDEX và UPCOM-INDEX giao dịch lần lượt là 7 triệu, 1 triệu cổ phiếu, với giá trị tương ứng là 97 tỷ, 1 triệu
+Tính đến 28/05/2020 VN-INDEX tăng 3.9 điểm (0.46 %) lên tới 861.39, KLGD thỏa thuận đạt 55 triệu cổ phiếu, tương đương 2,700 tỷ đồng. Trong khi, HNX-INDEX và UPCOM-INDEX giao dịch lần lượt là 2 triệu, 1 triệu cổ phiếu, với giá trị tương ứng là 24 tỷ, 1 triệu
+Tính đến 27/05/2020 VN-INDEX giảm -11.6 điểm (-1.34 %) xuống còn 857.48, KLGD thỏa thuận đạt 29 triệu cổ phiếu, tương đương 593 tỷ đồng. Trong khi, HNX-INDEX và UPCOM-INDEX giao dịch lần lượt là 7 triệu, 763,714 cổ phiếu, với giá trị tương ứng là 63 tỷ, 763,714 đồng.
+Tính đến 26/05/2020 VN-INDEX tăng 10.0 điểm (1.17 %) lên tới 869.13, KLGD thỏa thuận đạt 19 triệu cổ phiếu, tương đương 460 tỷ đồng. Trong khi, HNX-INDEX và UPCOM-INDEX giao dịch lần lượt là 4 triệu, 8 triệu cổ phiếu, với giá trị tương ứng là 63 tỷ, 8 triệu
+Hết ngày 25/05/2020 VN-INDEX tăng 6.3 điểm (0.74 %) lên tới 859.04, KLGD thỏa thuận đạt 40 triệu cổ phiếu, tương đương 1,228 tỷ đồng. Trong khi, HNX-INDEX và UPCOM-INDEX giao dịch lần lượt là 5 triệu, 291,986 cổ phiếu, với giá trị tương ứng là 65 tỷ, 291,986 đồng.
+Đóng cửa phiên giao dịch 22/05/2020 VN-INDEX giảm -9.9 điểm (-1.16 %) xuống còn 852.74, KLGD thỏa thuận đạt 25 triệu cổ phiếu, tương đương 556 tỷ đồng. Trong khi, HNX-INDEX và UPCOM-INDEX giao dịch lần lượt là 4 triệu, 1 triệu cổ phiếu, với giá trị tương ứng là 60 tỷ, 1 triệu
+Tính đến 21/05/2020 VN-INDEX tăng 9.8 điểm (1.15 %) lên tới 862.73, KLGD thỏa thuận đạt 27 triệu cổ phiếu, tương đương 529 tỷ đồng. Trong khi, HNX-INDEX và UPCOM-INDEX giao dịch lần lượt là 4 triệu, 2 triệu cổ phiếu, với giá trị tương ứng là 99 tỷ, 2 triệu
+Tạm dừng phiên giao dịch 20/05/2020 VN-INDEX tăng 6.9 điểm (0.83 %) lên tới 852.91, KLGD thỏa thuận đạt 21 triệu cổ phiếu, tương đương 361 tỷ đồng. Trong khi, HNX-INDEX và UPCOM-INDEX giao dịch lần lượt là 5 triệu, 25 triệu cổ phiếu, với giá trị tương ứng là 71 tỷ, 25 triệu
+Tính đến 19/05/2020 VN-INDEX tăng 8.9 điểm (1.06 %) lên tới 845.92, KLGD thỏa thuận đạt 86 triệu cổ phiếu, tương đương 2,599 tỷ đồng. Trong khi, HNX-INDEX và UPCOM-INDEX giao dịch lần lượt là 3 triệu, 3 triệu cổ phiếu, với giá trị tương ứng là 55 tỷ, 3 triệu
+Tính đến 18/05/2020 VN-INDEX tăng 9.9 điểm (1.21 %) lên tới 837.01, KLGD thỏa thuận đạt 25 triệu cổ phiếu, tương đương 504 tỷ đồng. Trong khi, HNX-INDEX và UPCOM-INDEX giao dịch lần lượt là 5 triệu, 598,859 cổ phiếu, với giá trị tương ứng là 47 tỷ, 598,859 đồng.
+Tạm dừng phiên giao dịch 15/05/2020 VN-INDEX giảm -5.3 điểm (-0.65 %) xuống còn 827.03, KLGD thỏa thuận đạt 21 triệu cổ phiếu, tương đương 703 tỷ đồng. Trong khi, HNX-INDEX và UPCOM-INDEX giao dịch lần lượt là 2 triệu, 76,719 cổ phiếu, với giá trị tương ứng là 41 tỷ, 76,719 đồng.
+Kết thúc phiên giao dịch ngày 14/05/2020 VN-INDEX giảm -1.8 điểm (-0.22 %) xuống còn 832.40, KLGD thỏa thuận đạt 54 triệu cổ phiếu, tương đương 2,835 tỷ đồng. Trong khi, HNX-INDEX và UPCOM-INDEX giao dịch lần lượt là 2 triệu, 1 triệu cổ phiếu, với giá trị tương ứng là 25 tỷ, 1 triệu
+Tính đến 13/05/2020 VN-INDEX giảm -1.1 điểm (-0.13 %) xuống còn 834.21, KLGD thỏa thuận đạt 28 triệu cổ phiếu, tương đương 846 tỷ đồng. Trong khi, HNX-INDEX và UPCOM-INDEX giao dịch lần lượt là 8 triệu, 175,141 cổ phiếu, với giá trị tương ứng là 162 tỷ, 175,141 đồng.
+Tính đến 12/05/2020 VN-INDEX tăng 6.9 điểm (0.84 %) lên tới 835.32, KLGD thỏa thuận đạt 29 triệu cổ phiếu, tương đương 635 tỷ đồng. Trong khi, HNX-INDEX và UPCOM-INDEX giao dịch lần lượt là 6 triệu, 1 triệu cổ phiếu, với giá trị tương ứng là 55 tỷ, 1 triệu
+Kết thúc phiên giao dịch ngày 11/05/2020 VN-INDEX tăng 14.6 điểm (1.79 %) lên tới 828.33, KLGD thỏa thuận đạt 82 triệu cổ phiếu, tương đương 1,638 tỷ đồng. Trong khi, HNX-INDEX và UPCOM-INDEX giao dịch lần lượt là 1 triệu, 881,282 cổ phiếu, với giá trị tương ứng là 23 tỷ, 881,282 đồng.
+Đóng cửa phiên giao dịch 08/05/2020 VN-INDEX tăng 17.1 điểm (2.16 %) lên tới 813.73, KLGD thỏa thuận đạt 28 triệu cổ phiếu, tương đương 672 tỷ đồng. Trong khi, HNX-INDEX và UPCOM-INDEX giao dịch lần lượt là 3 triệu, 1 triệu cổ phiếu, với giá trị tương ứng là 21 tỷ, 1 triệu
+Tại thời điểm 07/05/2020 VN-INDEX tăng 13.9 điểm (1.78 %) lên tới 796.54, KLGD thỏa thuận đạt 25 triệu cổ phiếu, tương đương 704 tỷ đồng. Trong khi, HNX-INDEX và UPCOM-INDEX giao dịch lần lượt là 9 triệu, 165,440 cổ phiếu, với giá trị tương ứng là 115 tỷ, 165,440 đồng.
+Từ ngày 07/05/2020 đến ngày 03/06/2020, chỉ số VN-INDEX có 14 ngày tăng. Trong đó tăng mạnh nhất là ngày 08/05/2020 với 17.1 điểm (2.16 %), KLGD trong ngày này đạt 28 triệu cổ phiếu, tương đương 672 tỷ đồng.
+Ngày 03/06/2020, chỉ số VN-INDEX đã có chút khởi sắc sau 1 ngày giảm. 
 Đây là phiên giảm điểm đầu tiên sau 4 ngày tăng liên tiếp ( Ngày 02/06/2020) của VN-INDEX.
 Như vậy ngày 01/06/2020, đã là ngày tăng thứ 3 liên tiếp của VN-INDEX.
 Như vậy ngày 29/05/2020, đã là ngày tăng thứ 2 liên tiếp của VN-INDEX.
@@ -133,36 +134,127 @@ Như vậy ngày 19/05/2020, đã là ngày tăng thứ 2 liên tiếp của VN-
 Ngày 18/05/2020, chỉ số VN-INDEX đã tăng 9.9 điểm (1.21 %) sau 3 ngày giảm liên tiếp.
 Ngày 15/05/2020, đã là phiên giảm điểm thứ 21 liên tiếp của VN-INDEX.
 Ngày 14/05/2020, chỉ số VN-INDEX tiếp tục giảm sau khi bắt đầu giảm 1 ngày trước đó.
-Đây là phiên giảm điểm đầu tiên sau 6 ngày tăng liên tiếp ( Ngày 13/05/2020) của VN-INDEX.
-Như vậy ngày 12/05/2020, đã là ngày tăng thứ 5 liên tiếp của VN-INDEX.
-Như vậy ngày 11/05/2020, đã là ngày tăng thứ 4 liên tiếp của VN-INDEX.
-Như vậy ngày 08/05/2020, đã là ngày tăng thứ 3 liên tiếp của VN-INDEX.
-Như vậy ngày 07/05/2020, đã là ngày tăng thứ 2 liên tiếp của VN-INDEX.
-Ngày 06/05/2020, chỉ số VN-INDEX đã tăng 18.4 điểm (2.41 %) sau 0 ngày giảm liên tiếp.
-Tại thời điểm 02/06/2020, chỉ số VN-INDEX tăng -3.8 điểm (-0.44 %), chỉ số UPCOM-INDEX tăng 0.5 điểm (1.01 %), chỉ số HNX-INDEX tăng 4.3 điểm (3.94 %). Thanh khoản thị trường duy trì khá tốt với giá trị khớp lệnh 3 sàn lần lượt là 6,022 tỷ, 343 tỷ, 820 tỷ.
-Tạm dừng phiên giao dịch 01/06/2020, chỉ số VN-INDEX tăng 9.7 điểm (1.12 %), chỉ số UPCOM-INDEX tăng 0.0 điểm (0.03 %), chỉ số HNX-INDEX tăng 0.1 điểm (0.16 %). Thanh khoản thị trường duy trì khá tốt với giá trị khớp lệnh 3 sàn lần lượt là 5,100 tỷ, 272 tỷ, 425 tỷ.
-Hết ngày 29/05/2020, chỉ số VN-INDEX tăng 3.0 điểm (0.36 %), chỉ số UPCOM-INDEX tăng 0.0 điểm (0.16 %), chỉ số HNX-INDEX tăng 0.7 điểm (0.68 %). Thanh khoản thị trường duy trì khá tốt với giá trị khớp lệnh 3 sàn lần lượt là 4,177 tỷ, 194 tỷ, 456 tỷ.
-Tạm dừng phiên giao dịch 28/05/2020, chỉ số VN-INDEX tăng 3.9 điểm (0.46 %), chỉ số UPCOM-INDEX tăng -0.4 điểm (-0.72 %), chỉ số HNX-INDEX tăng -1.6 điểm (-1.45 %). Thanh khoản thị trường giảm nhẹ nhưng vẫn ở mức tương đối với giá trị khớp lệnh của VN-INDEX là 4,481 tỷ.
-Tạm dừng phiên giao dịch 27/05/2020, chỉ số VN-INDEX tăng -11.6 điểm (-1.34 %), chỉ số UPCOM-INDEX tăng 0.3 điểm (0.71 %), chỉ số HNX-INDEX tăng 1.3 điểm (1.23 %). Thanh khoản thị trường duy trì khá tốt với giá trị khớp lệnh 3 sàn lần lượt là 5,960 tỷ, 264 tỷ, 692 tỷ.
-Hết ngày 26/05/2020, chỉ số VN-INDEX tăng 10.0 điểm (1.17 %), chỉ số UPCOM-INDEX tăng 0.6 điểm (1.28 %), chỉ số HNX-INDEX tăng 2.1 điểm (1.97 %). Thanh khoản thị trường duy trì khá tốt với giá trị khớp lệnh 3 sàn lần lượt là 4,963 tỷ, 257 tỷ, 513 tỷ.
-Tính đến 25/05/2020, chỉ số VN-INDEX tăng 6.3 điểm (0.74 %), chỉ số UPCOM-INDEX tăng -0.0 điểm (-0.13 %), chỉ số HNX-INDEX tăng 1.3 điểm (1.23 %). Thanh khoản thị trường duy trì khá tốt với giá trị khớp lệnh 3 sàn lần lượt là 4,438 tỷ, 279 tỷ, 703 tỷ.
-Kết thúc phiên giao dịch ngày 22/05/2020, chỉ số VN-INDEX tăng -9.9 điểm (-1.16 %), chỉ số UPCOM-INDEX tăng 0.3 điểm (0.55 %), chỉ số HNX-INDEX tăng -1.2 điểm (-1.13 %). Thanh khoản thị trường giảm nhẹ nhưng vẫn ở mức tương đối với giá trị khớp lệnh của VN-INDEX là 4,473 tỷ.
-Hết ngày 21/05/2020, chỉ số VN-INDEX tăng 9.8 điểm (1.15 %), chỉ số UPCOM-INDEX tăng 0.2 điểm (0.40 %), chỉ số HNX-INDEX tăng -1.8 điểm (-1.73 %). Thanh khoản thị trường duy trì khá tốt với giá trị khớp lệnh 3 sàn lần lượt là 4,813 tỷ, 276 tỷ, 395 tỷ.
-Tính đến 20/05/2020, chỉ số VN-INDEX tăng 6.9 điểm (0.83 %), chỉ số UPCOM-INDEX tăng 0.5 điểm (0.96 %), chỉ số HNX-INDEX tăng 0.2 điểm (0.26 %). Thanh khoản thị trường duy trì khá tốt với giá trị khớp lệnh 3 sàn lần lượt là 3,895 tỷ, 318 tỷ, 567 tỷ.
-Tính đến 19/05/2020, chỉ số VN-INDEX tăng 8.9 điểm (1.06 %), chỉ số UPCOM-INDEX tăng 0.1 điểm (0.25 %), chỉ số HNX-INDEX tăng -0.4 điểm (-0.45 %). Thanh khoản thị trường duy trì khá tốt với giá trị khớp lệnh 3 sàn lần lượt là 5,322 tỷ, 215 tỷ, 444 tỷ.
-Tính đến 18/05/2020, chỉ số VN-INDEX tăng 9.9 điểm (1.21 %), chỉ số UPCOM-INDEX tăng -0.3 điểm (-0.62 %), chỉ số HNX-INDEX tăng -2.3 điểm (-2.08 %). Thanh khoản thị trường giảm nhẹ nhưng vẫn ở mức tương đối với giá trị khớp lệnh của VN-INDEX là 3,827 tỷ.
-Đóng cửa phiên giao dịch 15/05/2020, chỉ số VN-INDEX tăng -5.3 điểm (-0.65 %), chỉ số UPCOM-INDEX tăng -0.2 điểm (-0.45 %), chỉ số HNX-INDEX tăng -0.5 điểm (-0.46 %). Thanh khoản thị trường giảm nhẹ nhưng vẫn ở mức tương đối với giá trị khớp lệnh của VN-INDEX là 4,220 tỷ.
-Tính đến 14/05/2020, chỉ số VN-INDEX tăng -1.8 điểm (-0.22 %), chỉ số UPCOM-INDEX tăng 0.1 điểm (0.27 %), chỉ số HNX-INDEX tăng 0.0 điểm (0.08 %). Thanh khoản thị trường duy trì khá tốt với giá trị khớp lệnh 3 sàn lần lượt là 4,501 tỷ, 254 tỷ, 509 tỷ.
-Kết thúc phiên giao dịch ngày 13/05/2020, chỉ số VN-INDEX tăng -1.1 điểm (-0.13 %), chỉ số UPCOM-INDEX tăng 0.5 điểm (1.11 %), chỉ số HNX-INDEX tăng 0.2 điểm (0.18 %). Thanh khoản thị trường duy trì khá tốt với giá trị khớp lệnh 3 sàn lần lượt là 5,685 tỷ, 311 tỷ, 488 tỷ.
-Đóng cửa phiên giao dịch 12/05/2020, chỉ số VN-INDEX tăng 6.9 điểm (0.84 %), chỉ số UPCOM-INDEX tăng 0.5 điểm (1.03 %), chỉ số HNX-INDEX tăng 1.5 điểm (1.41 %). Thanh khoản thị trường duy trì khá tốt với giá trị khớp lệnh 3 sàn lần lượt là 5,018 tỷ, 325 tỷ, 459 tỷ.
-Đóng cửa phiên giao dịch 11/05/2020, chỉ số VN-INDEX tăng 14.6 điểm (1.79 %), chỉ số UPCOM-INDEX tăng 0.0 điểm (0.04 %), chỉ số HNX-INDEX tăng 1.7 điểm (1.58 %). Thanh khoản thị trường duy trì khá tốt với giá trị khớp lệnh 3 sàn lần lượt là 4,472 tỷ, 213 tỷ, 544 tỷ.
-Hết ngày 08/05/2020, chỉ số VN-INDEX tăng 17.1 điểm (2.16 %), chỉ số UPCOM-INDEX tăng 0.3 điểm (0.70 %), chỉ số HNX-INDEX tăng 1.6 điểm (1.55 %). Thanh khoản thị trường duy trì khá tốt với giá trị khớp lệnh 3 sàn lần lượt là 6,274 tỷ, 197 tỷ, 360 tỷ.
-Tạm dừng phiên giao dịch 07/05/2020, chỉ số VN-INDEX tăng 13.9 điểm (1.78 %), chỉ số UPCOM-INDEX tăng 0.0 điểm (0.14 %), chỉ số HNX-INDEX tăng 1.2 điểm (1.18 %). Thanh khoản thị trường duy trì khá tốt với giá trị khớp lệnh 3 sàn lần lượt là 3,602 tỷ, 119 tỷ, 400 tỷ.
-Kết thúc phiên giao dịch ngày 06/05/2020, chỉ số VN-INDEX tăng 18.4 điểm (2.41 %), chỉ số UPCOM-INDEX tăng -0.3 điểm (-0.59 %), chỉ số HNX-INDEX tăng -0.3 điểm (-0.29 %). Thanh khoản thị trường giảm nhẹ nhưng vẫn ở mức tương đối với giá trị khớp lệnh của VN-INDEX là 3,429 tỷ.
-hôm nay Có 108 mã tăng 68 mã giảm chủ yếu là các mindcap. 
+Đây là phiên giảm điểm đầu tiên sau 5 ngày tăng liên tiếp ( Ngày 13/05/2020) của VN-INDEX.
+Như vậy ngày 12/05/2020, đã là ngày tăng thứ 4 liên tiếp của VN-INDEX.
+Như vậy ngày 11/05/2020, đã là ngày tăng thứ 3 liên tiếp của VN-INDEX.
+Như vậy ngày 08/05/2020, đã là ngày tăng thứ 2 liên tiếp của VN-INDEX.
+Ngày 07/05/2020, chỉ số VN-INDEX đã tăng 13.9 điểm (1.78 %) sau 0 ngày giảm liên tiếp.
+Hết ngày 03/06/2020, chỉ số VN-INDEX tăng 6.3 điểm (0.73 %), chỉ số UPCOM-INDEX tăng 0.3 điểm (0.71 %), chỉ số HNX-INDEX tăng 2.8 điểm (2.50 %). Thanh khoản thị trường duy trì khá tốt với giá trị khớp lệnh 3 sàn lần lượt là 4,295 tỷ, 496 tỷ, 623 tỷ.
+Đóng cửa phiên giao dịch 02/06/2020, chỉ số VN-INDEX tăng -3.8 điểm (-0.44 %), chỉ số UPCOM-INDEX tăng 0.5 điểm (1.01 %), chỉ số HNX-INDEX tăng -0.4 điểm (-0.43 %). Thanh khoản thị trường giảm nhẹ nhưng vẫn ở mức tương đối với giá trị khớp lệnh của VN-INDEX là 6,022 tỷ.
+Tại thời điểm 01/06/2020, chỉ số VN-INDEX tăng 9.7 điểm (1.12 %), chỉ số UPCOM-INDEX tăng 0.0 điểm (0.03 %), chỉ số HNX-INDEX tăng 4.3 điểm (3.94 %). Thanh khoản thị trường duy trì khá tốt với giá trị khớp lệnh 3 sàn lần lượt là 5,100 tỷ, 272 tỷ, 820 tỷ.
+Tại thời điểm 29/05/2020, chỉ số VN-INDEX tăng 3.0 điểm (0.36 %), chỉ số UPCOM-INDEX tăng 0.0 điểm (0.16 %), chỉ số HNX-INDEX tăng 0.1 điểm (0.16 %). Thanh khoản thị trường duy trì khá tốt với giá trị khớp lệnh 3 sàn lần lượt là 4,177 tỷ, 194 tỷ, 425 tỷ.
+Tạm dừng phiên giao dịch 28/05/2020, chỉ số VN-INDEX tăng 3.9 điểm (0.46 %), chỉ số UPCOM-INDEX tăng -0.4 điểm (-0.72 %), chỉ số HNX-INDEX tăng 0.7 điểm (0.68 %). Thanh khoản thị trường duy trì khá tốt với giá trị khớp lệnh 3 sàn lần lượt là 4,481 tỷ, 329 tỷ, 456 tỷ.
+Tính đến 27/05/2020, chỉ số VN-INDEX tăng -11.6 điểm (-1.34 %), chỉ số UPCOM-INDEX tăng 0.3 điểm (0.71 %), chỉ số HNX-INDEX tăng -1.6 điểm (-1.45 %). Thanh khoản thị trường giảm nhẹ nhưng vẫn ở mức tương đối với giá trị khớp lệnh của VN-INDEX là 5,960 tỷ.
+Tính đến 26/05/2020, chỉ số VN-INDEX tăng 10.0 điểm (1.17 %), chỉ số UPCOM-INDEX tăng 0.6 điểm (1.28 %), chỉ số HNX-INDEX tăng 1.3 điểm (1.23 %). Thanh khoản thị trường duy trì khá tốt với giá trị khớp lệnh 3 sàn lần lượt là 4,963 tỷ, 257 tỷ, 692 tỷ.
+Hết ngày 25/05/2020, chỉ số VN-INDEX tăng 6.3 điểm (0.74 %), chỉ số UPCOM-INDEX tăng -0.0 điểm (-0.13 %), chỉ số HNX-INDEX tăng 2.1 điểm (1.97 %). Thanh khoản thị trường duy trì khá tốt với giá trị khớp lệnh 3 sàn lần lượt là 4,438 tỷ, 279 tỷ, 513 tỷ.
+Tại thời điểm 22/05/2020, chỉ số VN-INDEX tăng -9.9 điểm (-1.16 %), chỉ số UPCOM-INDEX tăng 0.3 điểm (0.55 %), chỉ số HNX-INDEX tăng 1.3 điểm (1.23 %). Thanh khoản thị trường duy trì khá tốt với giá trị khớp lệnh 3 sàn lần lượt là 4,473 tỷ, 215 tỷ, 703 tỷ.
+Tại thời điểm 21/05/2020, chỉ số VN-INDEX tăng 9.8 điểm (1.15 %), chỉ số UPCOM-INDEX tăng 0.2 điểm (0.40 %), chỉ số HNX-INDEX tăng -1.2 điểm (-1.13 %). Thanh khoản thị trường duy trì khá tốt với giá trị khớp lệnh 3 sàn lần lượt là 4,813 tỷ, 276 tỷ, 754 tỷ.
+Tạm dừng phiên giao dịch 20/05/2020, chỉ số VN-INDEX tăng 6.9 điểm (0.83 %), chỉ số UPCOM-INDEX tăng 0.5 điểm (0.96 %), chỉ số HNX-INDEX tăng -1.8 điểm (-1.73 %). Thanh khoản thị trường duy trì khá tốt với giá trị khớp lệnh 3 sàn lần lượt là 3,895 tỷ, 318 tỷ, 395 tỷ.
+Hết ngày 19/05/2020, chỉ số VN-INDEX tăng 8.9 điểm (1.06 %), chỉ số UPCOM-INDEX tăng 0.1 điểm (0.25 %), chỉ số HNX-INDEX tăng 0.2 điểm (0.26 %). Thanh khoản thị trường duy trì khá tốt với giá trị khớp lệnh 3 sàn lần lượt là 5,322 tỷ, 215 tỷ, 567 tỷ.
+Tính đến 18/05/2020, chỉ số VN-INDEX tăng 9.9 điểm (1.21 %), chỉ số UPCOM-INDEX tăng -0.3 điểm (-0.62 %), chỉ số HNX-INDEX tăng -0.4 điểm (-0.45 %). Thanh khoản thị trường giảm nhẹ nhưng vẫn ở mức tương đối với giá trị khớp lệnh của VN-INDEX là 3,827 tỷ.
+Tính đến 15/05/2020, chỉ số VN-INDEX tăng -5.3 điểm (-0.65 %), chỉ số UPCOM-INDEX tăng -0.2 điểm (-0.45 %), chỉ số HNX-INDEX tăng -2.3 điểm (-2.08 %). Thanh khoản thị trường giảm nhẹ nhưng vẫn ở mức tương đối với giá trị khớp lệnh của VN-INDEX là 4,220 tỷ.
+Tạm dừng phiên giao dịch 14/05/2020, chỉ số VN-INDEX tăng -1.8 điểm (-0.22 %), chỉ số UPCOM-INDEX tăng 0.1 điểm (0.27 %), chỉ số HNX-INDEX tăng -0.5 điểm (-0.46 %). Thanh khoản thị trường giảm nhẹ nhưng vẫn ở mức tương đối với giá trị khớp lệnh của VN-INDEX là 4,501 tỷ.
+Đóng cửa phiên giao dịch 13/05/2020, chỉ số VN-INDEX tăng -1.1 điểm (-0.13 %), chỉ số UPCOM-INDEX tăng 0.5 điểm (1.11 %), chỉ số HNX-INDEX tăng 0.0 điểm (0.08 %). Thanh khoản thị trường duy trì khá tốt với giá trị khớp lệnh 3 sàn lần lượt là 5,685 tỷ, 311 tỷ, 509 tỷ.
+Tạm dừng phiên giao dịch 12/05/2020, chỉ số VN-INDEX tăng 6.9 điểm (0.84 %), chỉ số UPCOM-INDEX tăng 0.5 điểm (1.03 %), chỉ số HNX-INDEX tăng 0.2 điểm (0.18 %). Thanh khoản thị trường duy trì khá tốt với giá trị khớp lệnh 3 sàn lần lượt là 5,018 tỷ, 325 tỷ, 488 tỷ.
+Kết thúc phiên giao dịch ngày 11/05/2020, chỉ số VN-INDEX tăng 14.6 điểm (1.79 %), chỉ số UPCOM-INDEX tăng 0.0 điểm (0.04 %), chỉ số HNX-INDEX tăng 1.5 điểm (1.41 %). Thanh khoản thị trường duy trì khá tốt với giá trị khớp lệnh 3 sàn lần lượt là 4,472 tỷ, 213 tỷ, 459 tỷ.
+Tính đến 08/05/2020, chỉ số VN-INDEX tăng 17.1 điểm (2.16 %), chỉ số UPCOM-INDEX tăng 0.3 điểm (0.70 %), chỉ số HNX-INDEX tăng 1.7 điểm (1.58 %). Thanh khoản thị trường duy trì khá tốt với giá trị khớp lệnh 3 sàn lần lượt là 6,274 tỷ, 197 tỷ, 544 tỷ.
+Tại thời điểm 07/05/2020, chỉ số VN-INDEX tăng 13.9 điểm (1.78 %), chỉ số UPCOM-INDEX tăng 0.0 điểm (0.14 %), chỉ số HNX-INDEX tăng 1.6 điểm (1.55 %). Thanh khoản thị trường duy trì khá tốt với giá trị khớp lệnh 3 sàn lần lượt là 3,602 tỷ, 119 tỷ, 360 tỷ.
+hôm nay Có 174 mã tăng 130 mã giảm chủ yếu là các mindcap. 
 Các mã tăng nổi bật trong phiên hôm nay có: MDN , BTD , SKV... trong khi đó thì các mã giảm nhiều nhất bao gồm: DAP , CNH , ATB...
 Các nhóm cổ phiếu được giao dịch nhiều nhất trong ngày có: BSR( CTCP Lọc - Hóa dầu Bình Sơn) , VGI( Tổng CTCP Đầu tư Quốc tế Viettel) , LPB( Ngân hàng TMCP Bưu điện Liên Việt)
 Giao dịch với khối lượng lớn nhất trong ngày là mã  BSR đạt NULL cổ phiếu 
 Theo sau đó là mã VGI với khối lượng giao dịch đạt NULL cổ phiếu. Đứng thứ 3 trong ngày hôm nay là cổ phiếu LPB đạt NULL cổ phiếu
 Mã cổ phiếu: MDN( CTCP Tổng công ty May Đồng Nai ) đạt tỉ lệ tăng lớn nhất trong ngày  với mức NULL
-Ở chiều hướng ngược lại có sự giảm của các mã: DAP , CNH , ATBvới mức giảm lần lượt là NULL , NULL , NULL
+Ở chiều hướng ngược lại có sự giảm của các mã: DAP , CNH , ATBvới mức giảm lần lượt là NULL , NULL , NULLTính đếnhôm nay, VN-Index chốt tại 881.17 điểm (+0.73 %)Trong khi HNX-Index tăng mạnh và dừng chân tại 116.49 điểm (+2.5%).
+Hết ngàyhôm nay, VN-Index chốt tại 874.80 điểm (-0.44 %)Theo đó HNX-Index giảm nhẹ và dừng chân tại 113.64 điểm (-0.43%).
+Hết ngàyhôm nay, VN-Index chốt tại 878.67 điểm (+1.12 %)Trong khi HNX-Index tăng mạnh và dừng chân tại 114.14 điểm (+3.94%).
+Đóng cửa phiên giao dịchhôm nay, VN-Index chốt tại 864.47 điểm (+0.36 %)Trong khi HNX-Index tăng nhẹ và dừng chân tại 109.81 điểm (+0.16%).
+Tại thời điểmhôm nay, VN-Index chốt tại 861.39 điểm (+0.46 %)Theo đó HNX-Index tăng và dừng chân tại 109.64 điểm (+0.68%).
+Đóng cửa phiên giao dịchhôm nay, VN-Index chốt tại 857.48 điểm (-1.34 %)Theo đó HNX-Index giảm và dừng chân tại 108.89 điểm (-1.45%).
+Tạm dừng phiên giao dịchhôm nay, VN-Index chốt tại 869.13 điểm (+1.17 %)Trong khi HNX-Index tăng và dừng chân tại 110.49 điểm (+1.23%).
+Tạm dừng phiên giao dịchhôm nay, VN-Index chốt tại 859.04 điểm (+0.74 %)Trong khi HNX-Index tăng mạnh và dừng chân tại 109.15 điểm (+1.97%).
+Tại thời điểmhôm nay, VN-Index chốt tại 852.74 điểm (-1.16 %)Theo đó HNX-Index tăng và dừng chân tại 107.04 điểm (+1.23%).
+Đóng cửa phiên giao dịchhôm nay, VN-Index chốt tại 862.73 điểm (+1.15 %)Trong khi HNX-Index giảm và dừng chân tại 105.74 điểm (-1.13%).
+Tại thời điểmhôm nay, VN-Index chốt tại 852.91 điểm (+0.83 %)Theo đó HNX-Index giảm mạnh và dừng chân tại 106.94 điểm (-1.73%).
+Hết ngàyhôm nay, VN-Index chốt tại 845.92 điểm (+1.06 %)Theo đó HNX-Index tăng nhẹ và dừng chân tại 108.83 điểm (+0.26%).
+Đóng cửa phiên giao dịchhôm nay, VN-Index chốt tại 837.01 điểm (+1.21 %)Theo đó HNX-Index giảm nhẹ và dừng chân tại 108.54 điểm (-0.45%).
+Tạm dừng phiên giao dịchhôm nay, VN-Index chốt tại 827.03 điểm (-0.65 %)Theo đó HNX-Index giảm mạnh và dừng chân tại 109.02 điểm (-2.08%).
+Tính đếnhôm nay, VN-Index chốt tại 832.40 điểm (-0.22 %)Trong khi HNX-Index giảm nhẹ và dừng chân tại 111.34 điểm (-0.46%).
+Đóng cửa phiên giao dịchhôm nay, VN-Index chốt tại 834.21 điểm (-0.13 %)Trong khi HNX-Index tăng nhẹ và dừng chân tại 111.86 điểm (+0.08%).
+Tạm dừng phiên giao dịchhôm nay, VN-Index chốt tại 835.32 điểm (+0.84 %)Theo đó HNX-Index tăng nhẹ và dừng chân tại 111.78 điểm (+0.18%).
+Tại thời điểmhôm nay, VN-Index chốt tại 828.33 điểm (+1.79 %)Trong khi HNX-Index tăng và dừng chân tại 111.57 điểm (+1.41%).
+Đóng cửa phiên giao dịchhôm nay, VN-Index chốt tại 813.73 điểm (+2.16 %)Theo đó HNX-Index tăng mạnh và dừng chân tại 110.02 điểm (+1.58%).
+Tạm dừng phiên giao dịchhôm nay, VN-Index chốt tại 796.54 điểm (+1.78 %)Trong khi HNX-Index tăng mạnh và dừng chân tại 108.31 điểm (+1.55%).
+Tính đếnhôm qua, VN-Index đã tăng 6.37điểm điểm (+0.73 %) lên 881.17 điểm Trong khi chỉ số HNX-Index tăng 2.85điểm điểm (+ 2.50 %) lên 116.49 điểm.
+Tại thời điểmhôm qua, VN-Index đã giảm -3.87điểm điểm (-0.44 %) còn 874.80 điểm Trong khi chỉ số HNX-Index giảm -0.49điểm điểm (-0.43 %) còn 113.64 điểm.
+Tạm dừng phiên giao dịchhôm qua, VN-Index đã tăng 9.70điểm điểm (+1.12 %) lên 878.67 điểm Trong khi chỉ số HNX-Index tăng 4.32điểm điểm (+ 3.94 %) lên 114.14 điểm.
+Đóng cửa phiên giao dịchhôm qua, VN-Index đã tăng 3.08điểm điểm (+0.36 %) lên 864.47 điểm Trong khi chỉ số HNX-Index tăng 0.17điểm điểm (+ 0.16 %) lên 109.81 điểm.
+Hết ngàyhôm qua, VN-Index đã tăng 3.91điểm điểm (+0.46 %) lên 861.39 điểm Trong khi chỉ số HNX-Index tăng 0.74điểm điểm (+ 0.68 %) lên 109.64 điểm.
+Đóng cửa phiên giao dịchhôm qua, VN-Index đã giảm -11.65điểm điểm (-1.34 %) còn 857.48 điểm Theo đó chỉ số HNX-Index giảm -1.60điểm điểm (-1.45 %) còn 108.89 điểm.
+Kết thúc phiên giao dịch ngàyhôm qua, VN-Index đã tăng 10.09điểm điểm (+1.17 %) lên 869.13 điểm Theo đó chỉ số HNX-Index tăng 1.35điểm điểm (+ 1.23 %) lên 110.49 điểm.
+Tính đếnhôm qua, VN-Index đã tăng 6.30điểm điểm (+0.74 %) lên 859.04 điểm Trong khi chỉ số HNX-Index tăng 2.10điểm điểm (+ 1.97 %) lên 109.15 điểm.
+Tại thời điểmhôm qua, VN-Index đã giảm -9.99điểm điểm (-1.16 %) còn 852.74 điểm Theo đó chỉ số HNX-Index tăng 1.30điểm điểm (+ 1.23 %) lên 107.04 điểm.
+Tính đếnhôm qua, VN-Index đã tăng 9.82điểm điểm (+1.15 %) lên 862.73 điểm Theo đó chỉ số HNX-Index giảm -1.21điểm điểm (-1.13 %) còn 105.74 điểm.
+Hết ngàyhôm qua, VN-Index đã tăng 6.99điểm điểm (+0.83 %) lên 852.91 điểm Theo đó chỉ số HNX-Index giảm -1.88điểm điểm (-1.73 %) còn 106.94 điểm.
+Kết thúc phiên giao dịch ngàyhôm qua, VN-Index đã tăng 8.91điểm điểm (+1.06 %) lên 845.92 điểm Trong khi chỉ số HNX-Index tăng 0.29điểm điểm (+ 0.26 %) lên 108.83 điểm.
+Tạm dừng phiên giao dịchhôm qua, VN-Index đã tăng 9.98điểm điểm (+1.21 %) lên 837.01 điểm Theo đó chỉ số HNX-Index giảm -0.49điểm điểm (-0.45 %) còn 108.54 điểm.
+Tạm dừng phiên giao dịchhôm qua, VN-Index đã giảm -5.37điểm điểm (-0.65 %) còn 827.03 điểm Theo đó chỉ số HNX-Index giảm -2.32điểm điểm (-2.08 %) còn 109.02 điểm.
+Tính đếnhôm qua, VN-Index đã giảm -1.81điểm điểm (-0.22 %) còn 832.40 điểm Trong khi chỉ số HNX-Index giảm -0.52điểm điểm (-0.46 %) còn 111.34 điểm.
+Tính đếnhôm qua, VN-Index đã giảm -1.11điểm điểm (-0.13 %) còn 834.21 điểm Trong khi chỉ số HNX-Index tăng 0.09điểm điểm (+ 0.08 %) lên 111.86 điểm.
+Hết ngàyhôm qua, VN-Index đã tăng 6.99điểm điểm (+0.84 %) lên 835.32 điểm Theo đó chỉ số HNX-Index tăng 0.20điểm điểm (+ 0.18 %) lên 111.78 điểm.
+Kết thúc phiên giao dịch ngàyhôm qua, VN-Index đã tăng 14.60điểm điểm (+1.79 %) lên 828.33 điểm Theo đó chỉ số HNX-Index tăng 1.55điểm điểm (+ 1.41 %) lên 111.57 điểm.
+Kết thúc phiên giao dịch ngàyhôm qua, VN-Index đã tăng 17.19điểm điểm (+2.16 %) lên 813.73 điểm Trong khi chỉ số HNX-Index tăng 1.71điểm điểm (+ 1.58 %) lên 110.02 điểm.
+Đóng cửa phiên giao dịchhôm qua, VN-Index đã tăng 13.95điểm điểm (+1.78 %) lên 796.54 điểm Theo đó chỉ số HNX-Index tăng 1.65điểm điểm (+ 1.55 %) lên 108.31 điểm.
+Tính đến 03/06/2020, VN-Index  chốt tại mốc 881.17 điểm (tháng 5: VN-Index là 864.47 điểm); còn HNX-Index chốt tại mốc 116.49 điểm (tháng 5: HNX-Index là 109.81 điểm)
+Tạm dừng phiên giao dịch 02/06/2020, VN-Index  chốt tại mốc 874.80 điểm (tháng 5: VN-Index là 864.47 điểm); còn HNX-Index chốt tại mốc 113.64 điểm (tháng 5: HNX-Index là 109.81 điểm)
+Tại thời điểm 01/06/2020, VN-Index  chốt tại mốc 878.67 điểm (tháng 5: VN-Index là 864.47 điểm); còn HNX-Index chốt tại mốc 114.14 điểm (tháng 5: HNX-Index là 109.81 điểm)
+Tại thời điểm 29/05/2020, VN-Index  chốt tại mốc 864.47 điểm; còn HNX-Index chốt tại mốc 109.81 điểm
+Hết ngày 28/05/2020, VN-Index  chốt tại mốc 861.39 điểm; còn HNX-Index chốt tại mốc 109.64 điểm
+Tính đến 27/05/2020, VN-Index  chốt tại mốc 857.48 điểm; còn HNX-Index chốt tại mốc 108.89 điểm
+Kết thúc phiên giao dịch ngày 26/05/2020, VN-Index  chốt tại mốc 869.13 điểm; còn HNX-Index chốt tại mốc 110.49 điểm
+Kết thúc phiên giao dịch ngày 25/05/2020, VN-Index  chốt tại mốc 859.04 điểm; còn HNX-Index chốt tại mốc 109.15 điểm
+Hết ngày 22/05/2020, VN-Index  chốt tại mốc 852.74 điểm; còn HNX-Index chốt tại mốc 107.04 điểm
+Tạm dừng phiên giao dịch 21/05/2020, VN-Index  chốt tại mốc 862.73 điểm; còn HNX-Index chốt tại mốc 105.74 điểm
+Đóng cửa phiên giao dịch 20/05/2020, VN-Index  chốt tại mốc 852.91 điểm; còn HNX-Index chốt tại mốc 106.94 điểm
+Hết ngày 19/05/2020, VN-Index  chốt tại mốc 845.92 điểm; còn HNX-Index chốt tại mốc 108.83 điểm
+Hết ngày 18/05/2020, VN-Index  chốt tại mốc 837.01 điểm; còn HNX-Index chốt tại mốc 108.54 điểm
+Tính đến 15/05/2020, VN-Index  chốt tại mốc 827.03 điểm; còn HNX-Index chốt tại mốc 109.02 điểm
+Đóng cửa phiên giao dịch 14/05/2020, VN-Index  chốt tại mốc 832.40 điểm; còn HNX-Index chốt tại mốc 111.34 điểm
+Tại thời điểm 13/05/2020, VN-Index  chốt tại mốc 834.21 điểm; còn HNX-Index chốt tại mốc 111.86 điểm
+Tạm dừng phiên giao dịch 12/05/2020, VN-Index  chốt tại mốc 835.32 điểm; còn HNX-Index chốt tại mốc 111.78 điểm
+Đóng cửa phiên giao dịch 11/05/2020, VN-Index  chốt tại mốc 828.33 điểm; còn HNX-Index chốt tại mốc 111.57 điểm
+Kết thúc phiên giao dịch ngày 08/05/2020, VN-Index  chốt tại mốc 813.73 điểm; còn HNX-Index chốt tại mốc 110.02 điểm
+Tạm dừng phiên giao dịch 07/05/2020, VN-Index  chốt tại mốc 796.54 điểm; còn HNX-Index chốt tại mốc 108.31 điểm
+
+Tính đến03/06/2020, chỉ số VN-Index tăng 6.37điểm điểm (+0.73 %); còn chỉ số HNX-Index thì tăng 2.85điểm điểm (+2.50 %).
+Tạm dừng phiên giao dịch02/06/2020, sau 3 ngày tăng liên tục, chỉ số VN-Index đã bất ngờ giảm -3.87điểm điểm (-0.44 %); còn chỉ số HNX-Index thì đã bất ngờ giảm -0.49điểm điểm (-0.43 %) sau 3 ngày tăng liên tục, .
+Tính đến01/06/2020, sau 2 ngày tăng liên tục, chỉ số VN-Index tiếp tục tăng 9.70điểm điểm (+1.12 %); còn chỉ số HNX-Index thì tiếp tục tăng 4.32điểm điểm (+3.94 %) sau 2 ngày tăng liên tục, .
+Đóng cửa phiên giao dịch29/05/2020, chỉ số VN-Index tăng 3.08điểm điểm (+0.36 %); còn chỉ số HNX-Index thì tăng 0.17điểm điểm (+0.16 %).
+Kết thúc phiên giao dịch ngày28/05/2020, chỉ số VN-Index tăng 3.91điểm điểm (+0.46 %); còn chỉ số HNX-Index thì tăng 0.74điểm điểm (+0.68 %).
+Tạm dừng phiên giao dịch27/05/2020, sau 2 ngày tăng liên tục, chỉ số VN-Index đã bất ngờ giảm -11.65điểm điểm (-1.34 %); còn chỉ số HNX-Index thì đã bất ngờ giảm -1.60điểm điểm (-1.45 %) sau 3 ngày tăng liên tục, .
+Hết ngày26/05/2020, chỉ số VN-Index tăng 10.09điểm điểm (+1.17 %); còn chỉ số HNX-Index thì tiếp tục tăng 1.35điểm điểm (+1.23 %) sau 2 ngày tăng liên tục, .
+Tính đến25/05/2020, chỉ số VN-Index tăng 6.30điểm điểm (+0.74 %); còn chỉ số HNX-Index thì tăng 2.10điểm điểm (+1.97 %).
+Đóng cửa phiên giao dịch22/05/2020, sau 4 ngày tăng liên tục, chỉ số VN-Index đã bất ngờ giảm -9.99điểm điểm (-1.16 %); còn chỉ số HNX-Index thì đã bất ngờ tăng 1.30điểm điểm (+1.23 %) sau 2 ngày tăng liên tục, .
+Hết ngày21/05/2020, sau 3 ngày tăng liên tục, chỉ số VN-Index tiếp tục tăng 9.82điểm điểm (+1.15 %); còn chỉ số HNX-Index thì giảm -1.21điểm điểm (-1.13 %).
+Tại thời điểm20/05/2020, sau 2 ngày tăng liên tục, chỉ số VN-Index tiếp tục tăng 6.99điểm điểm (+0.83 %); còn chỉ số HNX-Index thì giảm -1.88điểm điểm (-1.73 %).
+Hết ngày19/05/2020, chỉ số VN-Index tăng 8.91điểm điểm (+1.06 %); còn chỉ số HNX-Index thì đã bất ngờ tăng 0.29điểm điểm (+0.26 %) sau 3 ngày tăng liên tục, .
+Hết ngày18/05/2020, sau 3 ngày giảm liên tục, chỉ số VN-Index đã bất ngờ tăng 9.98điểm điểm (+1.21 %); còn chỉ số HNX-Index thì tiếp tục giảm -0.49điểm điểm (-0.45 %) sau 2 ngày giảm liên tục, .
+Đóng cửa phiên giao dịch15/05/2020, sau 2 ngày giảm liên tục, chỉ số VN-Index tiếp tục giảm -5.37điểm điểm (-0.65 %); còn chỉ số HNX-Index thì giảm -2.32điểm điểm (-2.08 %).
+Tính đến14/05/2020, chỉ số VN-Index giảm -1.81điểm điểm (-0.22 %); còn chỉ số HNX-Index thì đã bất ngờ giảm -0.52điểm điểm (-0.46 %) sau 5 ngày giảm liên tục, .
+Kết thúc phiên giao dịch ngày13/05/2020, sau 4 ngày tăng liên tục, chỉ số VN-Index đã bất ngờ giảm -1.11điểm điểm (-0.13 %); còn chỉ số HNX-Index thì tiếp tục tăng 0.09điểm điểm (+0.08 %) sau 4 ngày tăng liên tục, .
+Tính đến12/05/2020, sau 3 ngày tăng liên tục, chỉ số VN-Index tiếp tục tăng 6.99điểm điểm (+0.84 %); còn chỉ số HNX-Index thì tiếp tục tăng 0.20điểm điểm (+0.18 %) sau 3 ngày tăng liên tục, .
+Kết thúc phiên giao dịch ngày11/05/2020, sau 2 ngày tăng liên tục, chỉ số VN-Index tiếp tục tăng 14.60điểm điểm (+1.79 %); còn chỉ số HNX-Index thì tiếp tục tăng 1.55điểm điểm (+1.41 %) sau 2 ngày tăng liên tục, .
+Hết ngày08/05/2020, chỉ số VN-Index tăng 17.19điểm điểm (+2.16 %); còn chỉ số HNX-Index thì tăng 1.71điểm điểm (+1.58 %).
+Tại thời điểm07/05/2020, chỉ số VN-Index tăng 13.95điểm điểm (+1.78 %); còn chỉ số HNX-Index thì tăng 1.65điểm điểm (+1.55 %).
+
+Trong ngày hôm nay, có tổng cộng 0 triệu cổ phiếu được chuyển nhượng với tổng giá trị giao dịch khoảng 1triệu đồng.
+Tính đếnhôm nay, trong các mã Upcom, mã null có khối lượng giao dịch cao nhất với 0.0 nghìn cổ phiếu
+
+Tạm dừng phiên giao dịchhôm nay, trong các mã Upcom, mã VID có giá trị giao dịch khớp lệnh cao nhất với 1 triệu đồng.
+
+Hết ngàyhôm nay, trong các mã Upcom, mã VID là mã tăng nhiều nhất khi tăng đến 7.0% (0.41 điểm).
+
+Tại thời điểmhôm nay, trong các mã Upcom, mã null là mã giảm nhiều nhất khi giảm đến 0.0% (null điểm).
+
+Tạm dừng phiên giao dịchhôm nay, có tổng cộng 0 mã Upcom bị giảm điểm.
+

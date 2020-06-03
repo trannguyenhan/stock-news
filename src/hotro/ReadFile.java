@@ -168,32 +168,4 @@ public class ReadFile {
         return;
     }
 
-
-    public void readColumnsExcel(String path) throws IOException{
-        int increment_value = 0;
-        int decrease_value = 0;
-        int none_value = 0;
-        int[] increment_list = {};
-        XSSFWorkbook wb = new XSSFWorkbook(path);
-        XSSFSheet sh = wb.getSheetAt(0); // Lay sheet dau tien
-
-        XSSFRow row = sh.getRow(1);
-        XSSFCell cell;
-        while (row != null){
-            cell = row.getCell(1);
-            if(cell == null) break;
-            String change_value = getCellValue(cell);
-            if (change_value.startsWith("0.00")){
-                none_value += 1;
-            }else if (change_value.startsWith("-")){
-                decrease_value += 1;
-            }
-            else{
-                increment_value += 1;
-            }
-            totalRow++;
-            row = sh.getRow(totalRow+1);
-        }
-        list[0] = new DSChiSo(increment_value ,decrease_value);
-    }
 }

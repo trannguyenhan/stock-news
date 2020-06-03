@@ -7,6 +7,7 @@ package giaodienphanmem;
 
 import btl.BTL;
 import fileinput.ExportDaTaToFileExcel;
+import fileinput.ExportStockDaTaToFileExcel;
 import java.awt.event.WindowAdapter;
 import java.awt.event.WindowEvent;
 import java.io.BufferedReader;
@@ -77,6 +78,7 @@ public class GiaoDienPhanMem extends javax.swing.JFrame {
         layDuLieuWebsiteButton = new javax.swing.JButton();
         jScrollPane1 = new javax.swing.JScrollPane();
         jTextArea = new javax.swing.JTextArea();
+        laybaoButton = new javax.swing.JButton();
         jMenuBar1 = new javax.swing.JMenuBar();
         jMenu1 = new javax.swing.JMenu();
         jMenuItem4 = new javax.swing.JMenuItem();
@@ -184,6 +186,8 @@ public class GiaoDienPhanMem extends javax.swing.JFrame {
         jTextArea.setRows(5);
         jScrollPane1.setViewportView(jTextArea);
 
+        laybaoButton.setText("Lấy bài báo");
+
         jMenu1.setText("File");
 
         jMenuItem4.setText("About");
@@ -231,9 +235,10 @@ public class GiaoDienPhanMem extends javax.swing.JFrame {
             .addGroup(layout.createSequentialGroup()
                 .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                     .addGroup(layout.createSequentialGroup()
-                        .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                            .addComponent(layDuLieuWebsiteButton)
-                            .addComponent(inTTCKButton, javax.swing.GroupLayout.PREFERRED_SIZE, 139, javax.swing.GroupLayout.PREFERRED_SIZE))
+                        .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING, false)
+                            .addComponent(layDuLieuWebsiteButton, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                            .addComponent(inTTCKButton, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                            .addComponent(laybaoButton, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
                         .addGap(41, 41, 41)
                         .addComponent(jScrollPane1, javax.swing.GroupLayout.PREFERRED_SIZE, 682, javax.swing.GroupLayout.PREFERRED_SIZE)
                         .addGap(27, 27, 27)
@@ -246,16 +251,22 @@ public class GiaoDienPhanMem extends javax.swing.JFrame {
         layout.setVerticalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(layout.createSequentialGroup()
-                .addComponent(tieudeLabel, javax.swing.GroupLayout.PREFERRED_SIZE, 34, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                 .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                     .addGroup(layout.createSequentialGroup()
+                        .addComponent(tieudeLabel, javax.swing.GroupLayout.PREFERRED_SIZE, 34, javax.swing.GroupLayout.PREFERRED_SIZE)
+                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                        .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                            .addGroup(layout.createSequentialGroup()
+                                .addGap(220, 220, 220)
+                                .addComponent(textLabel, javax.swing.GroupLayout.PREFERRED_SIZE, 23, javax.swing.GroupLayout.PREFERRED_SIZE))
+                            .addComponent(jScrollPane1, javax.swing.GroupLayout.PREFERRED_SIZE, 471, javax.swing.GroupLayout.PREFERRED_SIZE)))
+                    .addGroup(layout.createSequentialGroup()
+                        .addGap(37, 37, 37)
+                        .addComponent(laybaoButton)
+                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                         .addComponent(layDuLieuWebsiteButton)
                         .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
-                        .addComponent(inTTCKButton)
-                        .addGap(163, 163, 163)
-                        .addComponent(textLabel, javax.swing.GroupLayout.PREFERRED_SIZE, 23, javax.swing.GroupLayout.PREFERRED_SIZE))
-                    .addComponent(jScrollPane1, javax.swing.GroupLayout.PREFERRED_SIZE, 471, javax.swing.GroupLayout.PREFERRED_SIZE))
+                        .addComponent(inTTCKButton)))
                 .addContainerGap(294, Short.MAX_VALUE))
         );
 
@@ -288,6 +299,7 @@ public class GiaoDienPhanMem extends javax.swing.JFrame {
             Logger.getLogger(GiaoDienPhanMem.class.getName()).log(Level.SEVERE, null, ex);
         }
         
+
         JOptionPane.showMessageDialog(rootPane, "Đã in thông tin chứng khoán");
         
     }//GEN-LAST:event_inTTCKButtonActionPerformed
@@ -295,11 +307,15 @@ public class GiaoDienPhanMem extends javax.swing.JFrame {
     private void layDuLieuWebsiteButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_layDuLieuWebsiteButtonActionPerformed
         // TODO add your handling code here:
         ExportDaTaToFileExcel export = new ExportDaTaToFileExcel();
+        ExportStockDaTaToFileExcel exportStock = new ExportStockDaTaToFileExcel();
         try {
             export.exportDaTaVNINDEX();
             export.exportDaTaUPCOMINDEX();
             export.exportDaTaHNXINDEX();
             export.export();
+            
+            exportStock.exportDaTaHOSE();
+            exportStock.export();
         } catch (IOException ex) {
             Logger.getLogger(GiaoDienPhanMem.class.getName()).log(Level.SEVERE, null, ex);
         }
@@ -400,6 +416,7 @@ public class GiaoDienPhanMem extends javax.swing.JFrame {
     private javax.swing.JScrollPane jScrollPane1;
     private javax.swing.JTextArea jTextArea;
     private javax.swing.JButton layDuLieuWebsiteButton;
+    private javax.swing.JButton laybaoButton;
     private java.awt.PopupMenu popupMenu1;
     private java.awt.TextArea textArea1;
     private java.awt.TextField textField1;

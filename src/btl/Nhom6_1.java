@@ -1,22 +1,94 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
 package btl;
-import hotro.DSChiSo;
-import hotro.NhomChung1;
+
+import hotro.*;
+import hotro.RandomClass;
+import hotro.ReadFile;
 import java.io.PrintWriter;
 
-public class Nhom6_1 extends NhomChung1 {
-
-    public Nhom6_1(DSChiSo maTang, DSChiSo maGiam, DSChiSo klGD) {
-        super(maTang, maGiam, klGD, "Hoang");
+/**
+ *
+ * @author Admin
+ */
+public class Nhom6_1 extends NhomChung3{
+    
+    public Nhom6_1(ReadFile rfVNINDEX, ReadFile rfUPCOMINDEX, ReadFile rfHNXINDEX) {
+        super(rfVNINDEX, rfUPCOMINDEX, rfHNXINDEX);
     }
     
     public void printResult(PrintWriter printWriter) {
-            printWriter.print("Các mã tăng nổi bật trong phiên hôm nay có: " + maTang.getStock_name().get(0) +" , " + maTang.getStock_name().get(1) + " , " + maTang.getStock_name().get(2) + "...");
-            printWriter.print(" trong khi đó thì các mã giảm nhiều nhất bao gồm: " +maGiam.getStock_name().get(0)+" , " + maGiam.getStock_name().get(1) + " , " + maGiam.getStock_name().get(2) + "...");
-            printWriter.print("\nCác nhóm cổ phiếu được giao dịch nhiều nhất trong ngày có: " + klGD.getStock_name().get(0) + "( " + klGD.getCompany_name().get(0) + ")" + " , " +  klGD.getStock_name().get(1) + "( " + klGD.getCompany_name().get(1) + ")" + " , " + klGD.getStock_name().get(2) + "( " + klGD.getCompany_name().get(2) + ")"  );
-            printWriter.print("\nGiao dịch với khối lượng lớn nhất trong ngày là mã  " + klGD.getStock_name().get(0) + " đạt " +klGD.getStock_weight().get(0) +" cổ phiếu " );
-            printWriter.print("\nTheo sau đó là mã " + klGD.getStock_name().get(1) + " với khối lượng giao dịch đạt " + klGD.getStock_weight().get(1)+" cổ phiếu.");
-            printWriter.print(" Đứng thứ 3 trong ngày hôm nay là cổ phiếu " + klGD.getStock_name().get(2) + " đạt " + klGD.getStock_weight().get(2) + " cổ phiếu");
-            printWriter.print("\nMã cổ phiếu: " + maTang.getStock_name().get(0) + "( " + maTang.getCompany_name().get(0) +" )" + " đạt tỉ lệ tăng lớn nhất trong ngày  với mức " +maTang.getChange_percentage().get(0) );
-            printWriter.print("\nỞ chiều hướng ngược lại có sự giảm của các mã: " + maGiam.getStock_name().get(0) + " , " + maGiam.getStock_name().get(1) + " , " + maGiam.getStock_name().get(2) + "với mức giảm lần lượt là " + maGiam.getChange_percentage().get(0) +" , " + maGiam.getChange_percentage().get(1) + " , " + maGiam.getChange_percentage().get(2) );
+        int i;
+        RandomClass rand = new RandomClass();
+        
+        for (i = 0; i < this.rfVNINDEX.totalRow; i++) {
+            printWriter.print(rand.getRandomString1());
+            printWriter.print(this.rfVNINDEX.list[i].getDate() + ", ");
+            
+            
+            int j = i + 1;
+            int count = 0; //count: dem so ngay lien tuc tang hoac giam
+            
+            if (j < this.rfVNINDEX.totalRow) {
+                count = 1;
+                boolean lientuc = true;
+                while (j + 1 < this.rfVNINDEX.totalRow && lientuc == true) {
+                    if (this.rfVNINDEX.list[j].checkChange() == this.rfVNINDEX.list[j + 1].checkChange()) {
+                        count++;
+                    }
+                    else {
+                        lientuc = false;
+                    }
+                    j++;
+                }
+            }
+            
+            if (count > 1) {
+                printWriter.print("sau " + count + " ngày ");
+                printWriter.print((this.rfVNINDEX.list[i + 1].checkChange() ? "tăng " : "giảm ") + "liên tục, ");
+            }
+            printWriter.print("chỉ số VN-Index ");
+            if (count > 1) {
+                printWriter.print((this.rfVNINDEX.list[i].checkChange() == this.rfVNINDEX.list[i + 1].checkChange()) ? "tiếp tục " : "đã bất ngờ ");
+            }
+            printWriter.print((this.rfVNINDEX.list[i].checkChange() ? "tăng " : "giảm ") + this.rfVNINDEX.list[i].getChangeNb() + " điểm (");
+            printWriter.print((this.rfVNINDEX.list[i].checkChange() ? "+" : "") + this.rfVNINDEX.list[i].getChangePc() + "%)");
+            
+            
+            
+            printWriter.print("; còn chỉ số HNX-Index thì ");
+            count = 0; j = i + 1;
+            if (j < this.rfHNXINDEX.totalRow) {
+                count = 1;
+                boolean lientuc = true;
+                while (j + 1 < this.rfHNXINDEX.totalRow && lientuc == true) {
+                    if (this.rfHNXINDEX.list[j].checkChange() == this.rfHNXINDEX.list[j + 1].checkChange()) {
+                        count++;
+                    }
+                    else {
+                        lientuc = false;
+                    }
+                    j++;
+                }
+            }
+            if (count > 1) {
+                printWriter.print((this.rfHNXINDEX.list[i].checkChange() == this.rfHNXINDEX.list[i + 1].checkChange()) ? "tiếp tục " : "đã bất ngờ ");
+            }
+            printWriter.print((this.rfHNXINDEX.list[i].checkChange() ? "tăng " : "giảm ") + this.rfHNXINDEX.list[i].getChangeNb() + " điểm (");
+            printWriter.print((this.rfHNXINDEX.list[i].checkChange() ? "+" : "") + this.rfHNXINDEX.list[i].getChangePc() + "%)");
+            if (count > 1) {
+                printWriter.print(" sau " + count + " ngày ");
+                printWriter.print((this.rfVNINDEX.list[i + 1].checkChange() ? "tăng " : "giảm ") + "liên tục, ");
+            }
+            printWriter.print(".");
+            
+            
+            printWriter.println();
+        }
+        
     }
 }
+

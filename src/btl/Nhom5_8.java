@@ -7,7 +7,7 @@ package btl;
 
 import hotro.DSChiSo;
 import hotro.DoiCachDoc;
-import hotro.NhomChung1;
+import hotro.*;
 import hotro.RandomClass;
 import java.io.FileNotFoundException;
 import java.io.PrintWriter;

@@ -13,18 +13,16 @@ import java.util.List;
  * @author admin
  */
 public class DSChiSo {
-    private String date;
-    private String finalPrice;
-    private String change;
-    private String KL_auction;
-    private String GT_auction;
-    private String KL_deal;
-    private String GT_deal;
-    private String openPrice;
-    private String maxPrice;
-    private String minPrice;
-    private int inc;
-    private int dec;
+    protected String date;
+    protected String finalPrice;
+    protected String change;
+    protected String KL_auction;
+    protected String GT_auction;
+    protected String KL_deal;
+    protected String GT_deal;
+    protected String openPrice;
+    protected String maxPrice;
+    protected String minPrice;
     private String stock;
     private String value;
     private List<String> stock_name = new ArrayList<>();
@@ -45,11 +43,6 @@ public class DSChiSo {
         this.stock_price = stock_price;
         this.change_percentage =change_percentage;
         this.stock_weight = stock_weight;
-    }
-
-    public DSChiSo(int inc, int dec){//bao nhieu ma tang giam
-        this.inc = inc;
-        this.dec = dec;
     }
     
     public DSChiSo(String date, String finalPrice, String change, String KL_auction, String GT_auction, String KL_deal, String GT_deal, String openPrice, String maxPrice, String minPrice) {
@@ -85,14 +78,6 @@ public class DSChiSo {
         return stock_weight;
     }
 
-    public int getInc() {
-        return inc;
-    }
-
-    public int getDec() {
-        return dec;
-    }
-    
     public String getDate()
     {
         return date;
@@ -226,5 +211,29 @@ public class DSChiSo {
     {
         this.minPrice = minPrice;
         return;
+    }
+    
+    // Them 1 so class cua VA
+    public String getChangeNb()
+    {
+        int i;
+        for(i=0; i<change.length(); i++)
+            if(change.charAt(i) == '(') break;
+        
+        return (change.substring(0, i-1));
+    }
+    
+    public String getChangePc()
+    {
+        int i;
+        for(i=0; i<change.length(); i++)
+            if(change.charAt(i) == '(') break;
+        
+        return (change.substring(i + 1,change.length() - 2));
+    }
+    
+    //Kiem tra tang hay giam (tang = true, giam = false)
+    public boolean checkChange() {
+        return (change.charAt(0) != '-');
     }
 }
