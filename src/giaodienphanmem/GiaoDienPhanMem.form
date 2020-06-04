@@ -332,8 +332,11 @@
     </Container>
     <Component class="javax.swing.JButton" name="laybaoButton">
       <Properties>
-        <Property name="text" type="java.lang.String" value="L&#x1ea5;y b&#xe0;i b&#xe1;o"/>
+        <Property name="text" type="java.lang.String" value="L&#x1ea5;y b&#xe0;i b&#xe1;o ch&#x1ee9;ng kho&#xe1;n"/>
       </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="laybaoButtonActionPerformed"/>
+      </Events>
     </Component>
   </SubComponents>
 </Form>

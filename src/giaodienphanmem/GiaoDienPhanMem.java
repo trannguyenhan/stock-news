@@ -186,7 +186,12 @@ public class GiaoDienPhanMem extends javax.swing.JFrame {
         jTextArea.setRows(5);
         jScrollPane1.setViewportView(jTextArea);
 
-        laybaoButton.setText("Lấy bài báo");
+        laybaoButton.setText("Lấy bài báo chứng khoán");
+        laybaoButton.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                laybaoButtonActionPerformed(evt);
+            }
+        });
 
         jMenu1.setText("File");
 
@@ -347,6 +352,10 @@ public class GiaoDienPhanMem extends javax.swing.JFrame {
         JOptionPane.showMessageDialog(rootPane, "Thông tin nhóm sinh viên :\n" 
                 + "1. Nguyễn Quang Huy\n2. Ngô Song Việt Hoàng\n3. Bùi Việt Anh");
     }//GEN-LAST:event_jMenuItem7ActionPerformed
+
+    private void laybaoButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_laybaoButtonActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_laybaoButtonActionPerformed
 
     /**
      * @param args the command line arguments
