@@ -36,7 +36,7 @@ public class Nhom8_7 extends NhomChung4{
         RandomClass rand = new RandomClass();
         printWriter.print(rand.getRandomString1() + "hôm nay, có tổng cộng " + magiam + " mã Upcom bị giảm điểm.");
         
-        printWriter.println();
+//        printWriter.println();
         
     }
 }

@@ -44,7 +44,7 @@ public class Nhom8_6 extends NhomChung4{
         printWriter.print(this.rfStockCode.list[imin].getStockCode() + " là mã giảm nhiều nhất khi giảm đến " + min + "% (");
         printWriter.print(this.rfStockCode.list[imin].getChangeNb() + " điểm).");
         
-        printWriter.println();
+//        printWriter.println();
         
     }
 }

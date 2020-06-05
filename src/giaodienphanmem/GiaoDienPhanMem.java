@@ -8,6 +8,7 @@ package giaodienphanmem;
 import btl.BTL;
 import fileinput.ExportDaTaToFileExcel;
 import fileinput.ExportStockDaTaToFileExcel;
+import hotro.CmdCall;
 import java.awt.event.WindowAdapter;
 import java.awt.event.WindowEvent;
 import java.io.BufferedReader;
@@ -245,8 +246,8 @@ public class GiaoDienPhanMem extends javax.swing.JFrame {
                             .addComponent(inTTCKButton, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
                             .addComponent(laybaoButton, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
                         .addGap(41, 41, 41)
-                        .addComponent(jScrollPane1, javax.swing.GroupLayout.PREFERRED_SIZE, 682, javax.swing.GroupLayout.PREFERRED_SIZE)
-                        .addGap(27, 27, 27)
+                        .addComponent(jScrollPane1, javax.swing.GroupLayout.PREFERRED_SIZE, 765, javax.swing.GroupLayout.PREFERRED_SIZE)
+                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                         .addComponent(textLabel, javax.swing.GroupLayout.PREFERRED_SIZE, 172, javax.swing.GroupLayout.PREFERRED_SIZE))
                     .addGroup(layout.createSequentialGroup()
                         .addGap(328, 328, 328)
@@ -259,12 +260,13 @@ public class GiaoDienPhanMem extends javax.swing.JFrame {
                 .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                     .addGroup(layout.createSequentialGroup()
                         .addComponent(tieudeLabel, javax.swing.GroupLayout.PREFERRED_SIZE, 34, javax.swing.GroupLayout.PREFERRED_SIZE)
-                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                         .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                             .addGroup(layout.createSequentialGroup()
-                                .addGap(220, 220, 220)
+                                .addGap(226, 226, 226)
                                 .addComponent(textLabel, javax.swing.GroupLayout.PREFERRED_SIZE, 23, javax.swing.GroupLayout.PREFERRED_SIZE))
-                            .addComponent(jScrollPane1, javax.swing.GroupLayout.PREFERRED_SIZE, 471, javax.swing.GroupLayout.PREFERRED_SIZE)))
+                            .addGroup(layout.createSequentialGroup()
+                                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                                .addComponent(jScrollPane1, javax.swing.GroupLayout.PREFERRED_SIZE, 530, javax.swing.GroupLayout.PREFERRED_SIZE))))
                     .addGroup(layout.createSequentialGroup()
                         .addGap(37, 37, 37)
                         .addComponent(laybaoButton)
@@ -272,7 +274,7 @@ public class GiaoDienPhanMem extends javax.swing.JFrame {
                         .addComponent(layDuLieuWebsiteButton)
                         .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
                         .addComponent(inTTCKButton)))
-                .addContainerGap(294, Short.MAX_VALUE))
+                .addContainerGap(235, Short.MAX_VALUE))
         );
 
         pack();
@@ -304,7 +306,25 @@ public class GiaoDienPhanMem extends javax.swing.JFrame {
             Logger.getLogger(GiaoDienPhanMem.class.getName()).log(Level.SEVERE, null, ex);
         }
         
-
+        FileReader fr = null;
+        try {
+            fr = new FileReader("E:\\[JAVA]NetBeans\\BTL\\ketqua.txt");
+        } catch (FileNotFoundException ex) {
+            Logger.getLogger(GiaoDienPhanMem.class.getName()).log(Level.SEVERE, null, ex);
+        }
+        BufferedReader br = new BufferedReader(fr);
+        
+        jTextArea.setText(null);
+        String str;
+        try {
+            while((str = br.readLine()) != null)
+            {
+                jTextArea.append(str + "\n");
+            }
+        } catch (IOException ex) {
+            Logger.getLogger(GiaoDienPhanMem.class.getName()).log(Level.SEVERE, null, ex);
+        }
+        
         JOptionPane.showMessageDialog(rootPane, "Đã in thông tin chứng khoán");
         
     }//GEN-LAST:event_inTTCKButtonActionPerformed
@@ -350,11 +370,14 @@ public class GiaoDienPhanMem extends javax.swing.JFrame {
     private void jMenuItem7ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jMenuItem7ActionPerformed
         // TODO add your handling code here:
         JOptionPane.showMessageDialog(rootPane, "Thông tin nhóm sinh viên :\n" 
-                + "1. Nguyễn Quang Huy\n2. Ngô Song Việt Hoàng\n3. Bùi Việt Anh");
+                + "1. Nguyễn Quang Huy\n2. Ngô Song Việt Hoàng\n3. Bùi Việt Anh"
+                + "\n4. Bùi Xuân Long\n5. Phạm Đức Hải\n6. Đỗ Văn Thông\n7. Phạm Hữu Tuyến");
     }//GEN-LAST:event_jMenuItem7ActionPerformed
 
     private void laybaoButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_laybaoButtonActionPerformed
         // TODO add your handling code here:
+        CmdCall call = new CmdCall();
+        call.Call();
     }//GEN-LAST:event_laybaoButtonActionPerformed
 
     /**

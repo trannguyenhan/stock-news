@@ -43,6 +43,6 @@ public class Nhom8_3 extends NhomChung4{
         printWriter.print(rand.getRandomString1() + "hôm nay, trong các mã Upcom, mã ");
         printWriter.print(this.rfStockCode.list[imax].getStockCode() + " có khối lượng giao dịch cao nhất với " + max + " nghìn cổ phiếu");
         
-        printWriter.println();
+//        printWriter.println();
     }
 }

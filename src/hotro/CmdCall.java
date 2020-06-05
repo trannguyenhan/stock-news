@@ -6,7 +6,7 @@ public class CmdCall {
     public void Call(){
         try{
 
-            String command = "python3 /home/viethoang/web_crawler/selenium/stock_news_crawler.py";
+            String command = "E:\\[JAVA]NetBeans\\BTL\\src\\crawlerdatawebsite\\stock_news_crawler.py";
 
             Process proc = Runtime.getRuntime().exec(command);
 

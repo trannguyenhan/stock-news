@@ -45,7 +45,7 @@ public class Nhom8_5 extends NhomChung4{
         printWriter.print(this.rfStockCode.list[imax].getStockCode() + " là mã tăng nhiều nhất khi tăng đến " + max + "% (");
         printWriter.print(this.rfStockCode.list[imax].getChangeNb() + " điểm).");
         
-        printWriter.println();
+//        printWriter.println();
         
     }
 }
