@@ -1,0 +1,61 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package crawlerdatawebsite;
+
+import java.io.IOException;
+import java.util.ArrayList;
+import java.util.List;
+import org.jsoup.Jsoup;
+import org.jsoup.nodes.Document;
+import org.jsoup.nodes.Element;
+import hotro.*;
+
+/**
+ *
+ * @author admin
+ */
+public class CrawlerDaTaHNXINDEX extends CrawlerDaTaWebsite{
+    
+    public CrawlerDaTaHNXINDEX(String url)
+    {
+        super(url);
+    }
+    
+    @Override
+    public void getDocumentFromURL() throws IOException
+    {
+        doc = Jsoup.connect(url).get();
+        
+        Element eleTable = doc.getElementById("GirdTable");
+        int i = 2;
+        
+        try {
+            while(eleTable.getElementsByTag("tr").get(i) != null)
+            {
+                Element eleTR = eleTable.getElementsByTag("tr").get(i);
+
+                String strDate = eleTR.getElementsByClass("Item_DateItem").text();
+                String strFinalPrice = eleTR.getElementsByClass("Item_Price1").get(0).text();
+                String strChange = eleTR.getElementsByClass("Item_ChangePrice").text();
+                String strKLAuction = eleTR.getElementsByClass("Item_Price1").get(1).text();
+                String strGTAuction = eleTR.getElementsByClass("Item_Price1").get(2).text();
+                String strKLDeal = eleTR.getElementsByClass("Item_Price1").get(3).text();
+                String strGTDeal = eleTR.getElementsByClass("LastItem_Price").text();
+                //String strOpenPrice = eleTR.getElementsByClass("Item_Price1").get(4).text(); Tại san HNX-INDEX khong co OpenPrice
+                String strOpenPrice = "NULL";
+                String strMaxPrice = eleTR.getElementsByClass("Item_Price1").get(4).text();
+                String strMinPrice = eleTR.getElementsByClass("Item_Price1").get(5).text();
+
+                DSChiSo tempchiso = new DSChiSo(strDate, strFinalPrice, strChange, strKLAuction, strGTAuction, strKLDeal, strGTDeal, strOpenPrice, strMaxPrice, strMinPrice);
+                dschiso.add(tempchiso);
+                i++;
+                //System.out.println(strDate + " " + strFinalPrice + " " + strChange + " " + strKLAuction + " " + strGTAuction);
+            }
+        } catch (Exception e) {
+            // Khi khong con du lieu de doc -> co 1 ngoai le xay ra, ket thuc va thoat khoi vong lap
+        }
+    }
+}
