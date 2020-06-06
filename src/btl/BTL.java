@@ -6,6 +6,7 @@
 package btl;
 
 import hotro.*;
+import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.io.OutputStreamWriter;
@@ -28,7 +29,7 @@ public class BTL {
     ReadFile topKLGD = new ReadFile();
     ReadFileStockCode stock = new ReadFileStockCode();
     
-    public BTL() throws IOException
+    public BTL() throws IOException // Khi khong chon file ma su dung luon duong dan da dinh san
     {
         topInc.readShortFileExcel("E:\\[JAVA]NetBeans\\BTL\\test\\top10.xlsx",0);
         topDec.readShortFileExcel("E:\\[JAVA]NetBeans\\BTL\\test\\top10.xlsx",1);
@@ -41,7 +42,7 @@ public class BTL {
         rfHNXINDEX.readFileExcel("E:\\[JAVA]NetBeans\\BTL\\test\\stock.xlsx",2);
     }
     
-    public BTL(String valueString1, String valueString2, String valueString3) throws IOException
+    public BTL(String valueString1, String valueString2, String valueString3) throws IOException // Khi ca 3 file deu duoc lay ve
     {
         topInc.readShortFileExcel(valueString2,0);
         topDec.readShortFileExcel(valueString2,1);
@@ -52,7 +53,7 @@ public class BTL {
         rfVNINDEX.readFileExcel(valueString1,0);
         rfUPCOMINDEX.readFileExcel(valueString1,1);
         rfHNXINDEX.readFileExcel(valueString1,2);
-    }
+    }    
     
     public void writeFileTxt() throws IOException {    
         // File dau ra 

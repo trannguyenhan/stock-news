@@ -112,9 +112,15 @@ public class ExportStockDaTaToFileExcel {
         }
     }
     
-    public void export() throws FileNotFoundException, IOException
+    public void export(String pathString) throws FileNotFoundException, IOException
     {
-        File file = new File("E:\\[JAVA]NetBeans\\BTL\\test\\hose.xlsx");
+        File file;
+        if(pathString == null)
+        {
+            file = new File("E:\\[JAVA]NetBeans\\BTL\\test\\stock.xlsx");
+        } else 
+            file = new File(pathString+"\\hose.xlsx");
+        
         FileOutputStream fileoutput = new FileOutputStream(file);
         wb.write(fileoutput);
     }

@@ -290,8 +290,9 @@ public class GiaoDienPhanMem extends javax.swing.JFrame {
         // Chọn duong dan : 
             JFileChooser fileChooser = new JFileChooser();
             FileNameExtensionFilter excelFilter = new FileNameExtensionFilter("Excel", "xlsx");
-            fileChooser.setFileFilter(excelFilter);
-            fileChooser.setMultiSelectionEnabled(false);
+            fileChooser.setCurrentDirectory(new java.io.File(".")); // Duong dan thu muc hien tai
+            fileChooser.setFileFilter(excelFilter); // Chon file excel (duoi .xlsx)
+            fileChooser.setMultiSelectionEnabled(false); // Khong cho phep chon nhieu file
             
             int x;
             String path1 = null, path2 = null, path3 = null;
@@ -314,7 +315,7 @@ public class GiaoDienPhanMem extends javax.swing.JFrame {
                 path2 = f.getAbsolutePath();
             }
             
-            // Chon file hose
+            // Chon file top10
             x = fileChooser.showDialog(this, "Chọn File TOP10");
             if(x == JFileChooser.APPROVE_OPTION)
             {
@@ -322,7 +323,8 @@ public class GiaoDienPhanMem extends javax.swing.JFrame {
                 //textLabel.setText(f.getAbsolutePath());
                 path3 = f.getAbsolutePath();
             }
-        
+            
+            
         BTL baiTL = null;
         try {
             baiTL = new BTL(path1,path3,path2);
@@ -368,6 +370,19 @@ public class GiaoDienPhanMem extends javax.swing.JFrame {
 
     private void layDuLieuWebsiteButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_layDuLieuWebsiteButtonActionPerformed
         // TODO add your handling code here:
+        // Chon noi luu tru file keo ve
+        JFileChooser chooser; 
+        String choosersSaver = null; 
+        
+        chooser = new JFileChooser(); 
+        chooser.setCurrentDirectory(new java.io.File(".")); 
+        chooser.setFileSelectionMode(JFileChooser.DIRECTORIES_ONLY);
+        
+        int x = chooser.showDialog(this, "Chọn Nơi lưu FILE");
+            if(x == JFileChooser.APPROVE_OPTION)
+            {
+                choosersSaver = chooser.getSelectedFile().toString(); // choosersSaver la duong dan ma nguoi dung da chon de luu file
+            }
         
         ExportDaTaToFileExcel export = new ExportDaTaToFileExcel();
         ExportStockDaTaToFileExcel exportStock = new ExportStockDaTaToFileExcel();
@@ -375,10 +390,10 @@ public class GiaoDienPhanMem extends javax.swing.JFrame {
             export.exportDaTaVNINDEX();
             export.exportDaTaUPCOMINDEX();
             export.exportDaTaHNXINDEX();
-            export.export();
+            export.export(choosersSaver);
             
             exportStock.exportDaTaHOSE();
-            exportStock.export();
+            exportStock.export(choosersSaver);
         } catch (IOException ex) {
             Logger.getLogger(GiaoDienPhanMem.class.getName()).log(Level.SEVERE, null, ex);
         }
