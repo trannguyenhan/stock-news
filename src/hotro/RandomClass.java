@@ -17,8 +17,8 @@ import java.util.Random;
  */
 public class RandomClass {
     
-    List<String> list1;
-    List<String> list2;
+    private List<String> list1;
+    private List<String> list2;
     
     public RandomClass()
     {

@@ -377,7 +377,7 @@ public class GiaoDienPhanMem extends javax.swing.JFrame {
     private void laybaoButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_laybaoButtonActionPerformed
         // TODO add your handling code here:
         CmdCall call = new CmdCall();
-        call.Call();
+        call.call();
     }//GEN-LAST:event_laybaoButtonActionPerformed
 
     /**

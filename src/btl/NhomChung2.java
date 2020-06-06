@@ -12,7 +12,7 @@ import java.io.PrintWriter;
  *
  * @author admin
  */
-public abstract class NhomChung2 {
+public abstract class NhomChung2 implements NhomChung{
     protected DSChiSo[] dsVNINDEX;
     protected DSChiSo[] dsUPCOMINDEX;
     protected DSChiSo[] dsHNXINDEX;
@@ -26,5 +26,5 @@ public abstract class NhomChung2 {
         this.totalrow = totalrow;
     }
     
-    public abstract void printResult(PrintWriter printWriter);
+//    public abstract void printResult(PrintWriter printWriter);
 }

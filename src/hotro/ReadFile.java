@@ -30,7 +30,7 @@ import java.util.List;
  */
 public class ReadFile {
 
-    private final int MAX_ROW = 200;
+    private final int MAX_ROW = 2000;
     private XSSFWorkbook wb;
     public DSChiSo[] list;
     public int totalRow;

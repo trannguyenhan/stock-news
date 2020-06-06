@@ -12,7 +12,7 @@ import java.io.PrintWriter;
  *
  * @author admin
  */
-public abstract class NhomChung3 {
+public abstract class NhomChung3 implements NhomChung{
     protected ReadFile rfVNINDEX;
     protected ReadFile rfUPCOMINDEX;
     protected ReadFile rfHNXINDEX;
@@ -23,5 +23,5 @@ public abstract class NhomChung3 {
         this.rfHNXINDEX = rfHNXINDEX;
     }
     
-    public abstract void printResult(PrintWriter printWriter);
+//    public abstract void printResult(PrintWriter printWriter);
 }

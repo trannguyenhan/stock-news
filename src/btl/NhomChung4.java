@@ -14,9 +14,9 @@ import java.io.PrintWriter;
  *
  * @author admin
  */
-public abstract class NhomChung4 {
-    ReadFileStockCode rfStockCode;
-    DSChiSoStockCode dsStockCode;
+public abstract class NhomChung4 implements NhomChung{
+    protected ReadFileStockCode rfStockCode;
+    protected DSChiSoStockCode dsStockCode;
     
     public NhomChung4(ReadFileStockCode rfStockCode) {
         this.rfStockCode = rfStockCode;
@@ -27,5 +27,5 @@ public abstract class NhomChung4 {
         this.dsStockCode = dsStockCode;
     }
     
-    public abstract void printResult(PrintWriter printWriter) throws FileNotFoundException;
+//    public abstract void printResult(PrintWriter printWriter) throws FileNotFoundException;
 }

@@ -3,7 +3,7 @@ import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
 public class CmdCall {
-    public void Call(){
+    public void call(){
         try{
 
             String command = "E:\\[JAVA]NetBeans\\BTL\\src\\crawlerdatawebsite\\stock_news_crawler.py";

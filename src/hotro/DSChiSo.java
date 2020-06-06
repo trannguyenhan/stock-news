@@ -13,16 +13,16 @@ import java.util.List;
  * @author admin
  */
 public class DSChiSo {
-    protected String date;
-    protected String finalPrice;
-    protected String change;
-    protected String KL_auction;
-    protected String GT_auction;
-    protected String KL_deal;
-    protected String GT_deal;
-    protected String openPrice;
-    protected String maxPrice;
-    protected String minPrice;
+    private String date;
+    private String finalPrice;
+    private String change;
+    private String KL_auction;
+    private String GT_auction;
+    private String KL_deal;
+    private String GT_deal;
+    private String openPrice;
+    private String maxPrice;
+    private String minPrice;
     private String stock;
     private String value;
     private List<String> stock_name = new ArrayList<>();

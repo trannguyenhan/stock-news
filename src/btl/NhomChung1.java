@@ -13,7 +13,7 @@ import java.io.PrintWriter;
  *
  * @author admin
  */
-public abstract class NhomChung1 {
+public abstract class NhomChung1 implements NhomChung{
     protected DSChiSo csVNINDEX;
     protected DSChiSo csUPCOMINDEX;
     protected DSChiSo csHNXINDEX;
@@ -39,5 +39,6 @@ public abstract class NhomChung1 {
         this.csHNXINDEX = chiso3;
     }
     
-    public abstract void printResult(PrintWriter printWriter) throws FileNotFoundException;
+//    @Override
+//    public abstract void printResult(PrintWriter printWriter) throws FileNotFoundException;
 }

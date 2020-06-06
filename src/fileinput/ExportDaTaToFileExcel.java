@@ -24,11 +24,11 @@ import org.apache.poi.xssf.usermodel.XSSFWorkbook;
  * @author admin
  */
 public class ExportDaTaToFileExcel {
-    CrawlerDaTaVNINDEX crawVNINDEX;
-    CrawlerDaTaUPCOMINDEX crawUPCOMINDEX;
-    CrawlerDaTaHNXINDEX crawHNXINDEX;
+    private CrawlerDaTaVNINDEX crawVNINDEX;
+    private CrawlerDaTaUPCOMINDEX crawUPCOMINDEX;
+    private CrawlerDaTaHNXINDEX crawHNXINDEX;
     
-    XSSFWorkbook wb = new XSSFWorkbook();
+    private XSSFWorkbook wb = new XSSFWorkbook();
     
     public ExportDaTaToFileExcel()
     {
