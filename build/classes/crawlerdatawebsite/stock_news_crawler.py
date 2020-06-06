@@ -18,7 +18,7 @@ class Crawler():
     def __init__(self,url):
         self.url = url
 
-    def get_links(self,pages,start_page_url):
+    def get_links(self,pages,start_page_url):u
         start_pages = 1
         links = []
         while (start_pages <= pages):

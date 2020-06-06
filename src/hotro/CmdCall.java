@@ -6,7 +6,7 @@ public class CmdCall {
     public void call(){
         try{
 
-            String command = "E:\\[JAVA]NetBeans\\BTL\\src\\crawlerdatawebsite\\stock_news_crawler.py";
+            String command = "python3 E:\\[JAVA]NetBeans\\BTL\\src\\crawlerdatawebsite\\stock_news_crawler.py";
 
             Process proc = Runtime.getRuntime().exec(command);
 
@@ -24,7 +24,7 @@ public class CmdCall {
 
         }
         catch (Exception e){
-            System.out.println("Smt wrong here");
+            //System.out.println("Smt wrong here");
             e.printStackTrace();
         }
     }

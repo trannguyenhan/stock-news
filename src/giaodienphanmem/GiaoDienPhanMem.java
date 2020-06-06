@@ -23,6 +23,7 @@ import java.io.UnsupportedEncodingException;
 import static java.lang.System.in;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.concurrent.TimeUnit;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 import javax.swing.JFileChooser;
@@ -296,7 +297,7 @@ public class GiaoDienPhanMem extends javax.swing.JFrame {
             String path1 = null, path2 = null, path3 = null;
             
             // Chon file stock
-             x = fileChooser.showDialog(this, "Chon file stock");
+             x = fileChooser.showDialog(this, "Chọn File STOCK");
             if(x == JFileChooser.APPROVE_OPTION)
             {
                 File f = fileChooser.getSelectedFile();
@@ -305,7 +306,7 @@ public class GiaoDienPhanMem extends javax.swing.JFrame {
             }
             
             // Chon file hose
-            x = fileChooser.showDialog(this, "Chon file hose");
+            x = fileChooser.showDialog(this, "Chọn File HOSE");
             if(x == JFileChooser.APPROVE_OPTION)
             {
                 File f = fileChooser.getSelectedFile();
@@ -314,7 +315,7 @@ public class GiaoDienPhanMem extends javax.swing.JFrame {
             }
             
             // Chon file hose
-            x = fileChooser.showDialog(this, "Chon file top10");
+            x = fileChooser.showDialog(this, "Chọn File TOP10");
             if(x == JFileChooser.APPROVE_OPTION)
             {
                 File f = fileChooser.getSelectedFile();
@@ -346,8 +347,8 @@ public class GiaoDienPhanMem extends javax.swing.JFrame {
         } catch (UnsupportedEncodingException ex) {
             Logger.getLogger(GiaoDienPhanMem.class.getName()).log(Level.SEVERE, null, ex);
         }
-        BufferedReader br = new BufferedReader(reader);
         
+        BufferedReader br = new BufferedReader(reader);
         jTextArea.setText(null);
         String str;
         try {
@@ -360,13 +361,14 @@ public class GiaoDienPhanMem extends javax.swing.JFrame {
         }
         
         
-        // Ket thuc
-        JOptionPane.showMessageDialog(rootPane, "Đã in thông tin chứng khoán");
+        // Ket thuc va in ra thong bao
+        JOptionPane.showMessageDialog(rootPane, "Đã in thông tin chứng khoán!");
         
     }//GEN-LAST:event_inTTCKButtonActionPerformed
 
     private void layDuLieuWebsiteButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_layDuLieuWebsiteButtonActionPerformed
         // TODO add your handling code here:
+        
         ExportDaTaToFileExcel export = new ExportDaTaToFileExcel();
         ExportStockDaTaToFileExcel exportStock = new ExportStockDaTaToFileExcel();
         try {
@@ -380,11 +382,8 @@ public class GiaoDienPhanMem extends javax.swing.JFrame {
         } catch (IOException ex) {
             Logger.getLogger(GiaoDienPhanMem.class.getName()).log(Level.SEVERE, null, ex);
         }
-
+        
         JOptionPane.showMessageDialog(rootPane, "Đã lấy dữ liệu từ CAFEF!");
-//        cmdCall pythonCall = new cmdCall();
-//        pythonCall.pythonCall();
-//        JOptionPane.showMessageDialog(rootPane, "Đã lấy xong thông tin trên  website ");
     }//GEN-LAST:event_layDuLieuWebsiteButtonActionPerformed
 
     private void jMenuItem3ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jMenuItem3ActionPerformed
@@ -412,8 +411,9 @@ public class GiaoDienPhanMem extends javax.swing.JFrame {
 
     private void laybaoButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_laybaoButtonActionPerformed
         // TODO add your handling code here:
-        CmdCall call = new CmdCall();
-        call.call();
+        CmdCall c = new CmdCall();
+        c.call();
+        JOptionPane.showMessageDialog(rootPane, "Đã lấy dữ liệu từ những bài báo chứng khoán!");
     }//GEN-LAST:event_laybaoButtonActionPerformed
 
     /**
