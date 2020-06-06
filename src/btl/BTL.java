@@ -8,7 +8,9 @@ package btl;
 import hotro.*;
 import java.io.FileNotFoundException;
 import java.io.IOException;
+import java.io.OutputStreamWriter;
 import java.io.PrintWriter;
+import java.nio.charset.StandardCharsets;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -45,6 +47,7 @@ public class BTL {
         topDec.readShortFileExcel(valueString2,1);
         topKLGD.readShortFileExcel(valueString2,2);
         stock.readColumnsExcel(valueString3);
+        stock.readFileExcel(valueString3);
         
         rfVNINDEX.readFileExcel(valueString1,0);
         rfUPCOMINDEX.readFileExcel(valueString1,1);
@@ -53,8 +56,8 @@ public class BTL {
     
     public void writeFileTxt() throws IOException {    
         // File dau ra 
-        PrintWriter printWriter = new PrintWriter("ketqua.txt");
-        
+        PrintWriter printWriter = new PrintWriter("ketqua.txt","utf8");
+        //PrintWriter printWriter = new PrintWriter( new OutputStreamWriter( "ketqua.txt", StandardCharsets.UTF_8 ) );
         // Nhom 5-0
         for(int i=0; i<rfVNINDEX.totalRow; i++)
         {
@@ -177,30 +180,5 @@ public class BTL {
         printWriter.close();
         
     }
-    
-    public List<String> layDuLieuNgayGanNhatVNINDEX()
-    {
-        List<String> str = new ArrayList<>();
-        String temp;
-        
-        // Lay ngay
-        temp = rfVNINDEX.list[0].getDate();
-        str.add(temp);
-        
-        // Lay diem ket thuc
-        temp = rfVNINDEX.list[0].getFinalPrice();
-        str.add(temp);
-        
-        // Lay do thay doi 
-        temp = rfVNINDEX.list[0].getChange();
-        str.add(temp);
-        
-        //Lay gia tri Giao Dich
-        temp = rfVNINDEX.list[0].getGT_deal();
-        DoiCachDoc doi = new DoiCachDoc();
-        temp = doi.doiCachDoc(temp);
-        str.add(temp);
-        
-        return str;
-    }
+
 }

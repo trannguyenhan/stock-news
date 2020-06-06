@@ -13,9 +13,13 @@ import java.awt.event.WindowAdapter;
 import java.awt.event.WindowEvent;
 import java.io.BufferedReader;
 import java.io.File;
+import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
+import java.io.InputStreamReader;
+import java.io.Reader;
+import java.io.UnsupportedEncodingException;
 import static java.lang.System.in;
 import java.util.ArrayList;
 import java.util.List;
@@ -282,37 +286,67 @@ public class GiaoDienPhanMem extends javax.swing.JFrame {
 
     private void inTTCKButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_inTTCKButtonActionPerformed
         // TODO add your handling code here:
-        /*
-        BTL baitaplon = new BTL();
-        try {
-            baitaplon.BaiTapLon(pathStock);
-        } catch (IOException ex) {
-            Logger.getLogger(GiaoDienPhanMem.class.getName()).log(Level.SEVERE, null, ex);
-        }
-        JOptionPane.showMessageDialog(rootPane, "Đã in thông tin chứng khoán");
-        */
+        // Chọn duong dan : 
+            JFileChooser fileChooser = new JFileChooser();
+            FileNameExtensionFilter excelFilter = new FileNameExtensionFilter("Excel", "xlsx");
+            fileChooser.setFileFilter(excelFilter);
+            fileChooser.setMultiSelectionEnabled(false);
+            
+            int x;
+            String path1 = null, path2 = null, path3 = null;
+            
+            // Chon file stock
+             x = fileChooser.showDialog(this, "Chon file stock");
+            if(x == JFileChooser.APPROVE_OPTION)
+            {
+                File f = fileChooser.getSelectedFile();
+                //textLabel.setText(f.getAbsolutePath());
+                path1 = f.getAbsolutePath();
+            }
+            
+            // Chon file hose
+            x = fileChooser.showDialog(this, "Chon file hose");
+            if(x == JFileChooser.APPROVE_OPTION)
+            {
+                File f = fileChooser.getSelectedFile();
+                //textLabel.setText(f.getAbsolutePath());
+                path2 = f.getAbsolutePath();
+            }
+            
+            // Chon file hose
+            x = fileChooser.showDialog(this, "Chon file top10");
+            if(x == JFileChooser.APPROVE_OPTION)
+            {
+                File f = fileChooser.getSelectedFile();
+                //textLabel.setText(f.getAbsolutePath());
+                path3 = f.getAbsolutePath();
+            }
         
         BTL baiTL = null;
-        
         try {
-            baiTL = new BTL();
+            baiTL = new BTL(path1,path3,path2);
         } catch (IOException ex) {
             Logger.getLogger(GiaoDienPhanMem.class.getName()).log(Level.SEVERE, null, ex);
         }
-        
+        //baiTL = new BTL(path1,path3,path2);
         try {
             baiTL.writeFileTxt();
         } catch (IOException ex) {
             Logger.getLogger(GiaoDienPhanMem.class.getName()).log(Level.SEVERE, null, ex);
         }
         
-        FileReader fr = null;
+        // Bat dau in ra textArea
+        FileInputStream fileInPutStream;
+        Reader reader = null;
         try {
-            fr = new FileReader("E:\\[JAVA]NetBeans\\BTL\\ketqua.txt");
+            fileInPutStream = new FileInputStream("E:\\[JAVA]NetBeans\\BTL\\ketqua.txt");
+            reader = new InputStreamReader(fileInPutStream,"utf8");
         } catch (FileNotFoundException ex) {
             Logger.getLogger(GiaoDienPhanMem.class.getName()).log(Level.SEVERE, null, ex);
+        } catch (UnsupportedEncodingException ex) {
+            Logger.getLogger(GiaoDienPhanMem.class.getName()).log(Level.SEVERE, null, ex);
         }
-        BufferedReader br = new BufferedReader(fr);
+        BufferedReader br = new BufferedReader(reader);
         
         jTextArea.setText(null);
         String str;
@@ -325,6 +359,8 @@ public class GiaoDienPhanMem extends javax.swing.JFrame {
             Logger.getLogger(GiaoDienPhanMem.class.getName()).log(Level.SEVERE, null, ex);
         }
         
+        
+        // Ket thuc
         JOptionPane.showMessageDialog(rootPane, "Đã in thông tin chứng khoán");
         
     }//GEN-LAST:event_inTTCKButtonActionPerformed
