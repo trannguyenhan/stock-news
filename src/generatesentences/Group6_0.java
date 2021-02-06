@@ -13,16 +13,16 @@ import model.*;
  *
  * @author Admin
  */
-public class Nhom6_0 extends NhomChung3{
+public class Group6_0 extends GeneralGroup3{
     
-    public Nhom6_0(ReadFile rfVNINDEX, ReadFile fUPCOMINDEX, ReadFile rfHNXINDEX) {
+    public Group6_0(ReadFile rfVNINDEX, ReadFile fUPCOMINDEX, ReadFile rfHNXINDEX) {
         super(rfVNINDEX, rfHNXINDEX, rfHNXINDEX);
     }
     
     @Override
     public void printResult(PrintWriter printWriter) {
         int i;
-        RandomClass rand = new RandomClass();
+        RandomSentence rand = new RandomSentence();
         for (i = 0; i < this.rfVNINDEX.totalRow; i++) {         
             printWriter.print(rand.getRandomString1());
             printWriter.print(" " + this.rfVNINDEX.list[i].getDate() + ", VN-Index ");

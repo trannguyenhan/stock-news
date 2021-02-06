@@ -3,9 +3,9 @@ import java.io.PrintWriter;
 
 import model.*;
 
-public class Nhom7_1 extends NhomChung1 {
+public class Group7_1 extends GeneralGroup1 {
 
-    public Nhom7_1(DayTrading maTang, DayTrading maGiam, DayTrading klGD) {
+    public Group7_1(DayTrading maTang, DayTrading maGiam, DayTrading klGD) {
         super(maTang, maGiam, klGD, "Hoang");
     }
     

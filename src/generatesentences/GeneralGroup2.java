@@ -13,13 +13,13 @@ import model.DayTrading;
  *
  * @author admin
  */
-public abstract class NhomChung2 implements NhomChung{
+public abstract class GeneralGroup2 implements GeneralGroup{
     protected DayTrading[] dsVNINDEX;
     protected DayTrading[] dsUPCOMINDEX;
     protected DayTrading[] dsHNXINDEX;
     public int totalrow;
     
-    public NhomChung2(DayTrading[] dsVNINDEX, DayTrading[] dsUPCOMINDEX, DayTrading[] dsHNXINDEX, int totalrow)
+    public GeneralGroup2(DayTrading[] dsVNINDEX, DayTrading[] dsUPCOMINDEX, DayTrading[] dsHNXINDEX, int totalrow)
     {
         this.dsVNINDEX = dsVNINDEX;
         this.dsUPCOMINDEX = dsUPCOMINDEX;

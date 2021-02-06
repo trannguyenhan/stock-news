@@ -13,12 +13,12 @@ import model.ReadFile;
  *
  * @author admin
  */
-public abstract class NhomChung3 implements NhomChung{
+public abstract class GeneralGroup3 implements GeneralGroup{
     protected ReadFile rfVNINDEX;
     protected ReadFile rfUPCOMINDEX;
     protected ReadFile rfHNXINDEX;
     
-    public NhomChung3(ReadFile rfVNINDEX, ReadFile rfUPCOMINDEX, ReadFile rfHNXINDEX) {
+    public GeneralGroup3(ReadFile rfVNINDEX, ReadFile rfUPCOMINDEX, ReadFile rfHNXINDEX) {
         this.rfVNINDEX = rfVNINDEX;
         this.rfUPCOMINDEX = rfUPCOMINDEX;
         this.rfHNXINDEX = rfHNXINDEX;

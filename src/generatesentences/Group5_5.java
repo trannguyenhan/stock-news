@@ -16,16 +16,16 @@ import model.*;
  *
  * @author admin
  */
-public class Nhom5_5 extends NhomChung1{
+public class Group5_5 extends GeneralGroup1{
 
-    public Nhom5_5(DayTrading chiso1, DayTrading chiso2, DayTrading chiso3) {
+    public Group5_5(DayTrading chiso1, DayTrading chiso2, DayTrading chiso3) {
         super(chiso1, chiso2, chiso3);
     }
     
     public void printResult(PrintWriter printWriter)
     {
         Support doi = new Support();
-        RandomClass rand = new RandomClass();
+        RandomSentence rand = new RandomSentence();
         printWriter.print(rand.getRandomString1() + " " + csVNINDEX.getDate() + " ");
         if (csVNINDEX.getChange().charAt(0) == '-')
             printWriter.print("VN-INDEX giảm " + csVNINDEX.getChange() + " xuống còn " + csVNINDEX.getFinalPrice());

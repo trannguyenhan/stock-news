@@ -14,7 +14,7 @@ import model.DayTrading;
  *
  * @author admin
  */
-public abstract class NhomChung1 implements NhomChung{
+public abstract class GeneralGroup1 implements GeneralGroup{
     protected DayTrading csVNINDEX;
     protected DayTrading csUPCOMINDEX;
     protected DayTrading csHNXINDEX;
@@ -23,17 +23,17 @@ public abstract class NhomChung1 implements NhomChung{
     protected DayTrading maGiam;
     protected DayTrading klGD;
     
-    public NhomChung1(DayTrading csChung){
+    public GeneralGroup1(DayTrading csChung){
         this.csChung = csChung;
     }
     
-    public NhomChung1(DayTrading maTang,DayTrading maGiam, DayTrading klGD, String str){
+    public GeneralGroup1(DayTrading maTang,DayTrading maGiam, DayTrading klGD, String str){
         this.maTang = maTang;
         this.maGiam = maGiam;
         this.klGD = klGD;
     }
     
-    public NhomChung1(DayTrading chiso1, DayTrading chiso2, DayTrading chiso3)
+    public GeneralGroup1(DayTrading chiso1, DayTrading chiso2, DayTrading chiso3)
     {
         this.csVNINDEX = chiso1;
         this.csUPCOMINDEX = chiso2;

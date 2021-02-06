@@ -13,15 +13,15 @@ import model.*;
  *
  * @author Admin
  */
-public class Nhom5_29 extends NhomChung1{
+public class Group5_29 extends GeneralGroup1{
     
-    public Nhom5_29(DayTrading csVNINDEX, DayTrading csUPCOMINDEX, DayTrading csHNXINDEX) {
+    public Group5_29(DayTrading csVNINDEX, DayTrading csUPCOMINDEX, DayTrading csHNXINDEX) {
 	super(csVNINDEX, csUPCOMINDEX, csHNXINDEX);
     }
   
   
     public void printResult(PrintWriter printWriter) {
-        RandomClass rand = new RandomClass();
+        RandomSentence rand = new RandomSentence();
         
         printWriter.print(rand.getRandomString1());
 	printWriter.print("hôm qua, VN-Index đã ");

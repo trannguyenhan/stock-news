@@ -13,15 +13,15 @@ import model.*;
  *
  * @author Admin
  */
-public class Nhom6_1 extends NhomChung3{
+public class Group6_1 extends GeneralGroup3{
     
-    public Nhom6_1(ReadFile rfVNINDEX, ReadFile rfUPCOMINDEX, ReadFile rfHNXINDEX) {
+    public Group6_1(ReadFile rfVNINDEX, ReadFile rfUPCOMINDEX, ReadFile rfHNXINDEX) {
         super(rfVNINDEX, rfUPCOMINDEX, rfHNXINDEX);
     }
     
     public void printResult(PrintWriter printWriter) {
         int i;
-        RandomClass rand = new RandomClass();
+        RandomSentence rand = new RandomSentence();
         
         for (i = 0; i < this.rfVNINDEX.totalRow; i++) {
             printWriter.print(rand.getRandomString1());

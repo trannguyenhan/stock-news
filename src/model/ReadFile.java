@@ -41,7 +41,7 @@ public class ReadFile {
         totalRow = 0;
     }
     
-    public String getCellValue(XSSFCell cell)
+    private String getCellValue(XSSFCell cell)
     {
         String stringTemp;
         switch(cell.getCellType())
@@ -59,7 +59,7 @@ public class ReadFile {
         return stringTemp;
     }
     
-    public void readFileExcel(String path, int sheetInput) throws IOException 
+    public void read(String path, int sheetInput) throws IOException 
     {
         XSSFWorkbook wb = new XSSFWorkbook(path);
         XSSFSheet sh = wb.getSheetAt(sheetInput); // Lay sheet dau tien
@@ -112,60 +112,5 @@ public class ReadFile {
             row = sh.getRow(totalRow+1);
             
         }
-        
-        return;
     }   
-    
-    //phương thức mới
-    
-    public void readShortFileExcel(String path, int sheetInput) throws IOException
-    {
-        XSSFWorkbook wb = new XSSFWorkbook(path);
-        XSSFSheet sh = wb.getSheetAt(sheetInput); // Lay sheet dau tien
-
-        XSSFRow row = sh.getRow(1);
-        XSSFCell cell;
-        List<String> list_name = new ArrayList<>();
-        List<String> list_weight = new ArrayList<>();
-        List<String> list_price = new ArrayList<>();
-        List<String> list_company = new ArrayList<>();
-        List<String> list_change = new ArrayList<>();
-
-        while(row != null )
-        {
-            cell = row.getCell(0);
-            if(cell == null) break;
-            String value0 = getCellValue(cell);
-            list_name.add(value0);
-            //System.out.println(value0);
-            
-            cell = row.getCell(1);
-            String value1 = getCellValue(cell);
-            list_company.add(value1);
-            //System.out.println(value1);
-            
-            cell = row.getCell(2);
-            String value2 = getCellValue(cell);
-            list_price.add(value2);
-            
-            cell =  row.getCell(4);
-            String value4  = getCellValue(cell);
-            list_change.add(value4);
-
-            cell = row.getCell(5);
-            String value5 =  getCellValue(cell);
-            list_weight.add(value5);
-
-            totalRow++;
-
-            row = sh.getRow(totalRow+1);
-            
-        }
-        list[0] = new DayTrading(list_name,list_company,list_price,list_change,list_weight);
-        
-
-
-        return;
-    }
-
 }

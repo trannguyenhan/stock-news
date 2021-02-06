@@ -5,9 +5,7 @@
  */
 package model;
 
-import static com.sun.tools.attach.VirtualMachine.list;
 import java.util.ArrayList;
-import static java.util.Collections.list;
 import java.util.List;
 import java.util.Random;
 
@@ -15,12 +13,12 @@ import java.util.Random;
  *
  * @author admin
  */
-public class RandomClass {
+public class RandomSentence {
     
     private List<String> list1;
     private List<String> list2;
     
-    public RandomClass()
+    public RandomSentence()
     {
         list1 = new ArrayList<>();
         list1.add("Tại thời điểm");
@@ -43,7 +41,7 @@ public class RandomClass {
     
     public String getRandomString2()
     {
-        Random rand = new Random();
+    	Random rand = new Random();
         return list2.get(rand.nextInt(list2.size()));
     }
     

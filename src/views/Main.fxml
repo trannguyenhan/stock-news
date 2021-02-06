@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="175.0" prefWidth="394.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="views.MainController">
+   <children>
+      <Label layoutX="109.0" layoutY="23.0" prefHeight="38.0" prefWidth="177.0" text="Stock News">
+         <font>
+            <Font size="30.0" />
+         </font>
+      </Label>
+      <Button fx:id="bCraw" layoutX="30.0" layoutY="96.0" mnemonicParsing="false" onAction="#bCraw" prefHeight="43.0" prefWidth="122.0" text="Craw Data" />
+      <Button fx:id="bStock" layoutX="247.0" layoutY="96.0" mnemonicParsing="false" onAction="#bStock" prefHeight="43.0" prefWidth="122.0" text="Stock Info" />
+   </children>
+</AnchorPane>

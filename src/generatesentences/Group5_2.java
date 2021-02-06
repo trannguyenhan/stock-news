@@ -13,9 +13,9 @@ import model.*;
  *
  * @author admin
  */
-public class Nhom5_2 extends NhomChung1{
+public class Group5_2 extends GeneralGroup1{
     
-    public Nhom5_2(DayTrading chiso1, DayTrading chiso2, DayTrading chiso3)
+    public Group5_2(DayTrading chiso1, DayTrading chiso2, DayTrading chiso3)
     {
         super(chiso1, chiso2, chiso3);
     }

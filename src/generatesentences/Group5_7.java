@@ -13,9 +13,9 @@ import model.*;
  *
  * @author admin
  */
-public class Nhom5_7 extends NhomChung2{
+public class Group5_7 extends GeneralGroup2{
 
-    public Nhom5_7(DayTrading[] dsVNINDEX, DayTrading[] dsUPCOMINDEX, DayTrading[] dsHNXINDEX, int totalrow) {
+    public Group5_7(DayTrading[] dsVNINDEX, DayTrading[] dsUPCOMINDEX, DayTrading[] dsHNXINDEX, int totalrow) {
         super(dsVNINDEX, dsUPCOMINDEX, dsHNXINDEX, totalrow);
     }
 

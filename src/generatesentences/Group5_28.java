@@ -13,15 +13,15 @@ import model.*;
  *
  * @author Admin
  */
-public class Nhom5_28 extends NhomChung1{
+public class Group5_28 extends GeneralGroup1{
     
-    public Nhom5_28(DayTrading csVNINDEX, DayTrading csUPCOMINDEX, DayTrading csHNXINDEX) {
+    public Group5_28(DayTrading csVNINDEX, DayTrading csUPCOMINDEX, DayTrading csHNXINDEX) {
 	super(csVNINDEX, csUPCOMINDEX, csHNXINDEX);
     }
 
     @Override
     public void printResult(PrintWriter printWriter) {
-        RandomClass rand = new RandomClass();
+        RandomSentence rand = new RandomSentence();
         printWriter.print(rand.getRandomString1());
 	printWriter.print("hôm nay, VN-Index chốt tại " + this.csVNINDEX.getFinalPrice() + " điểm (");
         printWriter.print((this.csVNINDEX.checkChange() ? "+" : "") + this.csVNINDEX.getChangePc() + "%)");

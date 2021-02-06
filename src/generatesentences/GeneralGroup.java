@@ -12,6 +12,6 @@ import java.io.PrintWriter;
  *
  * @author admin
  */
-public interface NhomChung {
+public interface GeneralGroup {
     public void printResult(PrintWriter printWriter) throws FileNotFoundException;;
 }
